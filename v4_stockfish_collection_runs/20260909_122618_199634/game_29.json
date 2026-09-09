@@ -1,0 +1,21 @@
+{
+  "game_id": 29,
+  "pair_group": 14,
+  "skill": 6,
+  "v4_white": true,
+  "opening": "English",
+  "opening_moves": [
+    "c4",
+    "c5",
+    "Nc3",
+    "Nc6",
+    "Nf3",
+    "Nf6"
+  ],
+  "result": "*",
+  "reason": "interrupted",
+  "error": "KeyboardInterrupt()",
+  "moves": [],
+  "final_fen": "r1bqkb1r/pp1ppppp/2n2n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4",
+  "teacher_labels": false
+}

@@ -1,0 +1,126 @@
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1006: FutureWarning: `torch.jit.trace` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1145: FutureWarning: `torch.jit.trace_method` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_freeze.py:106: FutureWarning: `torch.jit.freeze` is deprecated. Please use `torch.compile` instead.
+  warnings.warn(
+局23 v4 Nxd4 5.01s
+局23 Stockfish_skill_3 Bb4+ 1.01s
+局23 v4 c3 2.53s
+局23 Stockfish_skill_3 Be7 1.00s
+局23 v4 Nxc6 5.00s
+局23 Stockfish_skill_3 bxc6 1.00s
+局23 v4 Bc4 5.00s
+局23 Stockfish_skill_3 Nf6 1.00s
+局23 v4 Qb3 5.01s
+局23 Stockfish_skill_3 d5 1.00s
+局23 v4 exd5 5.00s
+局23 Stockfish_skill_3 O-O 1.00s
+局23 v4 dxc6 5.00s
+局23 Stockfish_skill_3 Ng4 1.00s
+局23 v4 Bf4 5.00s
+局23 Stockfish_skill_3 Bc5 1.00s
+局23 v4 Bg3 5.00s
+局23 Stockfish_skill_3 Re8+ 1.00s
+局23 v4 Kf1 5.00s
+局23 Stockfish_skill_3 Nxf2 1.00s
+局23 v4 Bxf2 5.00s
+局23 Stockfish_skill_3 Qf6 1.00s
+局23 v4 Bxf7+ 5.00s
+局23 Stockfish_skill_3 Kh8 1.00s
+局23 v4 Qc2 5.00s
+局23 Stockfish_skill_3 Bf5 1.00s
+局23 v4 Qd2 5.00s
+局23 Stockfish_skill_3 Qxf7 1.00s
+局23 v4 Kg1 5.00s
+局23 Stockfish_skill_3 Bd6 1.00s
+局23 v4 Na3 5.00s
+局23 Stockfish_skill_3 Bg4 1.00s
+局23 v4 Qd4 5.00s
+局23 Stockfish_skill_3 Be2 1.00s
+局23 v4 Bg3 5.00s
+局23 Stockfish_skill_3 Rad8 1.00s
+局23 v4 Bxd6 5.00s
+局23 Stockfish_skill_3 Rxd6 1.00s
+局23 v4 Qxa7 5.00s
+局23 Stockfish_skill_3 Bd1 1.00s
+局23 v4 Qf2 4.63s
+局23 Stockfish_skill_3 Rf6 1.00s
+局23 v4 Qxf6 1.82s
+局23 Stockfish_skill_3 Re1+ 1.00s
+局23 v4 Kf2 0.74s
+局23 Stockfish_skill_3 Re2+ 1.00s
+局23 v4 Kg3 1.39s
+局23 Stockfish_skill_3 Qxf6 1.00s
+局23 v4 Rhxd1 4.55s
+局23 Stockfish_skill_3 Qf2+ 0.39s
+局23 v4 Kh3 1.62s
+局23 Stockfish_skill_3 Qxg2+ 1.00s
+局23 v4 Kh4 0.69s
+局23 Stockfish_skill_3 Re4+ 0.28s
+局23 v4 Kh5 0.98s
+局23 Stockfish_skill_3 g6+ 0.01s
+局23 v4 Kh6 0.81s
+局23 Stockfish_skill_3 Rh4# 0.14s
+局23结束 0-1 CHECKMATE
+局24 Stockfish_skill_3 Nxd4 1.01s
+局24 v4 Qh4 5.01s
+局24 Stockfish_skill_3 Nc3 1.00s
+局24 v4 Bb4 5.00s
+局24 Stockfish_skill_3 Be3 1.00s
+局24 v4 Qxe4 5.00s
+局24 Stockfish_skill_3 Be2 1.00s
+局24 v4 Qxg2 5.00s
+局24 Stockfish_skill_3 Bf3 1.00s
+Traceback (most recent call last):
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 245, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 165, in main
+    if a.job is not None:worker(a);return
+                         ~~~~~~^^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 113, in worker
+    move,_,stats=search.choose(board,preferred)
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 13, in choose
+    result=super().choose(board,preferred)
+  File "C:\Users\maxw\chess_ai\neural_search_v2.py", line 29, in choose
+    return super().choose(board,preferred)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\search_engine.py", line 160, in choose
+    score = -self.negamax(board, depth - 1, -float('inf'), -alpha, 1)
+             ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 47, in negamax
+    try:score=-self.negamax(board,depth-1,-beta,-alpha,ply+1)
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 47, in negamax
+    try:score=-self.negamax(board,depth-1,-beta,-alpha,ply+1)
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 47, in negamax
+    try:score=-self.negamax(board,depth-1,-beta,-alpha,ply+1)
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 38, in negamax
+    return self.quiesce(board,alpha,beta,self.qdepth,ply)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v2.py", line 56, in quiesce
+    return super().quiesce(board,alpha,beta,remaining,ply)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\search_engine.py", line 81, in quiesce
+    best = max(floor, self.static(board))
+                      ~~~~~~~~~~~^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_fast.py", line 72, in static
+    v=float(self.evaluator(b))
+            ~~~~~~~~~~~~~~^^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 27, in __call__
+    value=self.base(board)
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\utils\_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\maxw\chess_ai\neural_fast.py", line 61, in __call__
+    value,_=self.model(x,m)
+            ~~~~~~~~~~^^^^^
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+KeyboardInterrupt

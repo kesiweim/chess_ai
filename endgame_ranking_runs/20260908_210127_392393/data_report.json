@@ -1,0 +1,17 @@
+{
+  "train_parents": 1200,
+  "val_parents": 200,
+  "replay": 20000,
+  "oldval": 4967,
+  "base_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "base": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+  "epochs": 5,
+  "lr": 1e-05,
+  "frozen": "features",
+  "loss": "0.5*pairwise logit hinge + 1.0*old-logit distillation",
+  "margin": "0.04*min(extra DTM halfplies,8); 0.5 for draw-vs-win",
+  "data_hashes": {
+    "train": "ed154db2d5678d93978f6c057a3eefdf783ac59a74eb74e3faacc36fe0de53ec",
+    "val": "bccdb5d90dee47574984154e2576a8362d0a751d62b5343b24c0f8050098dd73"
+  }
+}

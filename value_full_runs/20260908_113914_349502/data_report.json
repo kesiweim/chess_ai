@@ -1,0 +1,60 @@
+{
+  "snapshot_total": 218908,
+  "train": {
+    "count": 198961,
+    "mean_value": 0.42502028779263723,
+    "negative": 41783,
+    "near_zero": 23928,
+    "positive": 133250,
+    "mate": 14921
+  },
+  "val": {
+    "count": 19947,
+    "mean_value": 0.4441125946762768,
+    "negative": 4029,
+    "near_zero": 2364,
+    "positive": 13554,
+    "mate": 1571
+  },
+  "removed_new_val_overlap": 0,
+  "old_train": 49997,
+  "old_val": 4966,
+  "label_config": {
+    "completed": 218908,
+    "total": 218908,
+    "complete": true,
+    "split_counts": {
+      "train": 198961,
+      "val": 19947
+    },
+    "new_this_run": 94687,
+    "seconds_this_run": 2080.124134599988,
+    "seconds_per_new": 0.021968423697022694,
+    "mate_labels": 16492,
+    "terminal_labels": 0,
+    "mean_value": 0.42675998778263713,
+    "remaining_hours_estimate": 0.0
+  },
+  "base": "C:\\Users\\maxw\\chess_ai\\chess_model_ranked_epoch4.pt",
+  "base_sha256": "e0834093a2f661cedea358963a2b350deab57dd6de962f7ab41bc18371ff0c11",
+  "epochs": 3,
+  "lr": 1e-05,
+  "batch_new": 128,
+  "batch_old": 32,
+  "source_labels": "C:\\Users\\maxw\\chess_ai\\value_expansion_labels",
+  "source_hashes": {
+    "expanded_value_train.jsonl": "aecab10df7e2579287462f309bc86dd0133c841248a881ffbabb1c5ab1699c17",
+    "expanded_value_val.jsonl": "b960ad0cc64bd9b1d8ba353fa2d77b8e6189dc4eeb67197ee0ab29dd58d6285b",
+    "label_report.json": "41932069050caea948f65080c12d37a903555f05208e37ad1d847b93c6a6d8fa"
+  },
+  "raw_weights": {
+    "negative": 1.5,
+    "near_zero": 1.5,
+    "positive": 1.0
+  },
+  "weight_normalizer": 1.1651353782902176,
+  "old_loss_coefficient": 1.0,
+  "scope": "全量标注训练；新验证检查分布内评价，旧验证检查遗忘，不是独立棋力认证。",
+  "cache_device_requested": "cuda",
+  "precision": "float32"
+}

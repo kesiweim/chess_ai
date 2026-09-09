@@ -1,0 +1,15 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "neural"]
+[Black "material"]
+[Result "*"]
+[Termination "user_interrupted"]
+[OpeningLabel "开放开局"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. e4 e5 2. Nf3 Nc6 3. c4 Nf6 4. Nc3 *

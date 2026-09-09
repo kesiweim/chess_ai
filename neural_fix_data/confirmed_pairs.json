@@ -1,0 +1,5204 @@
+[
+  {
+    "accepted": true,
+    "game": 1,
+    "fullmove": 3,
+    "parent_position": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "gaps": [
+      0.1991957128319825,
+      0.1331125920120993,
+      0.1331125920120993
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3",
+        "move": "f1b5",
+        "value": -0.05328282290096793,
+        "cp": -16,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000236
+      },
+      {
+        "position": "r1bqkbnr/pppp1ppp/2n5/4p3/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3",
+        "move": "c2c4",
+        "value": 0.07982976911113136,
+        "cp": 24,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000398
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 1,
+    "fullmove": 6,
+    "parent_position": "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2P1P3/2NB1N2/PP1P1PPP/R1BQK2R w KQkq - 0 6",
+    "gaps": [
+      0.6707705089574802,
+      0.7083337492950234,
+      0.7083337492950234
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2P1P3/2N2N2/PP1PBPPP/R1BQK2R b KQkq - 1 6",
+        "move": "d3e2",
+        "value": 0.0897577847471601,
+        "cp": 27,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000074
+      },
+      {
+        "position": "r1bqk2r/ppp2ppp/2np1n2/2b1p1N1/2P1P3/2NB4/PP1P1PPP/R1BQK2R b KQkq - 1 6",
+        "move": "f3g5",
+        "value": 0.7980915340421835,
+        "cp": 328,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000046
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 1,
+    "fullmove": 12,
+    "parent_position": "r1b1k2r/ppp1qpp1/2np1n2/1N2p2p/2P1P3/7P/PP1PB1P1/R1BQ2KR w kq - 1 12",
+    "gaps": [
+      0.36978501037071837,
+      0.3446198740574472,
+      0.3446198740574472
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1k2r/ppp1qpp1/2np1n2/1N2p2p/2P1P3/3P3P/PP2B1P1/R1BQ2KR b kq - 0 12",
+        "move": "d2d3",
+        "value": 0.3304500007811606,
+        "cp": 103,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000442
+      },
+      {
+        "position": "r1b1k2r/ppp1qpp1/2np1n2/1N2p2p/2P1P3/7P/PPQPB1P1/R1B3KR b kq - 2 12",
+        "move": "d1c2",
+        "value": 0.6750698748386078,
+        "cp": 246,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000490
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 1,
+    "fullmove": 13,
+    "parent_position": "r1b1k2r/1pp1qpp1/p1np1n2/1N2p2p/2P1P3/7P/PPQPB1P1/R1B3KR w kq - 0 13",
+    "gaps": [
+      0.23084423011236865,
+      0.25916969828371683,
+      0.25916969828371683
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1k2r/1pp1qpp1/p1np1n2/4p2p/2P1P3/2N4P/PPQPB1P1/R1B3KR b kq - 1 13",
+        "move": "b5c3",
+        "value": 0.6546157918341109,
+        "cp": 235,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000331
+      },
+      {
+        "position": "r1b1k2r/1pp1qpp1/p1np1n2/4p2p/2P1P3/N6P/PPQPB1P1/R1B3KR b kq - 1 13",
+        "move": "b5a3",
+        "value": 0.9137854901178277,
+        "cp": 465,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000499
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 1,
+    "fullmove": 14,
+    "parent_position": "r3k2r/1ppbqpp1/p1np1n2/4p2p/2P1P3/N6P/PPQPB1P1/R1B3KR w kq - 2 14",
+    "gaps": [
+      0.14856802128767843,
+      0.1607264981398424,
+      0.1607264981398424
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r3k2r/1ppbqpp1/p1np1n2/4p2p/2P1P3/N2P3P/PPQ1B1P1/R1B3KR b kq - 0 14",
+        "move": "d2d3",
+        "value": 0.7643798000958608,
+        "cp": 302,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000102
+      },
+      {
+        "position": "r3k2r/1ppbqpp1/p1np1n2/4p2p/2P1P3/N4B1P/PPQP2P1/R1B3KR b kq - 3 14",
+        "move": "e2f3",
+        "value": 0.9251062982357032,
+        "cp": 487,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000037
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 3,
+    "parent_position": "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3",
+    "gaps": [
+      0.2993497138443864,
+      0.304840509238509,
+      0.304840509238509
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+        "move": "g8f6",
+        "value": 0.0433062302338004,
+        "cp": 13,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000096
+      },
+      {
+        "position": "r1b1kbnr/ppppqppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+        "move": "d8e7",
+        "value": 0.34814673947230945,
+        "cp": 109,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000345
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 4,
+    "parent_position": "r1b1kbnr/ppppqppp/2n5/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4",
+    "gaps": [
+      0.3804262996155977,
+      0.4527597039580754,
+      0.4527597039580754
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kbnr/ppppqppp/8/n3p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5",
+        "move": "c6a5",
+        "value": 0.19416974648369123,
+        "cp": 59,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000403
+      },
+      {
+        "position": "r1b1kb1r/ppppqppp/2n4n/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5",
+        "move": "g8h6",
+        "value": 0.6469294504417666,
+        "cp": 231,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000023
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 5,
+    "parent_position": "r1b1kb1r/ppppqppp/2n4n/4p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 2 5",
+    "gaps": [
+      0.2786272735171863,
+      0.22612034093173594,
+      0.22612034093173594
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb1r/ppppqppp/7n/n3p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 3 6",
+        "move": "c6a5",
+        "value": 0.5871682693574664,
+        "cp": 202,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000130
+      },
+      {
+        "position": "r1b1kb1r/ppppq1pp/2n2p1n/4p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 0 6",
+        "move": "f7f6",
+        "value": 0.8132886102892023,
+        "cp": 341,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000613
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 6,
+    "parent_position": "r1b1kb1r/ppppq1pp/2n2p1n/4p3/2B1P3/3P1N2/PPP2PPP/RNBQR1K1 b kq - 1 6",
+    "gaps": [
+      0.35183956553155654,
+      0.36933771808582094,
+      0.36933771808582094
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb1r/ppppqnpp/2n2p2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQR1K1 w kq - 2 7",
+        "move": "h6f7",
+        "value": 0.5055000508004965,
+        "cp": 167,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000409
+      },
+      {
+        "position": "1rb1kb1r/ppppq1pp/2n2p1n/4p3/2B1P3/3P1N2/PPP2PPP/RNBQR1K1 w k - 2 7",
+        "move": "a8b8",
+        "value": 0.8748377688863175,
+        "cp": 406,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000311
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 7,
+    "parent_position": "1rb1kb1r/ppppq1pp/2n2p1n/4p3/2B1P3/2PP1N2/PP3PPP/RNBQR1K1 b k - 0 7",
+    "gaps": [
+      0.40547087674670945,
+      0.40049444494083436,
+      0.40049444494083436
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1rb1kb1r/ppppqnpp/2n2p2/4p3/2B1P3/2PP1N2/PP3PPP/RNBQR1K1 w k - 1 8",
+        "move": "h6f7",
+        "value": 0.47512324297524994,
+        "cp": 155,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000148
+      },
+      {
+        "position": "1rb1kb1r/p1ppq1pp/1pn2p1n/4p3/2B1P3/2PP1N2/PP3PPP/RNBQR1K1 w k - 0 8",
+        "move": "b7b6",
+        "value": 0.8756176879160843,
+        "cp": 407,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000464
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 8,
+    "parent_position": "1rb1kb1r/p1ppq1pp/1pn2p1n/4p3/2B1P3/2PP1N1P/PP3PP1/RNBQR1K1 b k - 0 8",
+    "gaps": [
+      0.39950334300251666,
+      0.41268141855187457,
+      0.41268141855187457
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1rb1kb1r/p1ppqnpp/1pn2p2/4p3/2B1P3/2PP1N1P/PP3PP1/RNBQR1K1 w k - 1 9",
+        "move": "h6f7",
+        "value": 0.5079774328978962,
+        "cp": 168,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000018
+      },
+      {
+        "position": "2b1kb1r/prppq1pp/1pn2p1n/4p3/2B1P3/2PP1N1P/PP3PP1/RNBQR1K1 w k - 1 9",
+        "move": "b8b7",
+        "value": 0.9206588514497708,
+        "cp": 478,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000539
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 12,
+    "parent_position": "2b1kb1r/pr1pq2p/1pp2ppn/n3p3/B3P3/2PP1N1P/PP3PP1/R1BQRNK1 b k - 1 12",
+    "gaps": [
+      0.25080328254111717,
+      0.20565935894988296,
+      0.20565935894988296
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2b1kb1r/p1rpq2p/1pp2ppn/n3p3/B3P3/2PP1N1P/PP3PP1/R1BQRNK1 w k - 2 13",
+        "move": "b7c7",
+        "value": 0.6602932189044453,
+        "cp": 238,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000871
+      },
+      {
+        "position": "2b1kb1r/pr1pq2p/2p2ppn/np2p3/B3P3/2PP1N1P/PP3PP1/R1BQRNK1 w k - 0 13",
+        "move": "b6b5",
+        "value": 0.8659525778543282,
+        "cp": 395,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000002
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 20,
+    "parent_position": "2b1kb1r/3pqn1p/1p3pp1/1p1Pp3/2n5/2PQ1NNP/PPB2PP1/R3R1K1 b k - 1 20",
+    "gaps": [
+      0.13268715994346625,
+      0.1193563914876532,
+      0.1193563914876532
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2b1kb1r/3pqn1p/1p4p1/1p1Ppp2/2n5/2PQ1NNP/PPB2PP1/R3R1K1 w k - 0 21",
+        "move": "f6f5",
+        "value": 0.745760022091855,
+        "cp": 289,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000118
+      },
+      {
+        "position": "2b1kb1r/3pq2p/1p1n1pp1/1p1Pp3/2n5/2PQ1NNP/PPB2PP1/R3R1K1 w k - 2 21",
+        "move": "f7d6",
+        "value": 0.8651164135795082,
+        "cp": 394,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000304
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 21,
+    "parent_position": "2b1kb1r/3pq2p/1p1n1pp1/1p1Pp3/1Pn5/2PQ1NNP/P1B2PP1/R3R1K1 b k - 0 21",
+    "gaps": [
+      0.41291482759708403,
+      0.35857602804825583,
+      0.35857602804825583
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2b1kb1r/3pq2p/1p1n2p1/1p1Ppp2/1Pn5/2PQ1NNP/P1B2PP1/R3R1K1 w k - 0 22",
+        "move": "f6f5",
+        "value": 0.5274940056109125,
+        "cp": 176,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000477
+      },
+      {
+        "position": "2bk1b1r/3pq2p/1p1n1pp1/1p1Pp3/1Pn5/2PQ1NNP/P1B2PP1/R3R1K1 w - - 1 22",
+        "move": "e8d8",
+        "value": 0.8860700336591684,
+        "cp": 421,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000170
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 26,
+    "parent_position": "3k1b1r/3pq2p/bp1n1pp1/1p1Pp3/1P6/2PR2NP/P1B1QPP1/4R1K1 b - - 6 26",
+    "gaps": [
+      0.13212564889434286,
+      0.19721911690484772,
+      0.19721911690484772
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k3r/3pq2p/bp1n1ppb/1p1Pp3/1P6/2PR2NP/P1B1QPP1/4R1K1 w - - 7 27",
+        "move": "f8h6",
+        "value": 0.751619306471137,
+        "cp": 293,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000175
+      },
+      {
+        "position": "2k2b1r/3pq2p/bp1n1pp1/1p1Pp3/1P6/2PR2NP/P1B1QPP1/4R1K1 w - - 7 27",
+        "move": "d8c8",
+        "value": 0.9488384233759847,
+        "cp": 546,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000640
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 27,
+    "parent_position": "2k2b1r/3pq2p/bp1n1pp1/1p1Pp3/1P6/2PR2NP/P1B1QPP1/3R2K1 b - - 8 27",
+    "gaps": [
+      0.7650628684913727,
+      0.71461534340472,
+      0.71461534340472
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2k2b1r/3pq2p/bp1n1pp1/1p1P4/1P2p3/2PR2NP/P1B1QPP1/3R2K1 w - - 0 28",
+        "move": "e5e4",
+        "value": 0.24491866240370913,
+        "cp": 75,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000046
+      },
+      {
+        "position": "2k2b1r/3pq2p/bp3pp1/1p1Pp3/1Pn5/2PR2NP/P1B1QPP1/3R2K1 w - - 9 28",
+        "move": "d6c4",
+        "value": 0.9595340058084292,
+        "cp": 582,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000755
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 29,
+    "parent_position": "2k2b1r/3pq2p/bp4p1/1p1Ppp2/1Pn5/2PR2NP/P1B1QPP1/3R2K1 b - - 1 29",
+    "gaps": [
+      0.33083091188582675,
+      0.3980599490570567,
+      0.3980599490570567
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2k2b1r/3pq2p/bp1n2p1/1p1Ppp2/1P6/2PR2NP/P1B1QPP1/3R2K1 w - - 2 30",
+        "move": "c4d6",
+        "value": 0.1780808681173302,
+        "cp": 54,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000294
+      },
+      {
+        "position": "2k2b1r/3pq2p/bp4p1/1p1P1p2/1Pn1p3/2PR2NP/P1B1QPP1/3R2K1 w - - 0 30",
+        "move": "e5e4",
+        "value": 0.5761408171743869,
+        "cp": 197,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000290
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 30,
+    "parent_position": "2k2b1r/3pq2p/bp4p1/1p1P1p2/1PnRp3/2P3NP/P1B1QPP1/3R2K1 b - - 1 30",
+    "gaps": [
+      0.7996821574598021,
+      0.7218787559177676,
+      0.7218787559177676
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2k2b1r/3pq2p/bp1n2p1/1p1P1p2/1P1Rp3/2P3NP/P1B1QPP1/3R2K1 w - - 2 31",
+        "move": "c4d6",
+        "value": 0.2698172069550311,
+        "cp": 83,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000512
+      },
+      {
+        "position": "2k2b1r/3pq2p/bp6/1p1P1pp1/1PnRp3/2P3NP/P1B1QPP1/3R2K1 w - - 0 31",
+        "move": "g6g5",
+        "value": 0.9916959628727987,
+        "cp": 822,
+        "mate": null,
+        "terminal": false,
+        "depth": 26,
+        "nodes": 1000279
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 37,
+    "parent_position": "1k3b1r/8/1p1p1q2/1p1P1bpp/1PnRB3/2PR1P1P/P4QP1/6K1 b - - 1 37",
+    "gaps": [
+      0.6841195490895959,
+      0.7223770425501526,
+      0.7223770425501526
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1kb2b1r/8/1p1p1q2/1p1P2pp/1PnRB3/2PR1P1P/P4QP1/6K1 w - - 2 38",
+        "move": "f5c8",
+        "value": -0.34814673947230945,
+        "cp": -109,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000155
+      },
+      {
+        "position": "1k3b1r/8/1p1p1q2/1p1P2pp/1PnRb3/2PR1P1P/P4QP1/6K1 w - - 0 38",
+        "move": "f5e4",
+        "value": 0.3742303030778431,
+        "cp": 118,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000606
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 38,
+    "parent_position": "1k3b1r/8/1p1p1q2/1p1P2pp/1Pn1R3/2PR1P1P/P4QP1/6K1 b - - 0 38",
+    "gaps": [
+      0.41895086165193457,
+      0.5439100110808991,
+      0.5439100110808991
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1k3b1r/5q2/1p1p4/1p1P2pp/1Pn1R3/2PR1P1P/P4QP1/6K1 w - - 1 39",
+        "move": "f6f7",
+        "value": 0.4108776432797363,
+        "cp": 131,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000154
+      },
+      {
+        "position": "1k3b1r/8/1p1p2q1/1p1P2pp/1Pn1R3/2PR1P1P/P4QP1/6K1 w - - 1 39",
+        "move": "f6g6",
+        "value": 0.9547876543606354,
+        "cp": 565,
+        "mate": null,
+        "terminal": false,
+        "depth": 17,
+        "nodes": 1000395
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 39,
+    "parent_position": "1k3b1r/8/1p1p2q1/1p1P2pp/1PnR4/2PR1P1P/P4QP1/6K1 b - - 2 39",
+    "gaps": [
+      0.17786179821859255,
+      0.197375320224904,
+      0.197375320224904
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "5b1r/1k6/1p1p2q1/1p1P2pp/1PnR4/2PR1P1P/P4QP1/6K1 w - - 3 40",
+        "move": "b8b7",
+        "value": -0.197375320224904,
+        "cp": -60,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000361
+      },
+      {
+        "position": "1k3b1r/8/1p1p2q1/1p1Pn1pp/1P1R4/2PR1P1P/P4QP1/6K1 w - - 3 40",
+        "move": "c4e5",
+        "value": 0.0,
+        "cp": 0,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000180
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 2,
+    "fullmove": 40,
+    "parent_position": "1k3b1r/8/1p1p2q1/1p1Pn1pp/1P1R4/2P2P1P/P2R1QP1/6K1 b - - 4 40",
+    "gaps": [
+      1.4650645763965746,
+      1.5346666943271603,
+      1.5346666943271603
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1k5r/8/1p1p2qb/1p1Pn1pp/1P1R4/2P2P1P/P2R1QP1/6K1 w - - 5 41",
+        "move": "f8h6",
+        "value": -0.546469261066776,
+        "cp": -184,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000418
+      },
+      {
+        "position": "1k3b1r/8/1p1p2q1/1p1P2pp/1PnR4/2P2P1P/P2R1QP1/6K1 w - - 5 41",
+        "move": "e5c4",
+        "value": 0.9881974332603843,
+        "cp": 769,
+        "mate": null,
+        "terminal": false,
+        "depth": 27,
+        "nodes": 1000575
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 5,
+    "parent_position": "r1bqkbnr/ppp2ppp/2n1p3/8/2pPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 5",
+    "gaps": [
+      0.2255612310428131,
+      0.17187727844327666,
+      0.17187727844327666
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkbnr/ppp2ppp/2n1p3/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 2 5",
+        "move": "g1f3",
+        "value": -0.43550211391548,
+        "cp": -140,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000141
+      },
+      {
+        "position": "r1bqkbnr/ppp2ppp/2n1p3/8/2pPP3/2N1B3/PP3PPP/R2QKBNR b KQkq - 2 5",
+        "move": "c1e3",
+        "value": -0.26362483547220333,
+        "cp": -81,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000166
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 8,
+    "parent_position": "r1bqk1nr/ppp2ppp/3b4/n2Pp3/2p1P3/2N1BN2/PP3PPP/R2QKB1R w KQkq - 3 8",
+    "gaps": [
+      0.7488069106338916,
+      0.6718740129239508,
+      0.6718740129239508
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqk1nr/ppp2ppp/3b4/n2Pp3/Q1p1P3/2N1BN2/PP3PPP/R3KB1R b KQkq - 4 8",
+        "move": "d1a4",
+        "value": -0.8692493331488548,
+        "cp": -399,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000481
+      },
+      {
+        "position": "r1bqk1nr/ppp2ppp/3b4/n2Pp3/2p1P3/2N1B3/PP1N1PPP/R2QKB1R b KQkq - 4 8",
+        "move": "f3d2",
+        "value": -0.197375320224904,
+        "cp": -60,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000517
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 9,
+    "parent_position": "r1bqk2r/ppp1nppp/3b4/n2Pp3/2p1P3/2N1B3/PP1N1PPP/R2QKB1R w KQkq - 5 9",
+    "gaps": [
+      0.6217870519376398,
+      0.5818922268432247,
+      0.5818922268432247
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqk2r/ppp1nppp/3b4/n2Pp3/Q1p1P3/2N1B3/PP1N1PPP/R3KB1R b KQkq - 6 9",
+        "move": "d1a4",
+        "value": -0.658409035955251,
+        "cp": -237,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000610
+      },
+      {
+        "position": "r1bqk2r/ppp1nppp/3b4/n2Pp3/2N1P3/2N1B3/PP3PPP/R2QKB1R b KQkq - 0 9",
+        "move": "d2c4",
+        "value": -0.07651680911202627,
+        "cp": -23,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000709
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 13,
+    "parent_position": "r1bq1rk1/ppp3pp/3b2n1/3Ppp2/2B1P3/1QN1B3/PP1K1PPP/R6R w - - 0 13",
+    "gaps": [
+      0.25162684721520534,
+      0.22419945127097235,
+      0.22419945127097235
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1rk1/ppp3pp/3b2n1/3Ppp2/2B1P3/1QN1BP2/PP1K2PP/R6R b - - 0 13",
+        "move": "f2f3",
+        "value": 0.07320215870718144,
+        "cp": 22,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000604
+      },
+      {
+        "position": "r1bq1rk1/ppp3pp/3b2n1/3Ppp2/2B1P3/1QN1B3/PP3PPP/R1K4R b - - 1 13",
+        "move": "d2c1",
+        "value": 0.2974016099781538,
+        "cp": 92,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000432
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 18,
+    "parent_position": "r4rk1/1pp1q1pp/3b2n1/pN1Pp2b/P1B1Pp2/1Q3P2/1P1B2PP/R1K4R w - - 1 18",
+    "gaps": [
+      0.22010965079288763,
+      0.20191051409654381,
+      0.20191051409654381
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4rk1/1pp1q1pp/3b2n1/pN1Pp2b/P1B1Pp2/1Q3P2/1P1B2PP/RK5R b - - 2 18",
+        "move": "c1b1",
+        "value": -0.5761408171743869,
+        "cp": -197,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000202
+      },
+      {
+        "position": "r4rk1/1pp1q1pp/3b2n1/pN1Pp2b/P1B1Pp2/1Q3P2/1P1B2PP/R1K3R1 b - - 2 18",
+        "move": "h1g1",
+        "value": -0.3742303030778431,
+        "cp": -118,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000205
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 20,
+    "parent_position": "r4r1k/1p2q1pp/3p2n1/p2Pp2b/P1B1Pp2/1Q3P2/1P1B2PP/R1K3R1 w - - 0 20",
+    "gaps": [
+      0.8742301867038202,
+      0.8077029279347576,
+      0.8077029279347576
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4r1k/1p2q1pp/3p2n1/p2Pp2b/P1B1Pp2/1Q3P2/1P1B2PP/RK4R1 b - - 1 20",
+        "move": "c1b1",
+        "value": -0.4164036218217151,
+        "cp": -133,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000194
+      },
+      {
+        "position": "r4r1k/1p2q1pp/3p2n1/p2Pp2b/P1B1PpP1/1Q3P2/1P1B3P/R1K3R1 b - g3 0 20",
+        "move": "g2g4",
+        "value": 0.3912993061130426,
+        "cp": 124,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000529
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 22,
+    "parent_position": "r4r1k/1pq3pp/3p2n1/p2Pp2b/P1B1P3/1Q3PR1/1P1B3P/R1K5 w - - 1 22",
+    "gaps": [
+      0.4225913012735388,
+      0.40361361322806966,
+      0.40361361322806966
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4r1k/1pq3pp/3p2n1/p2Pp2b/P1B1P3/1Q3PR1/1P1B3P/RK6 b - - 2 22",
+        "move": "c1b1",
+        "value": 0.23549574953849794,
+        "cp": 72,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000592
+      },
+      {
+        "position": "r4r1k/1pq3pp/3p2n1/p2Pp2b/P1B1P3/1Q3PR1/1P1B3P/R2K4 b - - 2 22",
+        "move": "c1d1",
+        "value": 0.6391093627665676,
+        "cp": 227,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000127
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 25,
+    "parent_position": "r6k/1p4pp/3p2n1/p2Pp3/P1q1P3/5Q2/1P1B3P/R2K4 w - - 0 25",
+    "gaps": [
+      0.3908908968475616,
+      0.34778627573093734,
+      0.34778627573093734
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r6k/1p4pp/3p2n1/p2Pp3/P1q1P3/1P3Q2/3B3P/R2K4 b - - 0 25",
+        "move": "b2b3",
+        "value": 0.6106768328168442,
+        "cp": 213,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000197
+      },
+      {
+        "position": "r6k/1p4pp/3p2n1/p2Pp3/P1q1P3/2B2Q2/1P5P/R2K4 b - - 1 25",
+        "move": "d2c3",
+        "value": 0.9584631085477815,
+        "cp": 578,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000359
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 29,
+    "parent_position": "r6k/1p4pp/3p4/p2Pp3/P3Pn2/2BK4/1P5P/R7 w - - 1 29",
+    "gaps": [
+      0.3678962067250041,
+      0.5853396109870573,
+      0.5853396109870573
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r6k/1p4pp/3p4/p2Pp3/P1K1Pn2/2B5/1P5P/R7 b - - 2 29",
+        "move": "d3c4",
+        "value": -0.7472358212839743,
+        "cp": -290,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000325
+      },
+      {
+        "position": "r6k/1p4pp/3p4/p2Pp3/P3Pn2/2B1K3/1P5P/R7 b - - 2 29",
+        "move": "d3e3",
+        "value": -0.16189621029691695,
+        "cp": -49,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000284
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 30,
+    "parent_position": "r6k/1p4pp/3p4/p2Pp3/P3P3/2B1K2n/1P5P/R7 w - - 3 30",
+    "gaps": [
+      0.6488635468192671,
+      0.6441227269502469,
+      0.6441227269502469
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r6k/1p4pp/3p4/p2Pp3/P3P3/R1B1K2n/1P5P/8 b - - 4 30",
+        "move": "a1a3",
+        "value": -0.6507892948532372,
+        "cp": -233,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000194
+      },
+      {
+        "position": "r6k/1p4pp/3p4/p2Pp3/P3P3/2B1K2n/1P5P/3R4 b - - 4 30",
+        "move": "a1d1",
+        "value": -0.0066665679029903665,
+        "cp": -2,
+        "mate": null,
+        "terminal": false,
+        "depth": 27,
+        "nodes": 1000268
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 32,
+    "parent_position": "4r2k/6pp/1p1p4/p2Pp3/P3P3/2B1K2n/1P5P/5R2 w - - 2 32",
+    "gaps": [
+      0.7909123214524072,
+      0.8672860036366302,
+      0.8672860036366302
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "4r2k/5Rpp/1p1p4/p2Pp3/P3P3/2B1K2n/1P5P/8 b - - 3 32",
+        "move": "f1f7",
+        "value": -0.9039362470365429,
+        "cp": -448,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000454
+      },
+      {
+        "position": "4r2k/6pp/1p1p4/p2PpR2/P3P3/2B1K2n/1P5P/8 b - - 3 32",
+        "move": "f1f5",
+        "value": -0.036650243399912595,
+        "cp": -11,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000519
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 37,
+    "parent_position": "5r1k/6p1/1p1R3p/p2Pp3/P3Pn2/2B2K2/1P5P/8 w - - 1 37",
+    "gaps": [
+      0.2804844238858587,
+      0.20546862651383035,
+      0.20546862651383035
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "5r1k/6p1/1p1R3p/p2Pp3/P3Pn2/2B1K3/1P5P/8 b - - 2 37",
+        "move": "f3e3",
+        "value": -0.9628309507303566,
+        "cp": -595,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000242
+      },
+      {
+        "position": "5r1k/6p1/1p1R3p/p2Pp3/P3PnK1/2B5/1P5P/8 b - - 2 37",
+        "move": "f3g4",
+        "value": -0.7573623242165263,
+        "cp": -297,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000477
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 40,
+    "parent_position": "7k/6p1/1R5p/p2Pp3/P3r3/2Bn2K1/1P5P/8 w - - 0 40",
+    "gaps": [
+      0.5090861712538539,
+      0.43819826779774596,
+      0.43819826779774596
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "7k/6p1/1R1P3p/p3p3/P3r3/2Bn2K1/1P5P/8 b - - 0 40",
+        "move": "d5d6",
+        "value": -0.9728716639827625,
+        "cp": -643,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000581
+      },
+      {
+        "position": "7k/6p1/1R5p/p2Pp3/P3r3/3n2K1/1P1B3P/8 b - - 1 40",
+        "move": "c3d2",
+        "value": -0.5346733961850165,
+        "cp": -179,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000401
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 41,
+    "parent_position": "7k/6p1/1R5p/p2Pp3/r7/3n2K1/1P1B3P/8 w - - 0 41",
+    "gaps": [
+      0.3995424457210109,
+      0.39192243566185114,
+      0.39192243566185114
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "7k/6p1/1R5p/p2Pp3/r7/3nB1K1/1P5P/8 b - - 1 41",
+        "move": "d2e3",
+        "value": -0.6893240456400049,
+        "cp": -254,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000366
+      },
+      {
+        "position": "7k/6p1/7p/pR1Pp3/r7/3n2K1/1P1B3P/8 b - - 1 41",
+        "move": "b6b5",
+        "value": -0.2974016099781538,
+        "cp": -92,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000158
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 3,
+    "fullmove": 42,
+    "parent_position": "7k/6p1/7p/pR1Pp3/8/3n2K1/1P1B3P/r7 w - - 2 42",
+    "gaps": [
+      0.6856633831060901,
+      0.7418643775064092,
+      0.7418643775064092
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "7k/6p1/3P3p/pR2p3/8/3n2K1/1P1B3P/r7 b - - 0 42",
+        "move": "d5d6",
+        "value": -0.9647273193205547,
+        "cp": -603,
+        "mate": null,
+        "terminal": false,
+        "depth": 15,
+        "nodes": 1000598
+      },
+      {
+        "position": "7k/6p1/7p/pR1Pp3/8/3nB1K1/1P5P/r7 b - - 3 42",
+        "move": "d2e3",
+        "value": -0.22286294181414548,
+        "cp": -68,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000154
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 5,
+    "parent_position": "rnbqk1nr/ppp2ppp/4p3/3P4/3P4/8/PP1QPPPP/RN2KBNR b KQkq - 0 5",
+    "gaps": [
+      0.3209164092236331,
+      0.29396332468271247,
+      0.29396332468271247
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnbqk1nr/ppp2ppp/8/3p4/3P4/8/PP1QPPPP/RN2KBNR w KQkq - 0 6",
+        "move": "e6d5",
+        "value": 0.10296710732236511,
+        "cp": 31,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000182
+      },
+      {
+        "position": "rnb1k1nr/ppp2ppp/4p3/3q4/3P4/8/PP1QPPPP/RN2KBNR w KQkq - 0 6",
+        "move": "d8d5",
+        "value": 0.39693043200507755,
+        "cp": 126,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000196
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 6,
+    "parent_position": "rnb1k1nr/ppp2ppp/4p3/3q4/3P4/2N5/PP1QPPPP/R3KBNR b KQkq - 1 6",
+    "gaps": [
+      0.24488161771574063,
+      0.28195221486019856,
+      0.28195221486019856
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnbqk1nr/ppp2ppp/4p3/8/3P4/2N5/PP1QPPPP/R3KBNR w KQkq - 2 7",
+        "move": "d5d8",
+        "value": 0.3912993061130426,
+        "cp": 124,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000492
+      },
+      {
+        "position": "rnb1k1nr/ppp2ppp/2q1p3/8/3P4/2N5/PP1QPPPP/R3KBNR w KQkq - 2 7",
+        "move": "d5c6",
+        "value": 0.6732515209732411,
+        "cp": 245,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000358
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 7,
+    "parent_position": "rnb1k1nr/ppp2ppp/2q1p3/8/3PP3/2N5/PP1Q1PPP/R3KBNR b KQkq - 0 7",
+    "gaps": [
+      0.40857822291681845,
+      0.4579320522453231,
+      0.4579320522453231
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnb1k1nr/ppp2ppp/3qp3/8/3PP3/2N5/PP1Q1PPP/R3KBNR w KQkq - 1 8",
+        "move": "c6d6",
+        "value": 0.5202384742267743,
+        "cp": 173,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000225
+      },
+      {
+        "position": "rnb3nr/ppp1kppp/2q1p3/8/3PP3/2N5/PP1Q1PPP/R3KBNR w KQ - 1 8",
+        "move": "e8e7",
+        "value": 0.9781705264720973,
+        "cp": 676,
+        "mate": null,
+        "terminal": false,
+        "depth": 17,
+        "nodes": 1000066
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 12,
+    "parent_position": "r1b2knr/pp1q1ppp/2n1p3/2Q5/3PP3/2N5/PP3PPP/R3KBNR b KQ - 4 12",
+    "gaps": [
+      0.21902312741256158,
+      0.24793668497276866,
+      0.24793668497276866
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b2knr/pp2qppp/2n1p3/2Q5/3PP3/2N5/PP3PPP/R3KBNR w KQ - 5 13",
+        "move": "d7e7",
+        "value": 0.658409035955251,
+        "cp": 237,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000438
+      },
+      {
+        "position": "r1b1k1nr/pp1q1ppp/2n1p3/2Q5/3PP3/2N5/PP3PPP/R3KBNR w KQ - 5 13",
+        "move": "f8e8",
+        "value": 0.9063457209280197,
+        "cp": 452,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000136
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 18,
+    "parent_position": "2r1k1nr/pp2nppp/8/3PNb2/2B5/2N5/PP3PPP/R3K2R b KQ - 5 18",
+    "gaps": [
+      0.2232161153294796,
+      0.1946244686485824,
+      0.1946244686485824
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2r1k1nr/pp2n1pp/5p2/3PNb2/2B5/2N5/PP3PPP/R3K2R w KQ - 0 19",
+        "move": "f7f6",
+        "value": 0.7778880665771849,
+        "cp": 312,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000272
+      },
+      {
+        "position": "2r1k1nr/pp2nppp/6b1/3PN3/2B5/2N5/PP3PPP/R3K2R w KQ - 6 19",
+        "move": "f5g6",
+        "value": 0.9725125352257673,
+        "cp": 641,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000056
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 27,
+    "parent_position": "7r/p2k1p1p/3P1pb1/1p6/8/NP1n4/P2R1PPP/3K3R b - - 3 27",
+    "gaps": [
+      0.3680986866468311,
+      0.4360742053517646,
+      0.4360742053517646
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2r5/p2k1p1p/3P1pb1/1p6/8/NP1n4/P2R1PPP/3K3R w - - 4 28",
+        "move": "h8c8",
+        "value": 0.49046061330417595,
+        "cp": 161,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000038
+      },
+      {
+        "position": "1r6/p2k1p1p/3P1pb1/1p6/8/NP1n4/P2R1PPP/3K3R w - - 4 28",
+        "move": "h8b8",
+        "value": 0.9265348186559406,
+        "cp": 490,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000397
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 38,
+    "parent_position": "8/p2k1p1p/3P1p1r/1p3b2/8/NP1n1PK1/P2R2PP/7R b - - 12 38",
+    "gaps": [
+      0.3064898014365669,
+      0.3799489622552249,
+      0.3799489622552249
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/p2k1p1p/3P1pr1/1p3b2/8/NP1n1PK1/P2R2PP/7R w - - 13 39",
+        "move": "h6g6",
+        "value": 0.0,
+        "cp": 0,
+        "mate": null,
+        "terminal": false,
+        "depth": 61,
+        "nodes": 1000118
+      },
+      {
+        "position": "8/p2k1p1p/3P1p1r/5b2/1p6/NP1n1PK1/P2R2PP/7R w - - 0 39",
+        "move": "b5b4",
+        "value": 0.3799489622552249,
+        "cp": 120,
+        "mate": null,
+        "terminal": false,
+        "depth": 25,
+        "nodes": 1000078
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 4,
+    "fullmove": 39,
+    "parent_position": "8/p2k1p1p/3P1p1r/5b2/1pN5/1P1n1PK1/P2R2PP/7R b - - 1 39",
+    "gaps": [
+      0.9836748576936802,
+      0.9839955303715675,
+      0.9839955303715675
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/p2k1p1p/3P1pr1/5b2/1pN5/1P1n1PK1/P2R2PP/7R w - - 2 40",
+        "move": "h6g6",
+        "value": 0.0,
+        "cp": 0,
+        "mate": null,
+        "terminal": false,
+        "depth": 62,
+        "nodes": 1000510
+      },
+      {
+        "position": "2k5/p4p1p/3P1p1r/5b2/1pN5/1P1n1PK1/P2R2PP/7R w - - 2 40",
+        "move": "d7c8",
+        "value": 0.9839955303715675,
+        "cp": 723,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000529
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 12,
+    "parent_position": "r4rk1/1pq1bppp/p1bppn2/P1p5/2P1P3/2NP1N2/1P1BQPPP/R3K2R w KQ - 2 12",
+    "gaps": [
+      0.41073787191966943,
+      0.47753563065303256,
+      0.47753563065303256
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4rk1/1pq1bppp/p1bppn2/P1p5/2P1P3/2NP1N2/1P1BQPPP/R4RK1 b - - 3 12",
+        "move": "e1g1",
+        "value": 0.04995837495787998,
+        "cp": 15,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000536
+      },
+      {
+        "position": "r4rk1/1pq1bppp/p1bppn2/P1p5/2P1P3/2NP1N2/1P1BQPPP/R3KR2 b Q - 3 12",
+        "move": "h1f1",
+        "value": 0.5274940056109125,
+        "cp": 176,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000434
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 13,
+    "parent_position": "r2r2k1/1pq1bppp/p1bppn2/P1p5/2P1P3/2NP1N2/1P1BQPPP/R3KR2 w Q - 4 13",
+    "gaps": [
+      0.1629092262381207,
+      0.2803854887562678,
+      0.2803854887562678
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2r2k1/1pq1bppp/p1bppn2/P1p5/2P1PB2/2NP1N2/1P2QPPP/R3KR2 b Q - 5 13",
+        "move": "d2f4",
+        "value": 0.3742303030778431,
+        "cp": 118,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000099
+      },
+      {
+        "position": "r2r2k1/1pq1bppp/p1bppn2/P1p5/2P1P3/3P1N2/1P1BQPPP/R2NKR2 b Q - 5 13",
+        "move": "c3d1",
+        "value": 0.6546157918341109,
+        "cp": 235,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000316
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 18,
+    "parent_position": "r2r1bk1/1pq2pp1/p1bp1n1p/P1p1pN2/2P1P3/3P1N2/1P1BQPPP/R3KR2 w Q - 6 18",
+    "gaps": [
+      0.3958652668847342,
+      0.4612853946896427,
+      0.4612853946896427
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2r1bk1/1pq2pp1/p1bp1n1p/P1p1pN2/2P1P1P1/3P1N2/1P1BQP1P/R3KR2 b Q - 0 18",
+        "move": "g2g4",
+        "value": -0.4246351512897301,
+        "cp": -136,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000092
+      },
+      {
+        "position": "r2r1bk1/1pq2pp1/p1bp1n1p/P1p1pN2/2P1P3/3P1N2/1P1BQPPP/2R1KR2 b - - 7 18",
+        "move": "a1c1",
+        "value": 0.036650243399912595,
+        "cp": 11,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000281
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 19,
+    "parent_position": "r2r1bk1/1pqb1pp1/p2p1n1p/P1p1pN2/2P1P3/3P1N2/1P1BQPPP/2R1KR2 w - - 8 19",
+    "gaps": [
+      0.8830037185599933,
+      0.8971469450407911,
+      0.8971469450407911
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2r1bk1/1pqb1pp1/p2p1n1p/P1p1p3/2P1P3/3PNN2/1P1BQPPP/2R1KR2 b - - 9 19",
+        "move": "f5e3",
+        "value": -0.06656807650226257,
+        "cp": -20,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000670
+      },
+      {
+        "position": "r2r1bk1/1pqb1pp1/p2p1n1p/P1p1pN2/2P1P3/3P1N2/1PRBQPPP/4KR2 b - - 9 19",
+        "move": "c1c2",
+        "value": 0.8305788685385285,
+        "cp": 357,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000411
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 22,
+    "parent_position": "r2r1bk1/1pq2pp1/p2pbn1p/P1p1pN2/2P1P3/3P1N2/1PRBQPPP/4KR2 w - - 14 22",
+    "gaps": [
+      0.9617876352957245,
+      0.9416040698684047,
+      0.9416040698684047
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2r1bk1/1pq2pp1/p2pbn1p/P1p1pN2/2P1P1P1/3P1N2/1PRBQP1P/4KR2 b - - 0 22",
+        "move": "g2g4",
+        "value": -0.15214284891342428,
+        "cp": -46,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000519
+      },
+      {
+        "position": "r2r1bk1/1pq2pp1/p2pbn1p/P1p1pN2/2P1P2P/3P1N2/1PRBQPP1/4KR2 b - - 0 22",
+        "move": "h2h4",
+        "value": 0.7894612209549805,
+        "cp": 321,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000707
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 23,
+    "parent_position": "r2r1bk1/1pqb1pp1/p2p1n1p/P1p1pN2/2P1P2P/3P1N2/1PRBQPP1/4KR2 w - - 1 23",
+    "gaps": [
+      0.9429352444362128,
+      0.9638110726331671,
+      0.9638110726331671
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2r1bk1/1pqb1pp1/p2p1n1p/P1p1p3/2P1P2P/3PNN2/1PRBQPP1/4KR2 b - - 2 23",
+        "move": "f5e3",
+        "value": -0.0897577847471601,
+        "cp": -27,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000408
+      },
+      {
+        "position": "r2r1bk1/1pqb1pp1/p2p1n1p/P1p1pN1P/2P1P3/3P1N2/1PRBQPP1/4KR2 b - - 0 23",
+        "move": "h4h5",
+        "value": 0.874053287886007,
+        "cp": 405,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000484
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 26,
+    "parent_position": "r2r1bk1/1pq2pp1/p2p1n1p/P1p1pN1P/b1P1P3/3P1N2/1R1BQPP1/4KR2 w - - 2 26",
+    "gaps": [
+      0.525284944154851,
+      0.5252864968917474,
+      0.5252864968917474
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2r1bk1/1pq2pp1/p2p1n1p/P1p1pN1P/b1P1P1P1/3P1N2/1R1BQP2/4KR2 b - - 0 26",
+        "move": "g2g4",
+        "value": -0.20377375936011308,
+        "cp": -62,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000169
+      },
+      {
+        "position": "r2r1bk1/1pq2pp1/p2p1n1p/P1p1pN1P/b1P1P3/3P4/1R1BQPP1/4KRN1 b - - 3 26",
+        "move": "f3g1",
+        "value": 0.32151273753163434,
+        "cp": 100,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000500
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 27,
+    "parent_position": "r4bk1/1pqr1pp1/p2p1n1p/P1p1pN1P/b1P1P3/3P4/1R1BQPP1/4KRN1 w - - 4 27",
+    "gaps": [
+      0.26548921975808315,
+      0.22311771167252692,
+      0.22311771167252692
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4bk1/1pqr1pp1/p2p1n1p/P1p1p2P/b1P1P3/3PN3/1R1BQPP1/4KRN1 b - - 5 27",
+        "move": "f5e3",
+        "value": 0.20696649972945258,
+        "cp": 63,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000353
+      },
+      {
+        "position": "r4bk1/1pqr1pp1/p2p1n1p/P1p1pN1P/b1P1P3/3P1Q2/1R1B1PP1/4KRN1 b - - 5 27",
+        "move": "e2f3",
+        "value": 0.4300842114019795,
+        "cp": 138,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000576
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 28,
+    "parent_position": "r2q1bk1/1p1r1pp1/p2p1n1p/P1p1pN1P/b1P1P3/3P1Q2/1R1B1PP1/4KRN1 w - - 6 28",
+    "gaps": [
+      0.28943101831640805,
+      0.22772488617944897,
+      0.22772488617944897
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2q1bk1/1p1r1pp1/p2p1n1p/P1p1pN1P/b1P1P3/3P1Q2/1R1BKPP1/5RN1 b - - 7 28",
+        "move": "e1e2",
+        "value": -0.03997868031116357,
+        "cp": -12,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000214
+      },
+      {
+        "position": "r2q1bk1/1p1r1pp1/p2p1n1p/P1p1p2P/b1P1P3/3PNQ2/1R1B1PP1/4KRN1 b - - 7 28",
+        "move": "f5e3",
+        "value": 0.18774620586828542,
+        "cp": 57,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000434
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 32,
+    "parent_position": "r4bk1/1p1r1pp1/p2pqn1p/P1p1pN1P/b1P1P3/3P1Q2/1R1B1PP1/4KRN1 w - - 14 32",
+    "gaps": [
+      0.6069330212050456,
+      0.4289014917063173,
+      0.45714480433179483
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4bk1/1p1r1pp1/p2pqn1p/P1p1pN1P/b1P1P3/3P1Q2/1R1BNPP1/4KR2 b - - 15 32",
+        "move": "g1e2",
+        "value": -0.2605204458355026,
+        "cp": -80,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000450
+      },
+      {
+        "position": "r4bk1/1p1r1pp1/p2pqn1p/P1p1pN1P/b1P1P3/2BP1Q2/1R3PP1/4KRN1 b - - 15 32",
+        "move": "d2c3",
+        "value": 0.16838104587081473,
+        "cp": 51,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000434
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 33,
+    "parent_position": "r4bk1/1p1r1pp1/p1bpqn1p/P1p1pN1P/2P1P3/2BP1Q2/1R3PP1/4KRN1 w - - 16 33",
+    "gaps": [
+      0.8514220602756066,
+      0.8644781629566132,
+      0.8644781629566132
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4bk1/1p1r1pp1/p1bpqn1p/P1p1pN1P/2P1P3/2BP1Q2/1R2NPP1/4KR2 b - - 17 33",
+        "move": "g1e2",
+        "value": 0.07651680911202627,
+        "cp": 23,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000521
+      },
+      {
+        "position": "r4bk1/1p1r1pp1/p1bpqn1p/P1p1pN1P/2P1P3/2BP1Q2/1R3PP1/3K1RN1 b - - 17 33",
+        "move": "e1d1",
+        "value": 0.9409949720686395,
+        "cp": 524,
+        "mate": null,
+        "terminal": false,
+        "depth": 17,
+        "nodes": 1000060
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 34,
+    "parent_position": "3r1bk1/1p1r1pp1/p1bpqn1p/P1p1pN1P/2P1P3/2BP1Q2/1R3PP1/3K1RN1 w - - 18 34",
+    "gaps": [
+      0.18136770168124283,
+      0.16388292048004993,
+      0.16388292048004993
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3r1bk1/1p1r1pp1/p1bpqn1p/P1p1p2P/2P1P3/2BPNQ2/1R3PP1/3K1RN1 b - - 19 34",
+        "move": "f5e3",
+        "value": 0.8284997954910082,
+        "cp": 355,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000358
+      },
+      {
+        "position": "3r1bk1/1p1r1pp1/p1bpqn1p/P1p1pN1P/2P1P3/1RBP1Q2/5PP1/3K1RN1 b - - 19 34",
+        "move": "b2b3",
+        "value": 0.9923827159710581,
+        "cp": 835,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000413
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 38,
+    "parent_position": "3r1bk1/1p1r1pp1/p2pqn1p/P1p1p2P/2P1P3/1KBPNQ2/5PP1/5RN1 w - - 3 38",
+    "gaps": [
+      0.16627599043402286,
+      0.1768061577847091,
+      0.1768061577847091
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3r1bk1/1p1r1pp1/p2pqn1p/P1p1p2P/2P1P1P1/1KBPNQ2/5P2/5RN1 b - - 0 38",
+        "move": "g2g4",
+        "value": 0.7113937318189625,
+        "cp": 267,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000109
+      },
+      {
+        "position": "3r1bk1/1p1r1pp1/p2pqn1p/P1pNp2P/2P1P3/1KBP1Q2/5PP1/5RN1 b - - 4 38",
+        "move": "e3d5",
+        "value": 0.8881998896036716,
+        "cp": 424,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000156
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 46,
+    "parent_position": "3r4/1p1r1kb1/p2p1pqp/P1pPp3/4P3/K2PRQ1N/5PP1/B7 w - - 4 46",
+    "gaps": [
+      0.1521373026999444,
+      0.13627411188051175,
+      0.13627411188051175
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3r4/1p1r1kb1/p2p1pqp/P1pPp3/4P3/K2PR2N/5PP1/B2Q4 b - - 5 46",
+        "move": "f3d1",
+        "value": 0.784384739569259,
+        "cp": 317,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000321
+      },
+      {
+        "position": "3r4/1p1r1kb1/p2p1pqp/P1pPp3/4P3/K2P1Q1N/5PP1/B3R3 b - - 5 46",
+        "move": "e3e1",
+        "value": 0.9206588514497708,
+        "cp": 478,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000404
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 53,
+    "parent_position": "6r1/1p1rb1k1/p2p1p1p/P1pPp2Q/4P3/2BP3N/2K1RPq1/8 w - - 6 53",
+    "gaps": [
+      1.4040924093367653,
+      1.362354631789306,
+      1.362354631789306
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "6r1/1p1rb1k1/p2p1p1p/P1pPp2Q/4P3/2BP3N/2K2Pq1/4R3 b - - 7 53",
+        "move": "e2e1",
+        "value": -0.42736356254771685,
+        "cp": -137,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000687
+      },
+      {
+        "position": "6r1/1p1rb1k1/p2p1p1p/P1pPp2Q/4P3/2BPR2N/2K2Pq1/8 b - - 7 53",
+        "move": "e2e3",
+        "value": 0.9349910692415893,
+        "cp": 509,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000361
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 5,
+    "fullmove": 59,
+    "parent_position": "3b3Q/1p1r1kr1/p2p1p2/P1pPp3/4P1q1/2BPR2N/2K2P2/8 w - - 9 59",
+    "gaps": [
+      0.19046473936784436,
+      0.1408288696440273,
+      0.1408288696440273
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3b3Q/1p1r1kr1/p2p1p2/P1pPp3/4P1q1/2BP2RN/2K2P2/8 b - - 10 59",
+        "move": "e3g3",
+        "value": 0.8121570079614577,
+        "cp": 340,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000563
+      },
+      {
+        "position": "3b3Q/1p1r1kr1/p2p1p2/P1pPp3/4P1q1/2BPR2N/3K1P2/8 b - - 10 59",
+        "move": "c2d2",
+        "value": 0.952985877605485,
+        "cp": 559,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000160
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 11,
+    "parent_position": "r2qk2r/p2bppbp/1p1p1np1/8/3BP3/2N2P2/PPPQB1PP/R4RK1 b kq - 1 11",
+    "gaps": [
+      0.5236132859406708,
+      0.5443312752771277,
+      0.5443312752771277
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2q1rk1/p2bppbp/1p1p1np1/8/3BP3/2N2P2/PPPQB1PP/R4RK1 w - - 2 12",
+        "move": "e8g8",
+        "value": 0.13254878839087839,
+        "cp": 40,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000094
+      },
+      {
+        "position": "r2qk2r/p2b1pbp/1p1p1np1/4p3/3BP3/2N2P2/PPPQB1PP/R4RK1 w kq - 0 12",
+        "move": "e7e5",
+        "value": 0.676880063668006,
+        "cp": 247,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000079
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 20,
+    "parent_position": "2rq3r/p3k1bp/1p1p1np1/3P1p2/2PB4/5B2/PPQ3PP/R2R2K1 b - - 3 20",
+    "gaps": [
+      0.48483213444046797,
+      0.5485674862237252,
+      0.5485674862237252
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2rq3r/p4kbp/1p1p1np1/3P1p2/2PB4/5B2/PPQ3PP/R2R2K1 w - - 4 21",
+        "move": "e7f7",
+        "value": -0.08645032896371542,
+        "cp": -26,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000253
+      },
+      {
+        "position": "2r3qr/p3k1bp/1p1p1np1/3P1p2/2PB4/5B2/PPQ3PP/R2R2K1 w - - 4 21",
+        "move": "d8g8",
+        "value": 0.46211715726000974,
+        "cp": 150,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000457
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 21,
+    "parent_position": "2r3qr/p3k1bp/1p1p1np1/3P1p2/2PB4/1Q3B2/PP4PP/R2R2K1 b - - 5 21",
+    "gaps": [
+      0.510466995313112,
+      0.6437008199425186,
+      0.6437008199425186
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2rq3r/p3k1bp/1p1p1np1/3P1p2/2PB4/1Q3B2/PP4PP/R2R2K1 w - - 6 22",
+        "move": "g8d8",
+        "value": 0.2667237739579079,
+        "cp": 82,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000445
+      },
+      {
+        "position": "2r3qr/p3k1bp/1p1p1np1/3P4/2PB1p2/1Q3B2/PP4PP/R2R2K1 w - - 0 22",
+        "move": "f5f4",
+        "value": 0.9104245939004265,
+        "cp": 459,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000437
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 22,
+    "parent_position": "2r3qr/p3k1bp/1p1p1np1/3P4/2PB1p2/3Q1B2/PP4PP/R2R2K1 b - - 1 22",
+    "gaps": [
+      0.3000752404296354,
+      0.21527708760016495,
+      0.21527708760016495
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2rq3r/p3k1bp/1p1p1np1/3P4/2PB1p2/3Q1B2/PP4PP/R2R2K1 w - - 2 23",
+        "move": "g8d8",
+        "value": 0.7685053628219556,
+        "cp": 305,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000154
+      },
+      {
+        "position": "5rqr/p3k1bp/1p1p1np1/3P4/2PB1p2/3Q1B2/PP4PP/R2R2K1 w - - 2 23",
+        "move": "c8f8",
+        "value": 0.9837824504221205,
+        "cp": 721,
+        "mate": null,
+        "terminal": false,
+        "depth": 26,
+        "nodes": 1000114
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 24,
+    "parent_position": "5r1r/p3kqbp/1p1p1np1/3P4/2PB1p2/1P1Q1B2/P5PP/2RR2K1 b - - 2 24",
+    "gaps": [
+      0.2721082437299689,
+      0.15493958903114446,
+      0.15493958903114446
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "5r1r/p2nkqbp/1p1p2p1/3P4/2PB1p2/1P1Q1B2/P5PP/2RR2K1 w - - 3 25",
+        "move": "f6d7",
+        "value": 0.8040623914048921,
+        "cp": 333,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000326
+      },
+      {
+        "position": "3k1r1r/p4qbp/1p1p1np1/3P4/2PB1p2/1P1Q1B2/P5PP/2RR2K1 w - - 3 25",
+        "move": "e7d8",
+        "value": 0.9590019804360366,
+        "cp": 580,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000322
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 25,
+    "parent_position": "3k1r1r/p4qbp/1p1p1np1/3P4/2PB1p2/1P1Q1B1P/P5P1/2RR2K1 b - - 0 25",
+    "gaps": [
+      0.45543420223489667,
+      0.3559133587301049,
+      0.3559133587301049
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k1r1r/p2n1qbp/1p1p2p1/3P4/2PB1p2/1P1Q1B1P/P5P1/2RR2K1 w - - 1 26",
+        "move": "f6d7",
+        "value": 0.5979820004989412,
+        "cp": 207,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000370
+      },
+      {
+        "position": "3k1r1r/p4qbp/1p1p2p1/3P3n/2PB1p2/1P1Q1B1P/P5P1/2RR2K1 w - - 1 26",
+        "move": "f6h5",
+        "value": 0.9538953592290461,
+        "cp": 562,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000404
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 26,
+    "parent_position": "3k1r1r/p4qbp/1p1p2p1/3P3n/2PB1p2/1P1Q1B1P/P1R3P1/3R2K1 b - - 2 26",
+    "gaps": [
+      0.2559458174316357,
+      0.28293293924393215,
+      0.28293293924393215
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k1r1r/p5bp/1p1p2p1/3P1q1n/2PB1p2/1P1Q1B1P/P1R3P1/3R2K1 w - - 3 27",
+        "move": "f7f5",
+        "value": 0.43819931483276775,
+        "cp": 141,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000250
+      },
+      {
+        "position": "3k1r1r/p4qbp/1p1p2p1/3P4/2PB1p2/1P1Q1BnP/P1R3P1/3R2K1 w - - 3 27",
+        "move": "h5g3",
+        "value": 0.7211322540766999,
+        "cp": 273,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000257
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 29,
+    "parent_position": "3k1rr1/p4q1p/1p1p2p1/3P4/2PQ1p2/1P3BnP/P2R1KP1/3R4 b - - 2 29",
+    "gaps": [
+      0.2686327440734104,
+      0.2823031902212357,
+      0.2823031902212357
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k1rr1/p4q2/1p1p2p1/3P3p/2PQ1p2/1P3BnP/P2R1KP1/3R4 w - - 0 30",
+        "move": "h7h5",
+        "value": -0.23234481526335568,
+        "cp": -71,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000218
+      },
+      {
+        "position": "3k1r2/p4qrp/1p1p2p1/3P4/2PQ1p2/1P3BnP/P2R1KP1/3R4 w - - 3 30",
+        "move": "g8g7",
+        "value": 0.04995837495787998,
+        "cp": 15,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000716
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 31,
+    "parent_position": "3kr3/p4qrp/1p1p2p1/3P4/2PQ1p2/1P3BnP/P2R1KP1/3R4 b - - 6 31",
+    "gaps": [
+      0.5062661870418268,
+      0.6531373378658413,
+      0.6531373378658413
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3kr3/p4qrp/1p1p4/3P2p1/2PQ1p2/1P3BnP/P2R1KP1/3R4 w - - 0 32",
+        "move": "g6g5",
+        "value": -0.7097434280174989,
+        "cp": -266,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000362
+      },
+      {
+        "position": "3k4/p3rqrp/1p1p2p1/3P4/2PQ1p2/1P3BnP/P2R1KP1/3R4 w - - 7 32",
+        "move": "e8e7",
+        "value": -0.056606090151657594,
+        "cp": -17,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000539
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 32,
+    "parent_position": "3k4/p3rqrp/1p1p2p1/3P4/2PQ1p2/1P3BnP/P2R2P1/3R2K1 b - - 8 32",
+    "gaps": [
+      0.36076420954738425,
+      0.4333530675912891,
+      0.4333530675912891
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k4/p3rqr1/1p1p2p1/3P3p/2PQ1p2/1P3BnP/P2R2P1/3R2K1 w - - 0 33",
+        "move": "h7h5",
+        "value": -0.5626256511973474,
+        "cp": -191,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000554
+      },
+      {
+        "position": "3k4/p4qrp/1p1p2p1/3Pr3/2PQ1p2/1P3BnP/P2R2P1/3R2K1 w - - 9 33",
+        "move": "e7e5",
+        "value": -0.12927258360605834,
+        "cp": -39,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000527
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 35,
+    "parent_position": "3k4/p3rqr1/1p1p2p1/3P3p/2PQ1p2/1P3BnP/P2R1KP1/3R4 b - - 1 35",
+    "gaps": [
+      1.0185420866682506,
+      0.995165435822679,
+      0.995165435822679
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k4/p3rqr1/1p1p4/3P2pp/2PQ1p2/1P3BnP/P2R1KP1/3R4 w - - 0 36",
+        "move": "g6g5",
+        "value": -0.8889014796847765,
+        "cp": -425,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000524
+      },
+      {
+        "position": "3k4/p3rqr1/1p1p2p1/3P4/2PQ1p1p/1P3BnP/P2R1KP1/3R4 w - - 0 36",
+        "move": "h5h4",
+        "value": 0.10626395613790249,
+        "cp": 32,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000575
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 6,
+    "fullmove": 40,
+    "parent_position": "3kq3/p5r1/1p1p2p1/3P4/2P2p1p/1P1RrBnP/P1Q2KP1/3R4 b - - 9 40",
+    "gaps": [
+      0.16769591234049785,
+      0.2938638383405484,
+      0.2938638383405484
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3k4/p5r1/1p1p2p1/3Pq3/2P2p1p/1P1RrBnP/P1Q2KP1/3R4 w - - 10 41",
+        "move": "e8e5",
+        "value": -0.7968781442047267,
+        "cp": -327,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000222
+      },
+      {
+        "position": "3kq3/p5r1/1p1p4/3P2p1/2P2p1p/1P1RrBnP/P1Q2KP1/3R4 w - - 0 41",
+        "move": "g6g5",
+        "value": -0.5030143058641783,
+        "cp": -166,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000145
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 7,
+    "fullmove": 3,
+    "parent_position": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+    "gaps": [
+      0.431713417251948,
+      0.40940547945882055,
+      0.40940547945882055
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3",
+        "move": "b1c3",
+        "value": -0.14888503362331798,
+        "cp": -45,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000344
+      },
+      {
+        "position": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3",
+        "move": "g1f3",
+        "value": 0.2605204458355026,
+        "cp": 80,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000130
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 7,
+    "fullmove": 4,
+    "parent_position": "rnbqkbnr/ppp2ppp/4p3/8/3Pp3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "gaps": [
+      0.6992332686402325,
+      0.6929854200432528,
+      0.6929854200432528
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnbqkbnr/ppp2ppp/4p3/4N3/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq - 1 4",
+        "move": "f3e5",
+        "value": 0.2882592022313934,
+        "cp": 89,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000486
+      },
+      {
+        "position": "rnbqkbnr/ppp2ppp/4p3/1B6/3Pp3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
+        "move": "f1b5",
+        "value": 0.9812446222746463,
+        "cp": 699,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000217
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 4,
+    "parent_position": "r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 3 4",
+    "gaps": [
+      0.3094257986316068,
+      0.2937552361658248,
+      0.2937552361658248
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 4 5",
+        "move": "g8f6",
+        "value": 0.19416974648369123,
+        "cp": 59,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000292
+      },
+      {
+        "position": "r1b1kbnr/ppp1qppp/2n1p3/3p4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 4 5",
+        "move": "d8e7",
+        "value": 0.487924982649516,
+        "cp": 160,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000274
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 5,
+    "parent_position": "r1b1kbnr/ppp1qppp/2n1p3/3p4/3PP3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 5 5",
+    "gaps": [
+      0.3083885695516295,
+      0.27698189129189377,
+      0.27698189129189377
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kbnr/ppp1qppp/4p3/3p4/1n1PP3/2NB1N2/PPP2PPP/R1BQK2R w KQkq - 6 6",
+        "move": "c6b4",
+        "value": 0.5694217120480266,
+        "cp": 194,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000417
+      },
+      {
+        "position": "r1bk1bnr/ppp1qppp/2n1p3/3p4/3PP3/2NB1N2/PPP2PPP/R1BQK2R w KQ - 6 6",
+        "move": "e8d8",
+        "value": 0.8464036033399204,
+        "cp": 373,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000195
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 11,
+    "parent_position": "1rbknb1r/ppp1qp2/2n1p2p/3pP1p1/3P4/2NBBN1P/PPPQ1PP1/R3R1K1 b - - 1 11",
+    "gaps": [
+      0.25949942839540163,
+      0.23610381702616756,
+      0.23610381702616756
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1rbknbr1/ppp1qp2/2n1p2p/3pP1p1/3P4/2NBBN1P/PPPQ1PP1/R3R1K1 w - - 2 12",
+        "move": "h8g8",
+        "value": 0.6714249873847629,
+        "cp": 244,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000535
+      },
+      {
+        "position": "1rbk1b1r/ppp1qpn1/2n1p2p/3pP1p1/3P4/2NBBN1P/PPPQ1PP1/R3R1K1 w - - 2 12",
+        "move": "e8g7",
+        "value": 0.9075288044109304,
+        "cp": 454,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000284
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 13,
+    "parent_position": "1rbknb1r/ppp1qp2/2n1p2p/3pP1p1/3P2P1/3BBN1P/PPPQNP2/R3R1K1 b - - 2 13",
+    "gaps": [
+      0.34501179269976323,
+      0.33133609323488256,
+      0.33133609323488256
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1rbknb1r/ppp1qp2/4p2p/3pP1p1/1n1P2P1/3BBN1P/PPPQNP2/R3R1K1 w - - 3 14",
+        "move": "c6b4",
+        "value": 0.6271270153128989,
+        "cp": 221,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000555
+      },
+      {
+        "position": "1rbk1b1r/ppp1qpn1/2n1p2p/3pP1p1/3P2P1/3BBN1P/PPPQNP2/R3R1K1 w - - 3 14",
+        "move": "e8g7",
+        "value": 0.9584631085477815,
+        "cp": 578,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000421
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 17,
+    "parent_position": "1rk2b1r/p1pbqpn1/1pn1p2p/3pP1p1/3P2P1/2PBBN1P/PP1QNP2/R1R3K1 b - - 3 17",
+    "gaps": [
+      0.29318491458759943,
+      0.21650932512970744,
+      0.21650932512970744
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1rk2b1r/p1pbq1n1/1pn1p2p/3pPpp1/3P2P1/2PBBN1P/PP1QNP2/R1R3K1 w - f6 0 18",
+        "move": "f7f5",
+        "value": 0.6251004140085175,
+        "cp": 220,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000525
+      },
+      {
+        "position": "r1k2b1r/p1pbqpn1/1pn1p2p/3pP1p1/3P2P1/2PBBN1P/PP1QNP2/R1R3K1 w - - 4 18",
+        "move": "b8a8",
+        "value": 0.8416097391382249,
+        "cp": 368,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000108
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 19,
+    "parent_position": "r1k2b1r/2pbqpn1/1pn1p2p/p2pP1p1/3P2P1/P1PBBN1P/1P1QNPK1/R1R5 b - - 1 19",
+    "gaps": [
+      0.4290778072055875,
+      0.3459573630075382,
+      0.3459573630075382
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1k2b1r/2pbqpn1/1pn1p2p/3pP1p1/p2P2P1/P1PBBN1P/1P1QNPK1/R1R5 w - - 0 20",
+        "move": "a5a4",
+        "value": 0.5805774556484024,
+        "cp": 199,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000499
+      },
+      {
+        "position": "r2k1b1r/2pbqpn1/1pn1p2p/p2pP1p1/3P2P1/P1PBBN1P/1P1QNPK1/R1R5 w - - 2 20",
+        "move": "c8d8",
+        "value": 0.9265348186559406,
+        "cp": 490,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000008
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 20,
+    "parent_position": "r2k1b1r/2pbqpn1/1pn1p2p/p2pP1p1/3P2P1/P1PBBNKP/1P1QNP2/R1R5 b - - 3 20",
+    "gaps": [
+      0.3893362510777204,
+      0.36762834569938796,
+      0.36762834569938796
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2k1b1r/2pbq1n1/1pn1p2p/p2pPpp1/3P2P1/P1PBBNKP/1P1QNP2/R1R5 w - f6 0 21",
+        "move": "f7f5",
+        "value": 0.6251004140085175,
+        "cp": 220,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000586
+      },
+      {
+        "position": "r2k1b1r/2pbqpn1/1pn1p3/p2pP1pp/3P2P1/P1PBBNKP/1P1QNP2/R1R5 w - - 0 21",
+        "move": "h6h5",
+        "value": 0.9927287597079054,
+        "cp": 842,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000551
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 8,
+    "fullmove": 32,
+    "parent_position": "5r2/1kpbn3/1p6/2P1P2r/p2P4/P3KN1P/1P1Q1P2/R1R5 b - - 2 32",
+    "gaps": [
+      0.2987298364628853,
+      0.41215130405950307,
+      0.41215130405950307
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "5r2/1kpbn3/1p6/2P1P3/p2P4/P3KN1r/1P1Q1P2/R1R5 w - - 0 33",
+        "move": "h5h3",
+        "value": 0.5805774556484024,
+        "cp": 199,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000583
+      },
+      {
+        "position": "8/1kpbn3/1p6/2P1P2r/p2P4/P3Kr1P/1P1Q1P2/R1R5 w - - 0 33",
+        "move": "f8f3",
+        "value": 0.9927287597079054,
+        "cp": 842,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000352
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 9,
+    "fullmove": 10,
+    "parent_position": "r1bq1rk1/pp3pp1/2nbpn1p/3p2N1/3P4/2PB4/PPQN1PPP/R1B1K2R w KQ - 0 10",
+    "gaps": [
+      0.5433681737282726,
+      0.5427418274766838,
+      0.5427418274766838
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1rk1/pp3pp1/2nbpn1p/3p4/3P4/2PB1N2/PPQN1PPP/R1B1K2R b KQ - 1 10",
+        "move": "g5f3",
+        "value": 0.11942729853438588,
+        "cp": 36,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000041
+      },
+      {
+        "position": "r1bq1rk1/pp3ppN/2nbpn1p/3p4/3P4/2PB4/PPQN1PPP/R1B1K2R b KQ - 1 10",
+        "move": "g5h7",
+        "value": 0.6621691260110697,
+        "cp": 239,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000651
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 9,
+    "fullmove": 13,
+    "parent_position": "r1bq1r1k/pp3pp1/2nb3p/3pp3/3P4/2PB4/PPQN1PPP/R1B1K2R w KQ - 0 13",
+    "gaps": [
+      0.4880620322494368,
+      0.41857057499183387,
+      0.41857057499183387
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1r1k/pp3pp1/2nb3p/3pP3/8/2PB4/PPQN1PPP/R1B1K2R b KQ - 0 13",
+        "move": "d4e5",
+        "value": 0.49298796667532435,
+        "cp": 162,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000397
+      },
+      {
+        "position": "r1bq1r1k/pp3pp1/2nb3p/3pp3/3P4/2PB4/PPQN1PPP/R1B2RK1 b - - 1 13",
+        "move": "e1g1",
+        "value": 0.9115585416671582,
+        "cp": 461,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000396
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 9,
+    "fullmove": 23,
+    "parent_position": "5r1k/Bp3pp1/3bb2p/3p4/8/2rB2P1/P4P1P/1R3RK1 w - - 0 23",
+    "gaps": [
+      0.26622886081100494,
+      0.3160815058240092,
+      0.3160815058240092
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "5r1k/Bp3pp1/3bb2p/3p4/8/2rB2P1/P4P1P/1R1R2K1 b - - 1 23",
+        "move": "f1d1",
+        "value": 0.08645032896371542,
+        "cp": 26,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000527
+      },
+      {
+        "position": "5r1k/Bp3pp1/3bb2p/3p4/8/1RrB2P1/P4P1P/5RK1 b - - 1 23",
+        "move": "b1b3",
+        "value": 0.4025318347877246,
+        "cp": 128,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000238
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 9,
+    "fullmove": 25,
+    "parent_position": "5r1k/Bp3pp1/4b2p/3p4/1b6/1P1B2P1/5P1P/5RK1 w - - 1 25",
+    "gaps": [
+      0.3337532505705,
+      0.2571001396632257,
+      0.2571001396632257
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "5r1k/1p3pp1/4b2p/3p4/1b1B4/1P1B2P1/5P1P/5RK1 b - - 2 25",
+        "move": "a7d4",
+        "value": 0.3598091632138393,
+        "cp": 113,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000253
+      },
+      {
+        "position": "5r1k/Bp3pp1/4b2p/3p4/1b6/1P1B2P1/5P1P/1R4K1 b - - 2 25",
+        "move": "f1b1",
+        "value": 0.616909302877065,
+        "cp": 216,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000489
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 9,
+    "fullmove": 31,
+    "parent_position": "7k/1R3p2/4b2p/3p2p1/8/3B2P1/5PKP/2r5 w - - 0 31",
+    "gaps": [
+      0.2996191440511678,
+      0.366599662416564,
+      0.366599662416564
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "7k/5p2/4b2p/3p2p1/1R6/3B2P1/5PKP/2r5 b - - 1 31",
+        "move": "b7b4",
+        "value": 0.1845283661215829,
+        "cp": 56,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000491
+      },
+      {
+        "position": "7k/4Rp2/4b2p/3p2p1/8/3B2P1/5PKP/2r5 b - - 1 31",
+        "move": "b7e7",
+        "value": 0.5511280285381469,
+        "cp": 186,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000291
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 4,
+    "parent_position": "rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4",
+    "gaps": [
+      0.23026435189534133,
+      0.22334883500296715,
+      0.22334883500296715
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnbqkb1r/pp2pppp/2p2n2/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5",
+        "move": "g8f6",
+        "value": 0.08314096643359975,
+        "cp": 25,
+        "mate": null,
+        "terminal": false,
+        "depth": 26,
+        "nodes": 1000216
+      },
+      {
+        "position": "rnb1kbnr/pp2pppp/1qp5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5",
+        "move": "d8b6",
+        "value": 0.3064898014365669,
+        "cp": 95,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000109
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 10,
+    "parent_position": "rnb1kb1r/pp3ppp/2p2p2/8/2BP4/8/PPPNKPPP/R1B4R b kq - 0 10",
+    "gaps": [
+      0.26124950206318326,
+      0.3036210753830684,
+      0.3036210753830684
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rn2kb1r/pp3ppp/2p1bp2/8/2BP4/8/PPPNKPPP/R1B4R w kq - 1 11",
+        "move": "c8e6",
+        "value": 0.05328282290096793,
+        "cp": 16,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000550
+      },
+      {
+        "position": "rnb1kb1r/p4ppp/2p2p2/1p6/2BP4/8/PPPNKPPP/R1B4R w kq - 0 11",
+        "move": "b7b5",
+        "value": 0.3569038982840363,
+        "cp": 112,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000389
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 13,
+    "parent_position": "rn2kb1r/5ppp/2p2p2/pp6/P2P2b1/1B3N2/1PP1KPPP/R1B4R b kq - 0 13",
+    "gaps": [
+      0.3012850253799076,
+      0.35811068016654446,
+      0.35811068016654446
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rn2k2r/5ppp/2pb1p2/pp6/P2P2b1/1B3N2/1PP1KPPP/R1B4R w kq - 1 14",
+        "move": "f8d6",
+        "value": 0.18130656540177167,
+        "cp": 55,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000099
+      },
+      {
+        "position": "rn2kb1r/5p1p/2p2p2/pp4p1/P2P2b1/1B3N2/1PP1KPPP/R1B4R w kq - 0 14",
+        "move": "g7g5",
+        "value": 0.5394172455683162,
+        "cp": 181,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000438
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 15,
+    "parent_position": "rn2kb1r/5p1p/5p2/pp4p1/3P2b1/1B2BN2/1PP1KPPP/R6R b kq - 1 15",
+    "gaps": [
+      0.2614330422437023,
+      0.20714086691122596,
+      0.20714086691122596
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rn2kb1r/3b1p1p/5p2/pp4p1/3P4/1B2BN2/1PP1KPPP/R6R w kq - 2 16",
+        "move": "g4d7",
+        "value": 0.33932839415555,
+        "cp": 106,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000429
+      },
+      {
+        "position": "1n2kb1r/5p1p/r4p2/pp4p1/3P2b1/1B2BN2/1PP1KPPP/R6R w k - 2 16",
+        "move": "a8a6",
+        "value": 0.546469261066776,
+        "cp": 184,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000387
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 16,
+    "parent_position": "1n2kb1r/5p1p/r4p2/pp4p1/3P2b1/1B2BN1P/1PP1KPP1/R6R b k - 0 16",
+    "gaps": [
+      0.4227375292572538,
+      0.3984200200403753,
+      0.3984200200403753
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1n2kb1r/3b1p1p/r4p2/pp4p1/3P4/1B2BN1P/1PP1KPP1/R6R w k - 1 17",
+        "move": "g4d7",
+        "value": 0.32747739480870536,
+        "cp": 102,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000616
+      },
+      {
+        "position": "1n2kb1r/5p1p/r4p2/pp4p1/3P4/1B2Bb1P/1PP1KPP1/R6R w k - 0 17",
+        "move": "g4f3",
+        "value": 0.7258974148490807,
+        "cp": 276,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000043
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 19,
+    "parent_position": "1n2kb1r/5p2/r4p2/1p1B2pp/p2P2P1/4BK1P/1PP2P2/R6R b k - 0 19",
+    "gaps": [
+      0.10515302543411731,
+      0.112737181308882,
+      0.112737181308882
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1n2k2r/5p2/r2b1p2/1p1B2pp/p2P2P1/4BK1P/1PP2P2/R6R w k - 1 20",
+        "move": "f8d6",
+        "value": 0.5936821390883533,
+        "cp": 205,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000091
+      },
+      {
+        "position": "1n2k2r/5p2/r4p2/1p1B2pp/pb1P2P1/4BK1P/1PP2P2/R6R w k - 1 20",
+        "move": "f8b4",
+        "value": 0.7064193203972353,
+        "cp": 264,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000363
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 53,
+    "parent_position": "8/7P/4k2B/1p2b1K1/p7/2Pn3r/1P2R3/8 b - - 8 53",
+    "gaps": [
+      0.13889081008393078,
+      0.10160046694402991,
+      0.10160046694402991
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/7P/7B/1p1kb1K1/p7/2Pn3r/1P2R3/8 w - - 9 54",
+        "move": "e6d5",
+        "value": -0.954492113074392,
+        "cp": -564,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000623
+      },
+      {
+        "position": "8/7P/3k3B/1p2b1K1/p7/2Pn3r/1P2R3/8 w - - 9 54",
+        "move": "e6d6",
+        "value": -0.8528916461303621,
+        "cp": -380,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000011
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 57,
+    "parent_position": "7n/8/3k3B/1p6/p7/2P4K/1P6/8 b - - 0 57",
+    "gaps": [
+      0.8205578398418425,
+      0.8917853050968804,
+      0.8917853050968804
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/5n2/3k3B/1p6/p7/2P4K/1P6/8 w - - 1 58",
+        "move": "h8f7",
+        "value": -0.9251062982357032,
+        "cp": -487,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000340
+      },
+      {
+        "position": "7n/8/4k2B/1p6/p7/2P4K/1P6/8 w - - 1 58",
+        "move": "d6e6",
+        "value": -0.03332099313882286,
+        "cp": -10,
+        "mate": null,
+        "terminal": false,
+        "depth": 25,
+        "nodes": 1000517
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 61,
+    "parent_position": "8/8/4k3/1p4K1/p7/B1Pn4/1P6/8 b - - 8 61",
+    "gaps": [
+      0.8371507552981392,
+      0.9485988230432103,
+      0.9485988230432103
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/8/8/1p2k1K1/p7/B1Pn4/1P6/8 w - - 9 62",
+        "move": "e6e5",
+        "value": -0.9752591705196751,
+        "cp": -657,
+        "mate": null,
+        "terminal": false,
+        "depth": 27,
+        "nodes": 1000294
+      },
+      {
+        "position": "8/8/4k3/1p2n1K1/p7/B1P5/1P6/8 w - - 9 62",
+        "move": "d3e5",
+        "value": -0.026660347476464806,
+        "cp": -8,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000004
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 107,
+    "parent_position": "8/4B3/8/1p6/pP2k3/2P5/2K2n2/8 b - b3 0 107",
+    "gaps": [
+      0.3653426283782994,
+      0.3879659851253334,
+      0.3879659851253334
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/4B3/8/1p1k4/pP6/2P5/2K2n2/8 w - - 1 108",
+        "move": "e4d5",
+        "value": -0.3912993061130426,
+        "cp": -124,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000406
+      },
+      {
+        "position": "8/4B3/8/1p6/pP2k3/2Pn4/2K5/8 w - - 1 108",
+        "move": "f2d3",
+        "value": -0.0033333209877091908,
+        "cp": -1,
+        "mate": null,
+        "terminal": false,
+        "depth": 29,
+        "nodes": 1000001
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 108,
+    "parent_position": "8/8/5B2/1p6/pP2k3/2Pn4/2K5/8 b - - 2 108",
+    "gaps": [
+      0.27825953555139393,
+      0.25718712484779344,
+      0.25718712484779344
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/8/5B2/1p6/pP2k3/2P5/2K5/4n3 w - - 3 109",
+        "move": "d3e1",
+        "value": -0.2605204458355026,
+        "cp": -80,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000246
+      },
+      {
+        "position": "8/8/5B2/1p6/pP2k3/2P5/2K2n2/8 w - - 3 109",
+        "move": "d3f2",
+        "value": -0.0033333209877091908,
+        "cp": -1,
+        "mate": null,
+        "terminal": false,
+        "depth": 35,
+        "nodes": 1000643
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 10,
+    "fullmove": 109,
+    "parent_position": "8/8/8/1p4B1/pP2k3/2P5/2K2n2/8 b - - 4 109",
+    "gaps": [
+      0.3799489622552249,
+      0.4191551525521083,
+      0.4191551525521083
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/8/8/1p1k2B1/pP6/2P5/2K2n2/8 w - - 5 110",
+        "move": "e4d5",
+        "value": -0.4191551525521083,
+        "cp": -134,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000476
+      },
+      {
+        "position": "8/8/8/1p4B1/pP6/2P2k2/2K2n2/8 w - - 5 110",
+        "move": "e4f3",
+        "value": 0.0,
+        "cp": 0,
+        "mate": null,
+        "terminal": false,
+        "depth": 35,
+        "nodes": 1000171
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 11,
+    "fullmove": 7,
+    "parent_position": "r1b1kb1r/ppp2ppp/2n1pn2/q7/8/2NB1N2/PPPPQPPP/R1B1K2R w KQkq - 0 7",
+    "gaps": [
+      0.297223976705399,
+      0.31671689049527796,
+      0.31671689049527796
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb1r/ppp2ppp/2n1pn2/q7/2B5/2N2N2/PPPPQPPP/R1B1K2R b KQkq - 1 7",
+        "move": "d3c4",
+        "value": -0.11614021174790659,
+        "cp": -35,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000251
+      },
+      {
+        "position": "r1b1kb1r/ppp2ppp/2n1pn2/q7/4N3/3B1N2/PPPPQPPP/R1B1K2R b KQkq - 1 7",
+        "move": "c3e4",
+        "value": 0.20057667874737134,
+        "cp": 61,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000500
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 11,
+    "fullmove": 9,
+    "parent_position": "r1b1k2r/ppp2ppp/2n1pb2/q7/8/3B1N2/PPPPQPPP/R1B1K2R w KQkq - 0 9",
+    "gaps": [
+      0.5100524024963076,
+      0.538827313054348,
+      0.538827313054348
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1k2r/ppp2ppp/2n1pb2/q7/4B3/5N2/PPPPQPPP/R1B1K2R b KQkq - 1 9",
+        "move": "d3e4",
+        "value": -0.13909244787845804,
+        "cp": -42,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000114
+      },
+      {
+        "position": "r1b1k2r/ppp2ppp/2n1pb2/q7/2P5/3B1N2/PP1PQPPP/R1B1K2R b KQkq - 0 9",
+        "move": "c2c4",
+        "value": 0.39973486517588985,
+        "cp": 127,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000149
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 11,
+    "fullmove": 14,
+    "parent_position": "r3k2r/pp1b1ppp/1pn1p3/8/2P1B3/5N2/P2PQPPP/2b1K2R w Kkq - 2 14",
+    "gaps": [
+      0.4124528096337775,
+      0.47876530969160513,
+      0.47876530969160513
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r3k2r/pp1b1ppp/1pn1p3/8/2P1B3/5N2/P2PQPPP/2b2RK1 b kq - 3 14",
+        "move": "e1g1",
+        "value": -0.8210398813328771,
+        "cp": -348,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000218
+      },
+      {
+        "position": "r3k2r/pp1b1ppp/1pB1p3/8/2P5/5N2/P2PQPPP/2b1K2R b Kkq - 0 14",
+        "move": "e4c6",
+        "value": -0.34227457164127195,
+        "cp": -107,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000433
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 11,
+    "fullmove": 16,
+    "parent_position": "r3k2r/pp3ppp/1pb1p3/8/2P5/5N2/Pb1PQPPP/5RK1 w kq - 2 16",
+    "gaps": [
+      0.9288576214547276,
+      0.9308579040983541,
+      0.9308579040983541
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r3k2r/pp3ppp/1pb1p3/8/2PP4/5N2/Pb2QPPP/5RK1 b kq - 0 16",
+        "move": "d2d4",
+        "value": -0.9075288044109304,
+        "cp": -454,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000507
+      },
+      {
+        "position": "r3k2r/pp3ppp/1pb1p3/8/2P5/5N2/Pb1PQPPP/1R4K1 b kq - 3 16",
+        "move": "f1b1",
+        "value": 0.023329099687423707,
+        "cp": 7,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000406
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 11,
+    "fullmove": 20,
+    "parent_position": "3rr1k1/pp3ppp/1pb1pb2/8/1RP5/3N4/P2PQPPP/6K1 w - - 10 20",
+    "gaps": [
+      0.4332756085189632,
+      0.4777587597231637,
+      0.4777587597231637
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3rr1k1/pp3ppp/1pb1pb2/8/2P5/1R1N4/P2PQPPP/6K1 b - - 11 20",
+        "move": "b4b3",
+        "value": 0.15539736153535738,
+        "cp": 47,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000174
+      },
+      {
+        "position": "3rr1k1/pp3ppp/1pb1pb2/8/1RP5/3NQ3/P2P1PPP/6K1 b - - 11 20",
+        "move": "e2e3",
+        "value": 0.633156121258521,
+        "cp": 224,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000351
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 11,
+    "fullmove": 21,
+    "parent_position": "4r1k1/pp1r1ppp/1pb1pb2/8/1RP5/3NQ3/P2P1PPP/6K1 w - - 12 21",
+    "gaps": [
+      0.5343848426184165,
+      0.4897377966472972,
+      0.4897377966472972
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "4r1k1/pp1r1ppp/1pb1pb2/4N3/1RP5/4Q3/P2P1PPP/6K1 b - - 13 21",
+        "move": "d3e5",
+        "value": 0.43819931483276775,
+        "cp": 141,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000338
+      },
+      {
+        "position": "4r1k1/pp1r1ppp/1pb1pb2/8/1RP5/3N3Q/P2P1PPP/6K1 b - - 13 21",
+        "move": "e3h3",
+        "value": 0.927937111480065,
+        "cp": 493,
+        "mate": null,
+        "terminal": false,
+        "depth": 17,
+        "nodes": 1000217
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 4,
+    "parent_position": "rnb1kbnr/ppp1pppp/4q3/8/8/2N5/PPPPNPPP/R1BQKB1R b KQkq - 3 4",
+    "gaps": [
+      0.20637236206252915,
+      0.19903606343586247,
+      0.19903606343586247
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "rnb1kb1r/ppp1pppp/4qn2/8/8/2N5/PPPPNPPP/R1BQKB1R w KQkq - 4 5",
+        "move": "g8f6",
+        "value": 0.22286294181414548,
+        "cp": 68,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000173
+      },
+      {
+        "position": "r1b1kbnr/ppp1pppp/2n1q3/8/8/2N5/PPPPNPPP/R1BQKB1R w KQkq - 4 5",
+        "move": "b8c6",
+        "value": 0.42189900525000795,
+        "cp": 135,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000377
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 5,
+    "parent_position": "r1b1kbnr/ppp1pppp/2n1q3/8/3P4/2N5/PPP1NPPP/R1BQKB1R b KQkq - 0 5",
+    "gaps": [
+      0.4114335559491006,
+      0.40961885382612245,
+      0.40961885382612245
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kbnr/pppqpppp/2n5/8/3P4/2N5/PPP1NPPP/R1BQKB1R w KQkq - 1 6",
+        "move": "e6d7",
+        "value": 0.388472680216061,
+        "cp": 123,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000182
+      },
+      {
+        "position": "r1b1kbnr/ppp1pppp/2n5/8/3P2q1/2N5/PPP1NPPP/R1BQKB1R w KQkq - 1 6",
+        "move": "e6g4",
+        "value": 0.7980915340421835,
+        "cp": 328,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000613
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 7,
+    "parent_position": "r1b1kbnr/pppqpppp/2n5/8/3P1B2/2N4P/PPP1NPP1/R2QKB1R b KQkq - 2 7",
+    "gaps": [
+      0.5332155469955235,
+      0.5390643660239188,
+      0.5390643660239188
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb1r/pppqpppp/2n2n2/8/3P1B2/2N4P/PPP1NPP1/R2QKB1R w KQkq - 3 8",
+        "move": "g8f6",
+        "value": 0.3713602278765077,
+        "cp": 117,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000330
+      },
+      {
+        "position": "r1b1kbnr/pppqp1pp/2n2p2/8/3P1B2/2N4P/PPP1NPP1/R2QKB1R w KQkq - 0 8",
+        "move": "f7f6",
+        "value": 0.9104245939004265,
+        "cp": 459,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000376
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 14,
+    "parent_position": "2kr1bnr/ppp3pp/2n5/4p3/4N3/3BB2P/PPP2PP1/R2K3R b - - 2 14",
+    "gaps": [
+      0.23340278081908505,
+      0.3000950721934233,
+      0.3000950721934233
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2kr1bnr/ppp3pp/8/4p3/1n2N3/3BB2P/PPP2PP1/R2K3R w - - 3 15",
+        "move": "c6b4",
+        "value": 0.03332099313882286,
+        "cp": 10,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000153
+      },
+      {
+        "position": "2kr1b1r/ppp3pp/2n2n2/4p3/4N3/3BB2P/PPP2PP1/R2K3R w - - 3 15",
+        "move": "g8f6",
+        "value": 0.33341606533224616,
+        "cp": 104,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000279
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 17,
+    "parent_position": "2kr1b1r/ppp4p/5p2/4p3/3n4/3BB2P/PPP2PP1/R4K1R b - - 3 17",
+    "gaps": [
+      0.23760038366968197,
+      0.20371912659912367,
+      0.20371912659912367
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2kr1b1r/ppp5/5p2/4p2p/3n4/3BB2P/PPP2PP1/R4K1R w - - 0 18",
+        "move": "h7h5",
+        "value": 0.26362483547220333,
+        "cp": 81,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000606
+      },
+      {
+        "position": "2kr3r/ppp4p/3b1p2/4p3/3n4/3BB2P/PPP2PP1/R4K1R w - - 4 18",
+        "move": "f8d6",
+        "value": 0.467343962071327,
+        "cp": 152,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000404
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 18,
+    "parent_position": "2kr3r/ppp4p/3b1p2/4p3/2Pn4/3BB2P/PP3PP1/R4K1R b - - 0 18",
+    "gaps": [
+      0.21629899041147513,
+      0.21472848451502644,
+      0.21472848451502644
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2kr3r/ppp4p/5p2/2b1p3/2Pn4/3BB2P/PP3PP1/R4K1R w - - 1 19",
+        "move": "d6c5",
+        "value": 0.03332099313882286,
+        "cp": 10,
+        "mate": null,
+        "terminal": false,
+        "depth": 25,
+        "nodes": 1000625
+      },
+      {
+        "position": "2kr3r/pp5p/2pb1p2/4p3/2Pn4/3BB2P/PP3PP1/R4K1R w - - 0 19",
+        "move": "c7c6",
+        "value": 0.2480494776538493,
+        "cp": 76,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000592
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 20,
+    "parent_position": "2kr3r/ppb4p/2p2p2/4p3/1PPn4/3BB2P/P4PP1/2R2K1R b - - 0 20",
+    "gaps": [
+      0.3603616192861672,
+      0.2886079439838633,
+      0.2886079439838633
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1k1r3r/ppb4p/2p2p2/4p3/1PPn4/3BB2P/P4PP1/2R2K1R w - - 1 21",
+        "move": "c8b8",
+        "value": 0.056606090151657594,
+        "cp": 17,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000365
+      },
+      {
+        "position": "2kr3r/pp5p/2pb1p2/4p3/1PPn4/3BB2P/P4PP1/2R2K1R w - - 1 21",
+        "move": "c7d6",
+        "value": 0.3452140341355209,
+        "cp": 108,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000429
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 22,
+    "parent_position": "2kr1b1r/pp5p/2p2p2/2P1p3/1PRn4/3BB2P/P4PP1/5K1R b - - 2 22",
+    "gaps": [
+      0.3035051998452802,
+      0.32694284181308053,
+      0.32694284181308053
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2kr1b1r/p6p/2p2p2/1pP1p3/1PRn4/3BB2P/P4PP1/5K1R w - b6 0 23",
+        "move": "b7b5",
+        "value": 0.13254878839087839,
+        "cp": 40,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000386
+      },
+      {
+        "position": "2kr3r/pp4bp/2p2p2/2P1p3/1PRn4/3BB2P/P4PP1/5K1R w - - 3 23",
+        "move": "f8g7",
+        "value": 0.4594916302039589,
+        "cp": 149,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000548
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 24,
+    "parent_position": "2kr3r/1p4bp/p1p2p2/2P1p3/PPRn4/3B3P/3B1PP1/5K1R b - - 1 24",
+    "gaps": [
+      0.2056085551800843,
+      0.15260168329348206,
+      0.15260168329348206
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2kr3r/1p4bp/p1p2p2/2P1p3/PPR5/1n1B3P/3B1PP1/5K1R w - - 2 25",
+        "move": "d4b3",
+        "value": -0.023329099687423707,
+        "cp": -7,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000191
+      },
+      {
+        "position": "2k4r/1p4bp/p1p2p2/2Prp3/PPRn4/3B3P/3B1PP1/5K1R w - - 2 25",
+        "move": "d8d5",
+        "value": 0.12927258360605834,
+        "cp": 39,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000153
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 26,
+    "parent_position": "2k4r/1p4bp/p1p1np2/2Prp3/PPR5/4B2P/4BPP1/5K1R b - - 5 26",
+    "gaps": [
+      0.22000528011941323,
+      0.2676280758924502,
+      0.2676280758924502
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2k4r/1p4bp/p1p1n3/2Prpp2/PPR5/4B2P/4BPP1/5K1R w - - 0 27",
+        "move": "f6f5",
+        "value": -0.013332543266059059,
+        "cp": -4,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000631
+      },
+      {
+        "position": "2kr4/1p4bp/p1p1np2/2Prp3/PPR5/4B2P/4BPP1/5K1R w - - 6 27",
+        "move": "h8d8",
+        "value": 0.25429553262639115,
+        "cp": 78,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000515
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 29,
+    "parent_position": "2kr4/1p4bp/p1p5/2Prpp2/PPRn1P2/3BB1PP/8/5K1R b - - 0 29",
+    "gaps": [
+      1.3149343049559212,
+      1.3479943222644026,
+      1.3479943222644026
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2kr4/1p4bp/p1p5/2Pr1p2/PPRnpP2/3BB1PP/8/5K1R w - - 0 30",
+        "move": "e5e4",
+        "value": -0.5153592780074097,
+        "cp": -171,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000018
+      },
+      {
+        "position": "2kr4/1p4bp/p1p1n3/2Prpp2/PPR2P2/3BB1PP/8/5K1R w - - 1 30",
+        "move": "d4e6",
+        "value": 0.8326350442569929,
+        "cp": 359,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000030
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 12,
+    "fullmove": 30,
+    "parent_position": "2kr4/1p4bp/p1p1n3/2PrpB2/PPR2P2/4B1PP/8/5K1R b - - 0 30",
+    "gaps": [
+      0.1787781314729825,
+      0.17426665688069287,
+      0.17426665688069287
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3r4/1p1k2bp/p1p1n3/2PrpB2/PPR2P2/4B1PP/8/5K1R w - - 1 31",
+        "move": "c8d7",
+        "value": 0.8004990217606297,
+        "cp": 330,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000467
+      },
+      {
+        "position": "2kr4/1p4bp/p1p1n3/2P1pB2/PPR2P2/4B1PP/8/3r1K1R w - - 1 31",
+        "move": "d5d1",
+        "value": 0.9747656786413226,
+        "cp": 654,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000030
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 13,
+    "fullmove": 6,
+    "parent_position": "r1bqkb1r/pppn1ppp/4pn2/8/Q1pP4/2N2N2/PP2PPPP/R1B1KB1R w KQkq - 2 6",
+    "gaps": [
+      0.22899079064672678,
+      0.20591384089602033,
+      0.20591384089602033
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkb1r/pppn1ppp/4pn2/8/Q1pPP3/2N2N2/PP3PPP/R1B1KB1R b KQkq - 0 6",
+        "move": "e2e4",
+        "value": -0.1128505788988202,
+        "cp": -34,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000325
+      },
+      {
+        "position": "r1bqkb1r/pppn1ppp/4pn2/8/2QP4/2N2N2/PP2PPPP/R1B1KB1R b KQkq - 0 6",
+        "move": "a4c4",
+        "value": 0.09306326199720014,
+        "cp": 28,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000601
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 13,
+    "fullmove": 9,
+    "parent_position": "r2qkb1r/1bpn1ppp/p3pn2/1p6/3P4/2NQ1N2/PP1BPPPP/R3KB1R w KQkq - 2 9",
+    "gaps": [
+      0.6125884762708755,
+      0.6318474165452783,
+      0.6318474165452783
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2qkb1r/1bpn1ppp/p3pn2/1p6/3P4/2NQ1NP1/PP1BPP1P/R3KB1R b KQkq - 0 9",
+        "move": "g2g3",
+        "value": 0.2913126124515909,
+        "cp": 90,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000062
+      },
+      {
+        "position": "r2qkb1r/1bpn1ppp/p3pn2/1p6/3P4/2NQ1N2/PP1BPPPP/2KR1B1R b kq - 3 9",
+        "move": "e1c1",
+        "value": 0.9231600289968692,
+        "cp": 483,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000047
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 13,
+    "fullmove": 11,
+    "parent_position": "r2q1rk1/1bpnbppp/p3pn2/1p4N1/3P4/2NQ4/PP1BPPPP/2KR1B1R w - - 6 11",
+    "gaps": [
+      0.21948579243735133,
+      0.20313316336478981,
+      0.20313316336478981
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2q1rk1/1bpnbppp/p3pn2/1p4N1/3PP3/2NQ4/PP1B1PPP/2KR1B1R b - - 0 11",
+        "move": "e2e4",
+        "value": 0.7615941559557649,
+        "cp": 300,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000112
+      },
+      {
+        "position": "r2q1rk1/1bpnbppp/p3pn2/1p4N1/3P4/2N4Q/PP1BPPPP/2KR1B1R b - - 7 11",
+        "move": "d3h3",
+        "value": 0.9647273193205547,
+        "cp": 603,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000002
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 13,
+    "fullmove": 18,
+    "parent_position": "r2qr2k/1bpn2p1/p2b1P1p/8/3P4/1Qp5/PP1B1PPP/2KR1B1R w - - 0 18",
+    "gaps": [
+      0.39164716191928106,
+      0.40193672598745,
+      0.40193672598745
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r2qr2k/1bpn2P1/p2b3p/8/3P4/1Qp5/PP1B1PPP/2KR1B1R b - - 0 18",
+        "move": "f6g7",
+        "value": 0.5827829453479101,
+        "cp": 200,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000018
+      },
+      {
+        "position": "r2qr2k/1bpn2p1/p2b1P1p/8/3P4/1QP5/P2B1PPP/2KR1B1R b - - 0 18",
+        "move": "b2c3",
+        "value": 0.9847196713353601,
+        "cp": 730,
+        "mate": null,
+        "terminal": false,
+        "depth": 25,
+        "nodes": 1000154
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 14,
+    "fullmove": 11,
+    "parent_position": "r1bq1rk1/p4pp1/2p1pn2/3p4/1bP5/2N1P3/PP2BPPP/R1BQ1RK1 b - - 1 11",
+    "gaps": [
+      0.2826095394367752,
+      0.231870537861296,
+      0.231870537861296
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1rk1/p4pp1/2p2n2/3pp3/1bP5/2N1P3/PP2BPPP/R1BQ1RK1 w - - 0 12",
+        "move": "e6e5",
+        "value": 0.1423597652165471,
+        "cp": 43,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000092
+      },
+      {
+        "position": "r1bq1rk1/p4pp1/2p1pn2/8/1bp5/2N1P3/PP2BPPP/R1BQ1RK1 w - - 0 12",
+        "move": "d5c4",
+        "value": 0.3742303030778431,
+        "cp": 118,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000294
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 14,
+    "fullmove": 15,
+    "parent_position": "r1r3k1/pb3pp1/2p1pn2/8/1b6/1BN1P3/PP1B1PPP/R2R2K1 b - - 4 15",
+    "gaps": [
+      0.33468307993686597,
+      0.36101315772401427,
+      0.36101315772401427
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1r3k1/p4pp1/b1p1pn2/8/1b6/1BN1P3/PP1B1PPP/R2R2K1 w - - 5 16",
+        "move": "b7a6",
+        "value": 0.3569038982840363,
+        "cp": 112,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000358
+      },
+      {
+        "position": "r3r1k1/pb3pp1/2p1pn2/8/1b6/1BN1P3/PP1B1PPP/R2R2K1 w - - 5 16",
+        "move": "c8e8",
+        "value": 0.7179170560080506,
+        "cp": 271,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000489
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 14,
+    "fullmove": 17,
+    "parent_position": "3rr1k1/pb3pp1/2p1pn2/8/1b6/1BN1P2P/PP1B1PP1/2RR2K1 b - - 2 17",
+    "gaps": [
+      0.264492636057702,
+      0.26768546841073204,
+      0.26768546841073204
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3rr1k1/pb3pp1/4pn2/2p5/1b6/1BN1P2P/PP1B1PP1/2RR2K1 w - - 0 18",
+        "move": "c6c5",
+        "value": 0.633156121258521,
+        "cp": 224,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000152
+      },
+      {
+        "position": "3rr1k1/pb3pp1/2p2n2/4p3/1b6/1BN1P2P/PP1B1PP1/2RR2K1 w - - 0 18",
+        "move": "e6e5",
+        "value": 0.9008415896692531,
+        "cp": 443,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000421
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 15,
+    "fullmove": 6,
+    "parent_position": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P4/N4N2/PP2PPPP/R1BQKB1R w KQkq - 2 6",
+    "gaps": [
+      0.4925516256176391,
+      0.5016153113980992,
+      0.5016153113980992
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P4/N3PN2/PP3PPP/R1BQKB1R b KQkq - 0 6",
+        "move": "e2e3",
+        "value": 0.096366689100842,
+        "cp": 29,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000505
+      },
+      {
+        "position": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P4/N4N2/PP2PPPP/R1BQKBR1 b Qkq - 3 6",
+        "move": "h1g1",
+        "value": 0.5979820004989412,
+        "cp": 207,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000277
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 15,
+    "fullmove": 7,
+    "parent_position": "r1bqkb1r/pp3ppp/2n1pn2/3p4/3P4/N4N2/PP2PPPP/R1BQKBR1 w Qkq - 0 7",
+    "gaps": [
+      0.2759362151077521,
+      0.3458559031661133,
+      0.3458559031661133
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkb1r/pp3ppp/2n1pn2/3p4/3P4/N3PN2/PP3PPP/R1BQKBR1 b Qkq - 0 7",
+        "move": "e2e3",
+        "value": 0.39693043200507755,
+        "cp": 126,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000639
+      },
+      {
+        "position": "r1bqkb1r/pp3ppp/2n1pn2/3p4/3P4/N4N2/PPQ1PPPP/R1B1KBR1 b Qkq - 1 7",
+        "move": "d1c2",
+        "value": 0.7427863351711909,
+        "cp": 287,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000630
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 15,
+    "fullmove": 9,
+    "parent_position": "r1bqk2r/pp2bppp/2n1p3/3p4/3Pn3/N4N2/PPQBPPPP/R3KBR1 w Qkq - 4 9",
+    "gaps": [
+      0.37465580027533224,
+      0.35617442613163897,
+      0.35617442613163897
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqk2r/pp2bppp/2n1p3/1N1p4/3Pn3/5N2/PPQBPPPP/R3KBR1 b Qkq - 5 9",
+        "move": "a3b5",
+        "value": 0.5298956075275294,
+        "cp": 177,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000594
+      },
+      {
+        "position": "r1bqk2r/pp2bppp/2n1p3/3p4/3Pn3/N4N2/PPQBPPPP/2R1KBR1 b kq - 5 9",
+        "move": "a1c1",
+        "value": 0.8860700336591684,
+        "cp": 421,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000630
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 7,
+    "parent_position": "r1b1kb1r/pp2pppp/1qn2n2/3p4/3P1B2/2N2N2/PP1QPPPP/R3KB1R b KQkq - 7 7",
+    "gaps": [
+      0.22230657313803848,
+      0.1857804743763444,
+      0.1857804743763444
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb1r/pp2pppp/1qn5/3p4/3PnB2/2N2N2/PP1QPPPP/R3KB1R w KQkq - 8 8",
+        "move": "f6e4",
+        "value": -0.13582209941846443,
+        "cp": -41,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000428
+      },
+      {
+        "position": "r1b1kb1r/pp2ppp1/1qn2n1p/3p4/3P1B2/2N2N2/PP1QPPPP/R3KB1R w KQkq - 0 8",
+        "move": "h7h6",
+        "value": 0.04995837495787998,
+        "cp": 15,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000195
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 8,
+    "parent_position": "r1b1kb1r/pp2ppp1/1qn2n1p/3p4/3P1B2/2N1PN2/PP1Q1PPP/R3KB1R b KQkq - 0 8",
+    "gaps": [
+      0.5147459853258239,
+      0.6416536735881432,
+      0.6416536735881432
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb1r/pp2ppp1/1qn4p/3p4/3PnB2/2N1PN2/PP1Q1PPP/R3KB1R w KQkq - 1 9",
+        "move": "f6e4",
+        "value": 0.0033333209877091908,
+        "cp": 1,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000606
+      },
+      {
+        "position": "r1b1kb2/pp2pppr/1qn2n1p/3p4/3P1B2/2N1PN2/PP1Q1PPP/R3KB1R w KQq - 1 9",
+        "move": "h8h7",
+        "value": 0.6449869945758524,
+        "cp": 230,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000246
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 10,
+    "parent_position": "r1b1kb2/pp2pp1r/1qn2n1p/3p2p1/3P4/2N1PNBP/PP1Q1PP1/R3KB1R b KQq - 1 10",
+    "gaps": [
+      0.5493896443575192,
+      0.5569636908847077,
+      0.5569636908847077
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1kb2/pp2pp1r/1qn4p/3p2p1/3Pn3/2N1PNBP/PP1Q1PP1/R3KB1R w KQq - 2 11",
+        "move": "f6e4",
+        "value": 0.18130656540177167,
+        "cp": 55,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000218
+      },
+      {
+        "position": "r1b1k3/pp2ppbr/1qn2n1p/3p2p1/3P4/2N1PNBP/PP1Q1PP1/R3KB1R w KQq - 2 11",
+        "move": "f8g7",
+        "value": 0.7382702562864794,
+        "cp": 284,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000082
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 13,
+    "parent_position": "r3k3/pp2ppbr/1qn4p/3p1bp1/3PN3/4PNBP/PP1QBPP1/R4RK1 b q - 0 13",
+    "gaps": [
+      0.4494100478291216,
+      0.50480041922804,
+      0.50480041922804
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r3k3/pp2ppbr/1qn4p/5bp1/3Pp3/4PNBP/PP1QBPP1/R4RK1 w q - 0 14",
+        "move": "d5e4",
+        "value": 0.3004370971476541,
+        "cp": 93,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000449
+      },
+      {
+        "position": "r3k3/pp2ppbr/1qn4p/3p2p1/3Pb3/4PNBP/PP1QBPP1/R4RK1 w q - 0 14",
+        "move": "f5e4",
+        "value": 0.8052375163756941,
+        "cp": 334,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000404
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 14,
+    "parent_position": "r3k3/pp2ppbr/1qn4p/3p2p1/3Pb3/4PNBP/PP1QBPP1/R1R3K1 b q - 1 14",
+    "gaps": [
+      0.2057195729241651,
+      0.21013429905215741,
+      0.21013429905215741
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r3k3/1p2ppbr/pqn4p/3p2p1/3Pb3/4PNBP/PP1QBPP1/R1R3K1 w q - 0 15",
+        "move": "a7a6",
+        "value": 0.7765683489701757,
+        "cp": 311,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000210
+      },
+      {
+        "position": "2kr4/pp2ppbr/1qn4p/3p2p1/3Pb3/4PNBP/PP1QBPP1/R1R3K1 w - - 2 15",
+        "move": "e8c8",
+        "value": 0.9867026480223331,
+        "cp": 751,
+        "mate": null,
+        "terminal": false,
+        "depth": 24,
+        "nodes": 1000558
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 18,
+    "parent_position": "3r4/1p1kp1br/1qn2p1p/p2p2p1/3Pb3/Q3PNBP/PP2BPP1/R1R3K1 b - - 1 18",
+    "gaps": [
+      0.2909039328613737,
+      0.24054356343055916,
+      0.24054356343055916
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3r4/1p1k2br/1qn2p1p/p2pp1p1/3Pb3/Q3PNBP/PP2BPP1/R1R3K1 w - - 0 19",
+        "move": "e7e5",
+        "value": 0.7442768673618373,
+        "cp": 288,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000209
+      },
+      {
+        "position": "4r3/1p1kp1br/1qn2p1p/p2p2p1/3Pb3/Q3PNBP/PP2BPP1/R1R3K1 w - - 2 19",
+        "move": "d8e8",
+        "value": 0.9848204307923965,
+        "cp": 731,
+        "mate": null,
+        "terminal": false,
+        "depth": 27,
+        "nodes": 1000451
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 21,
+    "parent_position": "4r3/1p1k2br/1qn4p/p2pp1p1/4b3/1Q2PNBP/PP2BPP1/R1R3K1 b - - 1 21",
+    "gaps": [
+      0.7549167755259708,
+      0.8420850837450408,
+      0.8420850837450408
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "4r3/1p1k2br/2n4p/p2pp1p1/4b3/1q2PNBP/PP2BPP1/R1R3K1 w - - 0 22",
+        "move": "b6b3",
+        "value": 0.07651680911202627,
+        "cp": 23,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000467
+      },
+      {
+        "position": "4r3/1p1k2br/2n4p/p2pp1p1/1q2b3/1Q2PNBP/PP2BPP1/R1R3K1 w - - 2 22",
+        "move": "b6b4",
+        "value": 0.9186018928570671,
+        "cp": 474,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000580
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 25,
+    "parent_position": "4rb2/1p1k3r/2n3bp/1B1pp1p1/1p6/1N2P1BP/PP3PP1/R1R3K1 b - - 5 25",
+    "gaps": [
+      0.4738612326850983,
+      0.47874802971431085,
+      0.47874802971431085
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "4rb2/1p5r/2nk2bp/1B1pp1p1/1p6/1N2P1BP/PP3PP1/R1R3K1 w - - 6 26",
+        "move": "d7d6",
+        "value": 0.4408886478609151,
+        "cp": 142,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000183
+      },
+      {
+        "position": "3krb2/1p5r/2n3bp/1B1pp1p1/1p6/1N2P1BP/PP3PP1/R1R3K1 w - - 6 26",
+        "move": "d7d8",
+        "value": 0.9196366775752259,
+        "cp": 476,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000317
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 16,
+    "fullmove": 27,
+    "parent_position": "3kr3/1p5r/2n3bp/1BRpp1p1/1p6/4P1BP/PP3PP1/R5K1 b - - 0 27",
+    "gaps": [
+      0.14015013096776063,
+      0.10479297985484082,
+      0.10479297985484082
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "3kr3/1p5r/2n3bp/1BR1p1p1/1p1p4/4P1BP/PP3PP1/R5K1 w - - 0 28",
+        "move": "d5d4",
+        "value": 0.8284997954910082,
+        "cp": 355,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000429
+      },
+      {
+        "position": "3kr3/1p3b1r/2n4p/1BRpp1p1/1p6/4P1BP/PP3PP1/R5K1 w - - 1 28",
+        "move": "g6f7",
+        "value": 0.933292775345849,
+        "cp": 505,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000523
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 17,
+    "fullmove": 5,
+    "parent_position": "r1bqk2r/pppp1ppp/2n2n2/2bNp3/2P5/1Q6/PP1PPPPP/R1B1KBNR w KQkq - 6 5",
+    "gaps": [
+      0.22902331137137125,
+      0.25846616827200974,
+      0.25846616827200974
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqk2r/pppp1ppp/2n2n2/2bNp3/2P5/1Q2P3/PP1P1PPP/R1B1KBNR b KQkq - 0 5",
+        "move": "e2e3",
+        "value": 0.17161804312996976,
+        "cp": 52,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000340
+      },
+      {
+        "position": "r1bqk2r/pppp1ppp/2n2n2/2bNp3/2P5/1Q5N/PP1PPPPP/R1B1KB1R b KQkq - 7 5",
+        "move": "g1h3",
+        "value": 0.4300842114019795,
+        "cp": 138,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000208
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 17,
+    "fullmove": 10,
+    "parent_position": "r1bq1rk1/ppp1n1pp/3p4/2bPpp2/2Q5/3BP2N/PP1P1PPP/R1B1K2R w KQ - 0 10",
+    "gaps": [
+      0.2600857041099769,
+      0.1871764729479529,
+      0.1871764729479529
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1rk1/ppp1n1pp/3p4/2bPpp2/1PQ5/3BP2N/P2P1PPP/R1B1K2R b KQ - 0 10",
+        "move": "b2b4",
+        "value": 0.18130656540177167,
+        "cp": 55,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000550
+      },
+      {
+        "position": "r1bq1rk1/ppp1n1pp/3p4/2bPppN1/2Q5/3BP3/PP1P1PPP/R1B1K2R b KQ - 1 10",
+        "move": "h3g5",
+        "value": 0.36848303834972457,
+        "cp": 116,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000039
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 17,
+    "fullmove": 12,
+    "parent_position": "r1bq1rk1/p1p1n1pp/3p4/1pbP1pN1/2Q1p3/4P3/PP1PBPPP/R1B1K2R w KQ - 0 12",
+    "gaps": [
+      0.32544104290343445,
+      0.32211349298079767,
+      0.32211349298079767
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1rk1/p1p1n1pp/3p4/1QbP1pN1/4p3/4P3/PP1PBPPP/R1B1K2R b KQ - 0 12",
+        "move": "c4b5",
+        "value": -0.03997868031116357,
+        "cp": -12,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000597
+      },
+      {
+        "position": "r1bq1rk1/p1p1n1pp/3p4/1pbP1pN1/4p3/1Q2P3/PP1PBPPP/R1B1K2R b KQ - 1 12",
+        "move": "c4b3",
+        "value": 0.2821348126696341,
+        "cp": 87,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000218
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 17,
+    "fullmove": 18,
+    "parent_position": "1r1r2k1/p1p3pp/1nBp4/2b2p2/4p3/4P3/PP1P1PPP/R1B1K2R w KQ - 3 18",
+    "gaps": [
+      0.2721351459896346,
+      0.37576661192836497,
+      0.37576661192836497
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1r1r2k1/p1p3pp/1nBp4/2b2p2/4p3/1P2P3/P2P1PPP/R1B1K2R b KQ - 0 18",
+        "move": "b2b3",
+        "value": -0.06324878996353721,
+        "cp": -19,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000183
+      },
+      {
+        "position": "1r1r2k1/p1p3pp/1nBp4/2b2p2/P3p3/4P3/1P1P1PPP/R1B1K2R b KQ - 0 18",
+        "move": "a2a4",
+        "value": 0.31251782196482775,
+        "cp": 97,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000040
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 17,
+    "fullmove": 19,
+    "parent_position": "2rr2k1/p1p3pp/1nBp4/2b2p2/P3p3/4P3/1P1P1PPP/R1B1K2R w KQ - 1 19",
+    "gaps": [
+      0.48981686072103714,
+      0.5301842903234834,
+      0.5301842903234834
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "2rr2k1/p1p3pp/1nBp4/P1b2p2/4p3/4P3/1P1P1PPP/R1B1K2R b KQ - 0 19",
+        "move": "a4a5",
+        "value": -0.2480494776538493,
+        "cp": -76,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000521
+      },
+      {
+        "position": "2rr2k1/pBp3pp/1n1p4/2b2p2/P3p3/4P3/1P1P1PPP/R1B1K2R b KQ - 2 19",
+        "move": "c6b7",
+        "value": 0.2821348126696341,
+        "cp": 87,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000084
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 18,
+    "fullmove": 7,
+    "parent_position": "r1b1k2r/ppppqppp/5n2/n3p3/1bP5/2NP1NP1/PP2PPBP/R1BQ1RK1 b kq - 4 7",
+    "gaps": [
+      0.3376623227567851,
+      0.4255885100608467,
+      0.4255885100608467
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1k2r/ppppqppp/5n2/n3p3/2P5/2bP1NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8",
+        "move": "b4c3",
+        "value": 0.32747739480870536,
+        "cp": 102,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000552
+      },
+      {
+        "position": "r1b1k2r/pp1pqppp/2p2n2/n3p3/1bP5/2NP1NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8",
+        "move": "c7c6",
+        "value": 0.753065904869552,
+        "cp": 294,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000529
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 18,
+    "fullmove": 10,
+    "parent_position": "r1b1k2r/p2pqppp/1ppb1n2/n3p3/2P1P3/P1NP1NP1/1PQ2PBP/R1B2RK1 b kq - 0 10",
+    "gaps": [
+      0.1583706287522536,
+      0.15933179990808233,
+      0.15933179990808233
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1k2r/p1bpqppp/1pp2n2/n3p3/2P1P3/P1NP1NP1/1PQ2PBP/R1B2RK1 w kq - 1 11",
+        "move": "d6c7",
+        "value": 0.7805070469926899,
+        "cp": 314,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000561
+      },
+      {
+        "position": "r1b1k2r/p2pqpp1/1ppb1n1p/n3p3/2P1P3/P1NP1NP1/1PQ2PBP/R1B2RK1 w kq - 0 11",
+        "move": "h7h6",
+        "value": 0.9398388469007722,
+        "cp": 521,
+        "mate": null,
+        "terminal": false,
+        "depth": 18,
+        "nodes": 1000481
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 18,
+    "fullmove": 11,
+    "parent_position": "r1b1k2r/p2pqpp1/1ppb1n1p/n3p3/2P1P3/P1NPBNP1/1PQ2PBP/R4RK1 b kq - 1 11",
+    "gaps": [
+      0.26709355104649457,
+      0.2644883134053291,
+      0.2644883134053291
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1b1k2r/p1bpqpp1/1pp2n1p/n3p3/2P1P3/P1NPBNP1/1PQ2PBP/R4RK1 w kq - 2 12",
+        "move": "d6c7",
+        "value": 0.6875705819182801,
+        "cp": 253,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000098
+      },
+      {
+        "position": "r3k2r/p2pqpp1/bppb1n1p/n3p3/2P1P3/P1NPBNP1/1PQ2PBP/R4RK1 w kq - 2 12",
+        "move": "c8a6",
+        "value": 0.9520588953236092,
+        "cp": 556,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000466
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 19,
+    "fullmove": 10,
+    "parent_position": "r1bq1rk1/pp2ppbp/1np3p1/3p4/3P4/2N1B1PP/PPP1PPB1/R2QK2R w KQ - 1 10",
+    "gaps": [
+      0.379009185987797,
+      0.39182292478041353,
+      0.39182292478041353
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bq1rk1/pp2ppbp/1np3p1/3p4/3P4/1PN1B1PP/P1P1PPB1/R2QK2R b KQ - 0 10",
+        "move": "b2b3",
+        "value": 0.19096002056749656,
+        "cp": 58,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000345
+      },
+      {
+        "position": "r1bq1rk1/pp2ppbp/1np3p1/3p4/3P4/2N1B1PP/PPP1PPB1/R1Q1K2R b KQ - 2 10",
+        "move": "d1c1",
+        "value": 0.5827829453479101,
+        "cp": 200,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000246
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 19,
+    "fullmove": 14,
+    "parent_position": "r4rk1/pp2ppbp/2p1b1p1/q2p4/3P4/4Q1PP/PPP1PPB1/R2N1K1R w - - 1 14",
+    "gaps": [
+      0.4618528388213416,
+      0.4966333752297836,
+      0.4966333752297836
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4rk1/pp2ppbp/2p1b1p1/q2p4/3P4/2P1Q1PP/PP2PPB1/R2N1K1R b - - 0 14",
+        "move": "c2c3",
+        "value": 0.36848303834972457,
+        "cp": 116,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000584
+      },
+      {
+        "position": "r4rk1/pp2ppbp/2p1b1p1/q2p4/3P4/2N1Q1PP/PPP1PPB1/R4K1R b - - 2 14",
+        "move": "d1c3",
+        "value": 0.8651164135795082,
+        "cp": 394,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000543
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 19,
+    "fullmove": 16,
+    "parent_position": "r4rk1/pp2ppbp/2p1b1p1/3p4/3P4/2N1Q1PP/PqP1PPB1/3R1K1R w - - 0 16",
+    "gaps": [
+      0.12353468461907424,
+      0.10034645051913038,
+      0.10034645051913038
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r4rk1/pp2ppbp/2p1b1p1/3p4/3P4/2N1QBPP/PqP1PP2/3R1K1R b - - 1 16",
+        "move": "g2f3",
+        "value": 0.8853516482022625,
+        "cp": 420,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000232
+      },
+      {
+        "position": "r4rk1/pp2ppbp/2p1b1p1/3p4/3P4/2N1Q1PP/PqP1PPB1/2R2K1R b - - 1 16",
+        "move": "d1c1",
+        "value": 0.9856980987213929,
+        "cp": 740,
+        "mate": null,
+        "terminal": false,
+        "depth": 27,
+        "nodes": 1000259
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 20,
+    "fullmove": 4,
+    "parent_position": "r1bqkb1r/ppp1pppp/2n2n2/3p4/8/5NP1/PPPPPPBP/RNBQ1RK1 b kq - 4 4",
+    "gaps": [
+      0.229188996535099,
+      0.2336268472059174,
+      0.2336268472059174
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "r1bqkb1r/ppp2ppp/2n2n2/3pp3/8/5NP1/PPPPPPBP/RNBQ1RK1 w kq - 0 5",
+        "move": "e7e5",
+        "value": -0.026660347476464806,
+        "cp": -8,
+        "mate": null,
+        "terminal": false,
+        "depth": 23,
+        "nodes": 1000462
+      },
+      {
+        "position": "r2qkb1r/pppbpppp/2n2n2/3p4/8/5NP1/PPPPPPBP/RNBQ1RK1 w kq - 5 5",
+        "move": "c8d7",
+        "value": 0.20696649972945258,
+        "cp": 63,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000267
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 20,
+    "fullmove": 12,
+    "parent_position": "1r1qk2r/ppp1ppb1/2n3pp/5b2/3P3Q/2P2NP1/PP3PBP/R1B2RK1 b k - 2 12",
+    "gaps": [
+      0.5303792486466415,
+      0.5194529919825063,
+      0.5194529919825063
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1r1qk2r/ppp1ppb1/2n4p/5bp1/3P3Q/2P2NP1/PP3PBP/R1B2RK1 w k - 0 13",
+        "move": "g6g5",
+        "value": -0.37709322676595913,
+        "cp": -119,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000149
+      },
+      {
+        "position": "1r1qk2r/ppp2pb1/2n1p1pp/5b2/3P3Q/2P2NP1/PP3PBP/R1B2RK1 w k - 0 13",
+        "move": "e7e6",
+        "value": 0.1423597652165471,
+        "cp": 43,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000414
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 20,
+    "fullmove": 14,
+    "parent_position": "1r1qk2r/ppp2pb1/2n1p2p/5bpQ/3P4/2P2NP1/PP3PBP/R1B1R1K1 b k - 1 14",
+    "gaps": [
+      0.9042066546221793,
+      0.9149879871029601,
+      0.9149879871029601
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "1r1q1rk1/ppp2pb1/2n1p2p/5bpQ/3P4/2P2NP1/PP3PBP/R1B1R1K1 w - - 2 15",
+        "move": "e8g8",
+        "value": 0.056606090151657594,
+        "cp": 17,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000306
+      },
+      {
+        "position": "1r1qk2r/ppp2pb1/2n1p2p/5b1Q/3P2p1/2P2NP1/PP3PBP/R1B1R1K1 w k - 0 15",
+        "move": "g5g4",
+        "value": 0.9715940772546178,
+        "cp": 636,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000348
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 20,
+    "fullmove": 25,
+    "parent_position": "6r1/ppp2p1k/7p/7Q/8/2Pq1BPK/PP3P1P/R1B1r3 b - - 10 25",
+    "gaps": [
+      0.3131405174835985,
+      0.12593337691356432,
+      0.12593337691356432
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/ppp2prk/7p/7Q/8/2Pq1BPK/PP3P1P/R1B1r3 w - - 11 26",
+        "move": "g8g7",
+        "value": 0.7097434280174989,
+        "cp": 266,
+        "mate": null,
+        "terminal": false,
+        "depth": 21,
+        "nodes": 1000349
+      },
+      {
+        "position": "8/ppp2p1k/6rp/7Q/8/2Pq1BPK/PP3P1P/R1B1r3 w - - 11 26",
+        "move": "g8g6",
+        "value": 0.8356768049310632,
+        "cp": 362,
+        "mate": null,
+        "terminal": false,
+        "depth": 20,
+        "nodes": 1000038
+      }
+    ]
+  },
+  {
+    "accepted": true,
+    "game": 20,
+    "fullmove": 27,
+    "parent_position": "8/ppp2p1k/6rp/3B4/8/2P3PK/PP3P1P/R1B1r3 b - - 0 27",
+    "gaps": [
+      0.10990640955723818,
+      0.10951768837305242,
+      0.10951768837305242
+    ],
+    "reason": "confirmed_pair",
+    "children": [
+      {
+        "position": "8/ppp2p1k/3r3p/3B4/8/2P3PK/PP3P1P/R1B1r3 w - - 1 28",
+        "move": "g6d6",
+        "value": 0.8492157171731352,
+        "cp": 376,
+        "mate": null,
+        "terminal": false,
+        "depth": 22,
+        "nodes": 1000159
+      },
+      {
+        "position": "8/ppp2p1k/5r1p/3B4/8/2P3PK/PP3P1P/R1B1r3 w - - 1 28",
+        "move": "g6f6",
+        "value": 0.9587334055461876,
+        "cp": 579,
+        "mate": null,
+        "terminal": false,
+        "depth": 19,
+        "nodes": 1000184
+      }
+    ]
+  }
+]

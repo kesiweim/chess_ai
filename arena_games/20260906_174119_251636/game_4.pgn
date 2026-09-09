@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "material"]
+[Black "neural"]
+[Result "1/2-1/2"]
+[Termination "claimed_threefold_repetition"]
+[OpeningLabel "后兵开局"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 Qxd5 6. Nc3 Qc6 7. e4 Ke7 8. Qg5+ Kf8 9. Qd8+ Qe8 10. Qxc7 Qd7 11. Qe5 Nc6 12. Qc5+ Ke8 13. d5 exd5 14. exd5 Qe7+ 15. Qxe7+ Ncxe7 16. Bc4 Bf5 17. Nf3 Rc8 18. Ne5 Bg6 19. d6 Rxc4 20. Nxc4 Nc6 21. O-O-O Nf6 22. Nd5 Kd7 23. Nxf6+ gxf6 24. Rd2 Nb4 25. b3 b5 26. Na3 Nd3+ 27. Kd1 Rb8 28. Ke2 Re8+ 29. Kf3 Be4+ 30. Kg3 Rg8+ 31. Kh4 Rg6 32. f3 Rh6+ 33. Kg3 Rg6+ 34. Kh4 Rh6+ 35. Kg3 Rg6+ 36. Kh3 Bf5+ 37. Kh4 Rh6+ 38. Kg3 b4 39. Nc4 Kc8 40. Re2 Rg6+ 41. Kh4 Rh6+ 42. Kg3 Rg6+ 43. Kh4 Rh6+ 1/2-1/2

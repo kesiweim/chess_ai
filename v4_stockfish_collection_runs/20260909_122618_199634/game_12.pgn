@@ -1,0 +1,13 @@
+[Event "Local v4 vs Stockfish calibration"]
+[Site "?"]
+[Date "2026.09.09"]
+[Round "?"]
+[White "Stockfish_skill_3"]
+[Black "v4"]
+[Result "1-0"]
+[Termination "CHECKMATE"]
+[OpeningLabel "Spanish"]
+[PairGroup "5"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Qf6 5. O-O Nge7 6. Re1 a5 7. c3 Ra6 8. d4 exd4 9. Bg5 Qg6 10. Bc1 dxc3 11. Nxc3 h6 12. Bf4 Kd8 13. Rc1 d6 14. Re3 Qf6 15. Ne2 Qxb2 16. Rb3 Qf6 17. Bb5 a4 18. Rd3 Ra5 19. e5 Qf5 20. exd6 Qxb5 21. dxc7+ Ke8 22. Rd8+ Nxd8 23. Qxd8# 1-0

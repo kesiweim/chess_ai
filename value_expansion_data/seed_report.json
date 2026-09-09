@@ -1,0 +1,13 @@
+{
+  "counts": {
+    "read": 89640,
+    "games_train": 31192,
+    "games_val": 3452,
+    "rating_filtered": 54255,
+    "duplicate_or_old_game": 418,
+    "invalid_or_variant": 323
+  },
+  "train_roots": 8000,
+  "val_roots": 800,
+  "note": "先整盘分组；衍生局面跨组重复在采集阶段删除"
+}

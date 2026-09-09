@@ -1,0 +1,13 @@
+[Event "v4 endgame baseline vs Stockfish defender"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "v4"]
+[Black "Stockfish"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/3k4/8/8/8/R3K3 w - - 0 1"]
+[SetUp "1"]
+[Termination "defender_claimed_draw"]
+[Case "KR_edge_white"]
+
+1. Kd1 Kd6 2. Ra5 Kc7 3. Rc5+ Kd6 4. Ra5 Ke6 5. Kc2 Kd6 6. Kb3 Kd7 7. Kc4 Ke6 8. Kb4 Kd6 9. Rb5 Kc6 10. Ka5 Kc7 11. Rb6 Kd8 12. Rb7 Kc8 13. Kb6 Kd8 14. Rc7 Ke8 15. Kb7 Kf8 16. Kb6 Kg8 17. Kb7 Kh8 18. Re7 Kg8 19. Kc8 Kf8 20. Rd7 Ke8 21. Rd4 Ke7 22. Rd7+ Kf6 23. Rd5 Ke6 24. Rd4 Ke5 25. Rd3 Ke4 26. Rd8 Kf3 27. Rd2 Ke3 28. Rd8 Kf4 29. Re8 Kg5 30. Rg8+ Kf6 31. Re8 Kf5 32. Rf8+ Ke6 33. Kc7 Kd5 34. Kb6 Kc4 35. Rf3 Kd4 36. Rh3 Kc4 37. Ka5 Kc5 38. Rh4 Kc6 39. Rh7 Kc5 40. Rd7 Kc6 41. Rd8 Kc5 42. Rd7 Kc6 43. Rh7 Kc5 44. Rh4 Kd5 45. Kb5 Kd6 46. Kb4 Ke5 47. Kc5 Kf5 48. Kb5 Ke6 49. Rh8 Kf5 50. Rf8+ 1/2-1/2

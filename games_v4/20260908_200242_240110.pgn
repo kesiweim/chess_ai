@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opponent"]
+[Black "MyAI"]
+[Result "*"]
+[EvaluationMode "neural_v4"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "C:\Users\maxw\chess_ai\value_full_runs\20260908_113914_349502\value_full_epoch2.pt"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+[CPUThreads "4"]
+[DrawPolicy "optional_claim"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Ne2 Nxe4 6. c3 dxc3 7. bxc3 Nxc3 8. Qd2 Ne4 9. Ba3 *

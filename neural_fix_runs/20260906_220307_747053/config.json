@@ -1,0 +1,8 @@
+{
+  "base_sha256": "e0834093a2f661cedea358963a2b350deab57dd6de962f7ab41bc18371ff0c11",
+  "pairs_sha256": "eec5f1f6bbbdebb203abda27793d28ad0cd8c0fc88923eac4cb98ee2797828e3",
+  "lr": 5e-06,
+  "seed": 42,
+  "epochs": 3,
+  "scope": "训练对命中是记忆检查；旧验证集是保留能力检查，最终仍需新开局实战。"
+}

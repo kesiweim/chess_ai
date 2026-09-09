@@ -1,0 +1,62 @@
+[
+  {
+    "epoch": 0,
+    "ranking_val_parents": 200,
+    "fastest_hits": 28,
+    "preserves_win": 198,
+    "mean_extra_plies_among_preserved": 4.9393939393939394,
+    "old_mse": 0.1789248508540154,
+    "old_mae": 0.3021954635703062,
+    "loss": null
+  },
+  {
+    "epoch": 1,
+    "ranking_val_parents": 200,
+    "fastest_hits": 28,
+    "preserves_win": 198,
+    "mean_extra_plies_among_preserved": 4.787878787878788,
+    "old_mse": 0.17941506748495145,
+    "old_mae": 0.3025679091992502,
+    "loss": 0.1049509685104474
+  },
+  {
+    "epoch": 2,
+    "ranking_val_parents": 200,
+    "fastest_hits": 33,
+    "preserves_win": 198,
+    "mean_extra_plies_among_preserved": 4.696969696969697,
+    "old_mse": 0.1800135133826615,
+    "old_mae": 0.30322065174831625,
+    "loss": 0.10161109684178463
+  },
+  {
+    "epoch": 3,
+    "ranking_val_parents": 200,
+    "fastest_hits": 36,
+    "preserves_win": 198,
+    "mean_extra_plies_among_preserved": 4.565656565656566,
+    "old_mse": 0.1796190428114619,
+    "old_mae": 0.30286558153933146,
+    "loss": 0.09851334683406048
+  },
+  {
+    "epoch": 4,
+    "ranking_val_parents": 200,
+    "fastest_hits": 38,
+    "preserves_win": 198,
+    "mean_extra_plies_among_preserved": 4.404040404040404,
+    "old_mse": 0.17968585185417113,
+    "old_mae": 0.30301335401786555,
+    "loss": 0.09593246241983695
+  },
+  {
+    "epoch": 5,
+    "ranking_val_parents": 200,
+    "fastest_hits": 38,
+    "preserves_win": 198,
+    "mean_extra_plies_among_preserved": 4.343434343434343,
+    "old_mse": 0.17984236119521654,
+    "old_mae": 0.30313926437190536,
+    "loss": 0.09330922761597694
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "snapshot_total": 68436,
+  "train": {
+    "count": 62179,
+    "mean_value": 0.42622566743652424,
+    "negative": 13012,
+    "near_zero": 7471,
+    "positive": 41696,
+    "mate": 4737
+  },
+  "val": {
+    "count": 6257,
+    "mean_value": 0.4440124626008059,
+    "negative": 1257,
+    "near_zero": 769,
+    "positive": 4231,
+    "mate": 487
+  },
+  "removed_new_val_overlap": 0,
+  "old_train": 49997,
+  "old_val": 4966,
+  "label_config": {
+    "version": 1,
+    "nodes": 300000,
+    "threads": 1,
+    "hash_mb": 128,
+    "engine_sha256": "45bc8e4969147db9c2eb533810637994619bff0eacc81ccfd9854394901bcbd0",
+    "corpus_sha256": "babb36bde3765437fd4bdcfd57600034f200be57f99bf8e1217c04965dcfadae",
+    "seeds_sha256": "411a700b49d6e736421ef6354678c61f3d03615859b2723ba1ee20ad9ec702cc",
+    "collection_config": "{\"hashes\": [\"e0834093a2f661cedea358963a2b350deab57dd6de962f7ab41bc18371ff0c11\", \"60ab3e89ebf853380f67777825645c12c3716221f58f3b311a713ffa6d60ce00\", \"b5a5d204ed72954eb52c2471f8e616c0473683dfbfbf0f6a5f9c9c798efb3929\", \"4d15bbd04551c4395c40b08441304ca3df7f3be36ee93a3d9e0a0ca176bb4084\", \"a4aaf0fab867de1af11820c215d694cdef77c9f21b5f9459ac66ffeb01549dd8\", \"066c016d94f60edfc53825c2dffa8213f7769940ce391c721279bfea83d96f98\", \"47dc13ae6294d989f66eb3f2f6a5328d340da898f9a630794cff41f9ca072b3c\", \"2af242a5509299f876d515fbb637cc368196cda7cf231c436f1a86593b60452a\", \"65893d470fa12a934e186a3fadc7e047ee1a74b1b9690c1e5a1aa8b5846a958b\", \"8349cec064ab6993b879f09831e5e3e57deb65f27516818274844e1d06b43b29\", \"9050454baa02d9c9067c618875b6876c1c0dd841cb0266163940a62e1ca3bf49\", \"9b5b5a6d519ec39b29e3e8130056e065f8718bfe6d41df4fe67b5fdea8c12e62\", \"253e7a4d1ec19b881f466190a4b561130549d754b87a7b3b12ac5fe5c71d07c9\", \"411a700b49d6e736421ef6354678c61f3d03615859b2723ba1ee20ad9ec702cc\", \"5916842c3f65c48d38de222e4084c02271e59a50f7342f6b4d6f7040477091ba\"], \"seconds\": 1, \"depth\": 3, \"sample_cap\": 24, \"version\": 1}",
+    "script_sha256": "2e80d97d8fcfa504baca05ecacdf6d2100057bee01271cfdff5cad48c2849ff5",
+    "value": "tanh(cp/300); mate +/-1; side_to_move; fresh_fen"
+  },
+  "base": "C:\\Users\\maxw\\chess_ai\\chess_model_ranked_epoch4.pt",
+  "base_sha256": "e0834093a2f661cedea358963a2b350deab57dd6de962f7ab41bc18371ff0c11",
+  "epochs": 3,
+  "lr": 1e-05,
+  "batch_new": 128,
+  "batch_old": 32,
+  "source_pilot": "C:\\Users\\maxw\\chess_ai\\value_pilot_runs\\20260907_205130_749801",
+  "source_hashes": {
+    "snapshot_train.jsonl": "6007cb5835c1396c6e7ca2e699904579d0c1e37a4317aa178f07bc02a0dbcc35",
+    "snapshot_val.jsonl": "b08bfc48a04b5c98a945068433bfc0d0fe964c00ccadcea1daeedc6cc6eb1a98",
+    "training_report.json": "bb734a38b2e67bb85a9acc7b94f202844d665a6b5feec1090c3e97f608264826"
+  },
+  "raw_weights": {
+    "negative": 1.5,
+    "near_zero": 1.5,
+    "positive": 1.0
+  },
+  "weight_normalizer": 1.1647099503047653,
+  "old_loss_coefficient": 1.0,
+  "scope": "固定部分标注试验；新验证检查分布内评价，旧验证检查遗忘，不是独立棋力认证。"
+}

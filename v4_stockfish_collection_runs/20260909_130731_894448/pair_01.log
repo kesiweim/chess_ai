@@ -1,0 +1,52 @@
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1006: FutureWarning: `torch.jit.trace` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1145: FutureWarning: `torch.jit.trace_method` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_freeze.py:106: FutureWarning: `torch.jit.freeze` is deprecated. Please use `torch.compile` instead.
+  warnings.warn(
+局3 v4 cxd5 5.01s
+局3 Stockfish_skill_0 Nxd5 1.01s
+局3 v4 Nf3 5.01s
+局3 Stockfish_skill_0 Be7 1.00s
+局3 v4 Rg1 5.00s
+局3 Stockfish_skill_0 Nxc3 1.00s
+局3 v4 bxc3 5.01s
+局3 Stockfish_skill_0 O-O 1.00s
+局3 v4 e4 5.00s
+局3 Stockfish_skill_0 b6 1.00s
+局3 v4 a4 5.00s
+局3 Stockfish_skill_0 c5 1.00s
+局3 v4 Bf4 5.00s
+局3 Stockfish_skill_0 Bb7 1.00s
+局3 v4 Bd3 5.00s
+局3 Stockfish_skill_0 cxd4 1.00s
+局3 v4 cxd4 5.00s
+局3 Stockfish_skill_0 Nc6 1.00s
+局3 v4 Qe2 5.00s
+局3 Stockfish_skill_0 Rc8 1.00s
+局3 v4 Qb2 5.00s
+局3 Stockfish_skill_0 e5 1.00s
+局3 v4 Bxe5 5.00s
+局3 Stockfish_skill_0 Re8 1.00s
+局3 v4 Qe2 5.00s
+局3 Stockfish_skill_0 Nb4 1.00s
+局3 v4 Kd1 5.00s
+Traceback (most recent call last):
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 245, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 165, in main
+    if a.job is not None:worker(a);return
+                         ~~~~~~^^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 122, in worker
+    answer=sf.play(board,chess.engine.Limit(time=cfg['sf_seconds']),game=game_token,info=chess.engine.INFO_BASIC)
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\chess\engine.py", line 2980, in play
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\maxw\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\_base.py", line 451, in result
+    self._condition.wait(timeout)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\maxw\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 359, in wait
+    waiter.acquire()
+    ~~~~~~~~~~~~~~^^
+KeyboardInterrupt

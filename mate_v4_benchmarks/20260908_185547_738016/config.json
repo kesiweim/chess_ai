@@ -1,0 +1,25 @@
+{
+  "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+  "model_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "workers": 4,
+  "threads_per_worker": 4,
+  "seconds": 5,
+  "depth": 5,
+  "selected_counts": {
+    "mateIn3": 303,
+    "mateIn2": 302,
+    "mateIn1": 274
+  },
+  "source": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\forced_verification",
+  "source_sha256": "e5ebc683fc2cbbefb71acee3cd654195865719c4ad66316efb0b8b29e55183a5",
+  "code_hashes": {
+    "search_engine.py": "47dc13ae6294d989f66eb3f2f6a5328d340da898f9a630794cff41f9ca072b3c",
+    "neural_search_v4.py": "dfd5edffb839cccfc67d13c424d6315baafda5167c4e4018abf3d60481b6d870",
+    "neural_search_v2.py": "5eed446bcd5eac8351407c83c183431941ae2a8badc6b3209bfb2bf2d9322fce",
+    "neural_inference_v3.py": "25dc1a9aaffff50966c221343c7f47e92ba94c5740767f4190eaeb397b9afc3a",
+    "neural_fast.py": "82849a0d6d2fd9ff53f76d1afd7aea1f3aa45f6167b4acc776a1752a72a149fd",
+    "verify_mate_course.py": "a27f32b0d4243c281f1157fdaa7850d31f0ba1487bd32daa19140764d50eb9e9"
+  },
+  "policy_sha256": "60ab3e89ebf853380f67777825645c12c3716221f58f3b311a713ffa6d60ce00",
+  "scope": "mateIn1 is historical-overlap regression only. mateIn2/3 have no root overlap in audited JSONL; not proof of zero prior exposure. Final test untouched."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "position": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "side": "neural",
+    "move": "c2c4",
+    "depth": 4,
+    "nodes": 31141,
+    "seconds": 5.000279300002148
+  },
+  {
+    "position": "r1bqkbnr/pppp1ppp/2n5/4p3/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3",
+    "side": "material",
+    "move": "g8f6",
+    "depth": 5,
+    "nodes": 168094,
+    "seconds": 4.3303628000139724
+  },
+  {
+    "position": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 1 4",
+    "side": "neural",
+    "move": "b1c3",
+    "depth": 4,
+    "nodes": 26199,
+    "seconds": 5.000039000005927
+  }
+]

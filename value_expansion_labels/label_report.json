@@ -1,0 +1,16 @@
+{
+  "completed": 218908,
+  "total": 218908,
+  "complete": true,
+  "split_counts": {
+    "train": 198961,
+    "val": 19947
+  },
+  "new_this_run": 94687,
+  "seconds_this_run": 2080.124134599988,
+  "seconds_per_new": 0.021968423697022694,
+  "mate_labels": 16492,
+  "terminal_labels": 0,
+  "mean_value": 0.42675998778263713,
+  "remaining_hours_estimate": 0.0
+}

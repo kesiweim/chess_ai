@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "material"]
+[Black "neural"]
+[Result "0-1"]
+[Termination "CHECKMATE"]
+[OpeningLabel "西西里"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Bd7 6. Be2 Nc6 7. O-O g6 8. Be3 Bg7 9. f3 Nxd4 10. Bxd4 b6 11. Qd2 e5 12. Be3 Be6 13. Rfd1 Ke7 14. Nd5+ Bxd5 15. exd5 Rc8 16. c4 e4 17. fxe4 Nxe4 18. Qc2 f5 19. Bf3 Nf6 20. Bd4 Qg8 21. Qb3 f4 22. Qd3 Rf8 23. b3 Qf7 24. Rac1 Kd8 25. h3 Nh5 26. Rc2 Ng3 27. Rcd2 Bxd4+ 28. Qxd4 Rhg8 29. Kf2 Rg7 30. Qd3 Re8 31. Qd4 Re7 32. Kg1 Re5 33. Kf2 Re7 34. Kg1 h5 35. Kf2 h4 36. Qd3 Re3 37. Qd4 Re7 38. Qd3 Re3 39. Qc2 Qe8 40. Rd3 g5 41. Rd4 Rge7 42. Qb1 Re2+ 43. Bxe2 Rxe2+ 44. Kg1 f3 45. R4d2 f2+ 46. Kh2 Rxd2 47. Rxd2 f1=Q 48. Rd1 Qf4 49. Kg1 Ne2+ 50. Kh1 Qee5 51. g3 Qf3+ 52. Kh2 Qexg3# 0-1

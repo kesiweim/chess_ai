@@ -1,0 +1,16 @@
+{
+  "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+  "model_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "workers": 4,
+  "threads": 4,
+  "seconds": 5,
+  "depth": 5,
+  "code_hashes": {
+    "neural_search_v4.py": "dfd5edffb839cccfc67d13c424d6315baafda5167c4e4018abf3d60481b6d870",
+    "neural_inference_v3.py": "25dc1a9aaffff50966c221343c7f47e92ba94c5740767f4190eaeb397b9afc3a",
+    "neural_search_v2.py": "5eed446bcd5eac8351407c83c183431941ae2a8badc6b3209bfb2bf2d9322fce",
+    "neural_fast.py": "82849a0d6d2fd9ff53f76d1afd7aea1f3aa45f6167b4acc776a1752a72a149fd",
+    "search_engine.py": "47dc13ae6294d989f66eb3f2f6a5328d340da898f9a630794cff41f9ca072b3c"
+  },
+  "scope": "16 correlated snapshots: 12 old failed KRK snapshots plus 4 successful KQK snapshots from game16 of the 40-game arena, for diagnosis only. DTM accounts for fifty-move budget and immediate defender claims, not all possible future repetition histories. One-ply model ranking is not a search evaluation."
+}

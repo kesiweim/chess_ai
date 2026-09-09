@@ -1,0 +1,67 @@
+{
+  "completed": 4,
+  "wins": 4,
+  "results": [
+    {
+      "id": 5,
+      "name": "KQ_far_white",
+      "success": true,
+      "result": "1-0",
+      "reason": "CHECKMATE",
+      "strong_moves": 9,
+      "plies": 17,
+      "lost_major_piece": false,
+      "final_fen": "8/6Qk/5K2/8/8/8/8/8 b - - 17 9",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    },
+    {
+      "id": 7,
+      "name": "KQ_center_white",
+      "success": true,
+      "result": "1-0",
+      "reason": "CHECKMATE",
+      "strong_moves": 10,
+      "plies": 19,
+      "lost_major_piece": false,
+      "final_fen": "1k6/1Q6/2K5/8/8/8/8/8 b - - 19 10",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    },
+    {
+      "id": 8,
+      "name": "KQ_center_black",
+      "success": true,
+      "result": "0-1",
+      "reason": "CHECKMATE",
+      "strong_moves": 10,
+      "plies": 19,
+      "lost_major_piece": false,
+      "final_fen": "8/8/8/8/8/5k2/6q1/6K1 w - - 19 11",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    },
+    {
+      "id": 6,
+      "name": "KQ_far_black",
+      "success": true,
+      "result": "0-1",
+      "reason": "CHECKMATE",
+      "strong_moves": 22,
+      "plies": 43,
+      "lost_major_piece": false,
+      "final_fen": "8/8/8/8/8/5k2/8/2q1K3 w - - 43 23",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    }
+  ],
+  "errors": []
+}

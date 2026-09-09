@@ -1,0 +1,131 @@
+import argparse
+from datetime import datetime
+from pathlib import Path
+
+import chess
+import chess.pgn
+import torch
+
+from model_cnn import ChessCNN
+from search_engine import SearchEngine, neural_evaluator, policy_order
+
+
+def parse_move(board, text):
+    try:
+        move = board.parse_san(text.replace('0-0', 'O-O'))
+    except ValueError:
+        move = board.parse_uci(text)
+    if move not in board.legal_moves:
+        raise ValueError('非法走法')
+    return move
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--eval', choices=['neural', 'material'], default='neural')
+    parser.add_argument('--seconds', type=float, default=5.0)
+    parser.add_argument('--depth', type=int, default=3)
+    args = parser.parse_args()
+    if not 0 < args.seconds <= 300 or not 1 <= args.depth <= 10:
+        parser.error('seconds 必须在 (0,300]，depth 在 1～10')
+    root = Path(__file__).resolve().parent
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    policy = ChessCNN().to(device)
+    policy.load_state_dict(torch.load(root / 'chess_model_balanced.pt', map_location=device, weights_only=True))
+    policy.eval()
+    evaluator = None
+    if args.eval == 'neural':
+        from model_residual_value import ResidualValueModel
+        value_model = ResidualValueModel().to(device)
+        value_model.load_state_dict(torch.load(root / 'chess_model_residual_value.pt', map_location=device, weights_only=True))
+        value_model.eval()
+        evaluator = neural_evaluator(value_model, device)
+    engine = SearchEngine(evaluator, args.seconds, args.depth)
+    print(f'评价模式：{args.eval}；设备：{device}；每步搜索预算：{args.seconds} 秒')
+    while True:
+        color = input('你执白还是黑？输入 白 / 黑：').strip().lower()
+        if color in ('白', '白方', 'w', 'white'):
+            my_color = chess.WHITE
+            break
+        if color in ('黑', '黑方', 'b', 'black'):
+            my_color = chess.BLACK
+            break
+        print('请输入 白 或 黑。')
+    board = chess.Board()
+    folder = root / 'games'
+    folder.mkdir(exist_ok=True)
+    path = folder / (datetime.now().strftime('%Y%m%d_%H%M%S_%f') + '.pgn')
+
+    def save():
+        game = chess.pgn.Game.from_board(board)
+        game.headers['White'] = 'MyAI' if my_color else 'Opponent'
+        game.headers['Black'] = 'Opponent' if my_color else 'MyAI'
+        game.headers['EvaluationMode'] = args.eval
+        game.headers['PolicyModel'] = 'chess_model_balanced.pt'
+        game.headers['ValueModel'] = 'chess_model_residual_value.pt' if args.eval == 'neural' else 'material'
+        game.headers['SearchSeconds'] = str(args.seconds)
+        game.headers['SearchDepth'] = str(args.depth)
+        game.headers['Result'] = board.result()
+        temporary = path.with_suffix('.tmp')
+        temporary.write_text(str(game) + '\n', encoding='utf-8')
+        temporary.replace(path)
+
+    print('输入 SAN（Nf3、O-O）或 UCI（g1f3）；board 查看，undo 撤销一手，quit 退出。')
+    print('每次记录走法后自动保存棋谱：', path)
+    cached_fen, suggested, is_mate = None, None, False
+    try:
+        while not board.is_game_over():
+            my_turn = board.turn == my_color
+            if my_turn:
+                if cached_fen != board.fen():
+                    print('正在计算……', flush=True)
+                    preferred = policy_order(board, policy, device)
+                    suggested, is_mate, stats = engine.choose(board, preferred)
+                    cached_fen = board.fen()
+                    print(f"完成主搜索深度 {stats['depth']}；节点 {stats['nodes']:,}；搜索耗时 {stats['seconds']:.2f} 秒")
+                    if stats['depth'] == 0 and not is_mate:
+                        print('预算内未完成第一层搜索，本次采用策略模型首选。可增加 --seconds。')
+                print(f'建议：{board.san(suggested)}（{suggested.uci()}）' + ('，一步将死' if is_mate else ''))
+                text = input('落子后回车确认，或输入你实际走的棋：').strip()
+            else:
+                text = input('请输入对手走法：').strip()
+            if text.lower() == 'quit':
+                break
+            if text.lower() == 'board':
+                print(board)
+                print(board.fen())
+                continue
+            if text.lower() == 'undo':
+                if board.move_stack:
+                    board.pop()
+                    cached_fen = None
+                    save()
+                    print('已撤销一手记录。')
+                continue
+            try:
+                if not text:
+                    if not my_turn:
+                        print('请先输入对手走法。')
+                        continue
+                    move = suggested
+                else:
+                    move = parse_move(board, text)
+            except ValueError:
+                print('无法识别或走法不合法，请重新输入。')
+                continue
+            name = board.san(move)
+            board.push(move)
+            cached_fen = None
+            save()
+            print(f'已记录：{name}（{move.uci()}）')
+        if board.is_game_over():
+            print('对局结束：', board.result())
+    except (KeyboardInterrupt, EOFError):
+        print('\n已退出。')
+    finally:
+        save()
+        print('棋谱已保存：', path)
+
+
+if __name__ == '__main__':
+    main()

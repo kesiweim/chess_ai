@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "material"]
+[Black "neural"]
+[Result "1-0"]
+[Termination "CHECKMATE"]
+[OpeningLabel "斯堪的纳维亚"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Nc6 5. d4 Qg4 6. h3 Qd7 7. Bf4 f6 8. Ne4 e5 9. dxe5 fxe5 10. Be3 Qxd1+ 11. Kxd1 Bf5 12. N2g3 Bxe4 13. Nxe4 O-O-O+ 14. Bd3 Nf6 15. Nxf6 gxf6 16. Ke2 Nd4+ 17. Kf1 Bd6 18. c4 c6 19. Rc1 Bc7 20. b4 Bd6 21. c5 Bf8 22. Rc4 Bg7 23. a4 a6 24. Bd2 Rd5 25. Be3 Ne6 26. Be2 Rhd8 27. g3 Nd4 28. Bd3 f5 29. f4 Ne6 30. Bxf5 Rd1+ 31. Kg2 R8d2+ 32. Bxd2 Rxd2+ 33. Kf3 e4+ 34. Rxe4 Kc7 35. Bxe6 Bc3 36. f5 Bd4 37. Rh4 Bc3 38. Rxh7+ Kb8 39. Rb1 Rd3+ 40. Kg2 Be5 41. g4 b5 42. cxb6 Bd4 43. Rd7 Ka8 44. Ra7+ Kb8 45. Rxa6 Be5 46. b5 Rg3+ 47. Kf2 Rc3 48. Ke2 c5 49. h4 Bf4 50. Ra7 c4 51. Rd7 Be5 52. Rd8+ Kb7 53. Rd5 Bf4 54. Rf1 Rc2+ 55. Kf3 Bh2 56. Rc5 Bd6 57. Bd5+ Kb8 58. Rxc4 Rh2 59. h5 Be5 60. Re4 Rh3+ 61. Ke2 Rh2+ 62. Kd1 Rh3 63. Rxe5 Rd3+ 64. Kc2 Rxd5 65. Rxd5 Kb7 66. f6 Kxb6 67. f7 Kc7 68. f8=Q Kb7 69. Rf7+ Kb6 70. Qd8# 1-0

@@ -1,0 +1,22 @@
+{
+  "candidate_wins": 6,
+  "material_wins": 11,
+  "draws": 1,
+  "unfinished": 2,
+  "completed_pairs": [
+    3,
+    5,
+    1,
+    8,
+    7,
+    4,
+    6,
+    9,
+    10,
+    2
+  ],
+  "failed_pairs": [],
+  "interrupted": false,
+  "accounted_games": 20,
+  "unaccounted_games": 0
+}

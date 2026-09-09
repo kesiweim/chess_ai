@@ -1,0 +1,45 @@
+[
+  {
+    "epoch": 0,
+    "training_pair_hits": 56,
+    "training_pairs": 153,
+    "old_ranking_hits": 36,
+    "old_ranking_groups": 199,
+    "old_ranking_regret": 0.33643387501413496,
+    "old_value_mse": 0.19102576429019089,
+    "old_value_count": 4966
+  },
+  {
+    "training_pair_hits": 60,
+    "training_pairs": 153,
+    "old_ranking_hits": 37,
+    "old_ranking_groups": 199,
+    "old_ranking_regret": 0.33536782818167804,
+    "old_value_mse": 0.1972910581074844,
+    "old_value_count": 4966,
+    "epoch": 1,
+    "training_loss": 0.6224338759004681
+  },
+  {
+    "training_pair_hits": 62,
+    "training_pairs": 153,
+    "old_ranking_hits": 36,
+    "old_ranking_groups": 199,
+    "old_ranking_regret": 0.33606814104951355,
+    "old_value_mse": 0.1953178994174547,
+    "old_value_count": 4966,
+    "epoch": 2,
+    "training_loss": 0.5739414791266123
+  },
+  {
+    "training_pair_hits": 62,
+    "training_pairs": 153,
+    "old_ranking_hits": 36,
+    "old_ranking_groups": 199,
+    "old_ranking_regret": 0.3361056108804579,
+    "old_value_mse": 0.19975633079660932,
+    "old_value_count": 4966,
+    "epoch": 3,
+    "training_loss": 0.5982989142922794
+  }
+]

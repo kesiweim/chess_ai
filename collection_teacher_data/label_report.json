@@ -1,0 +1,29 @@
+{
+  "teacher": {
+    "name": "Stockfish 19",
+    "author": "the Stockfish developers (see AUTHORS file)"
+  },
+  "engine_sha256": "45bc8e4969147db9c2eb533810637994619bff0eacc81ccfd9854394901bcbd0",
+  "nodes": 300000,
+  "data_sha256": [
+    "5453effe58cbec0df74aa0092e737dcf8305fdde3727d59b775e1dbba86d9683",
+    "12c1a82ddeb82a61cf77a394adb9e91c6c96d512e7f913ed1174adacc03dce5e"
+  ],
+  "mapping": "tanh(cp/300);mate=sign",
+  "version": 1,
+  "workers": 16,
+  "threads_each": 1,
+  "hash_mb_each": 128,
+  "added": 25902,
+  "labeled": {
+    "train": 24537,
+    "val": 5521
+  },
+  "total_expected": 30058,
+  "complete": true,
+  "interrupted": false,
+  "errors": [],
+  "seconds": 745.7745409000199,
+  "controller_version": 3,
+  "parallelism": "independent Stockfish processes, main-process thread orchestration"
+}

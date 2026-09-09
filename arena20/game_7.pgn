@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "neural"]
+[Black "material"]
+[Result "0-1"]
+[Termination "CHECKMATE"]
+[OpeningLabel "法国防御"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Bb5+ c6 5. Bc4 exf3 6. gxf3 Nf6 7. Qd3 Bd6 8. Nc3 O-O 9. Bg5 h6 10. Bxf6 Qxf6 11. h4 Bf4 12. Ne2 Bd6 13. Nc3 Bf4 14. Ne2 b5 15. Bb3 Bd6 16. Nc3 a5 17. a4 e5 18. axb5 exd4 19. O-O dxc3 20. bxc6 cxb2 21. Ra2 Nxc6 22. Bd5 Nb4 23. Qe4 Rb8 24. Bxf7+ Qxf7 25. Rxb2 Qxf3 26. Qd4 Nd5 27. Rxb8 Bxb8 28. Qd1 Qf7 29. Qd3 Bf5 30. Qf3 Bxc2 31. Qxf7+ Rxf7 32. Re1 Kh7 33. Ra1 a4 34. Ra3 Ba7 35. Kg2 Rxf2+ 36. Kg3 Rf1 37. Kg2 Rf4 38. Kg3 Bf2+ 39. Kh2 Ne3 40. Rxe3 Bxe3 41. h5 a3 42. Kg2 a2 43. Kh3 a1=Q 44. Kg3 Qg1+ 45. Kh3 Bf5# 0-1

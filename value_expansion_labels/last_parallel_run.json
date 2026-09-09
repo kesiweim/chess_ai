@@ -1,0 +1,7 @@
+{
+  "workers": 16,
+  "driver_sha256": "bc24c6eb0dfe1eb5df62de52b4346e14c8e0b5986d83e9f6e1ae4d9a2c48deb4",
+  "semantics": "original label() reused",
+  "nodes": 300000,
+  "single_engine_threads": 1
+}

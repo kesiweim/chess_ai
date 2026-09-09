@@ -1,0 +1,13 @@
+[Event "v4 endgame baseline vs Stockfish defender"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "v4"]
+[Result "0-1"]
+[FEN "4k3/q7/8/8/8/8/8/7K b - - 0 1"]
+[SetUp "1"]
+[Termination "CHECKMATE"]
+[Case "KQ_far_black"]
+
+1... Qa2 2. Kg1 Kd7 3. Kf1 Ke6 4. Ke1 Qg2 5. Kd1 Qf2 6. Kc1 Qa2 7. Kd1 Qf2 8. Kc1 Qa2 9. Kd1 Kf6 10. Ke1 Kg5 11. Kd1 Kf4 12. Kc1 Ke3 13. Kd1 Qb1# 0-1

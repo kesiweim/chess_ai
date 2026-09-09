@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "MyAI"]
+[Black "Opponent"]
+[Result "1-0"]
+[EvaluationMode "neural"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "chess_model_residual_value.pt"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+
+1. d4 Nc6 2. d5 Nd4 3. Qxd4 Nf6 4. e4 g6 5. e5 Nh5 6. g4 Ng7 7. Ke2 b5 8. Qd2 c5 9. Qd3 c4 10. Qh3 Bb7 11. Bg2 Rc8 12. Be3 a5 13. Kd2 a4 14. Bh6 Qb6 15. Qe3 Qa5+ 16. Kc1 b4 17. a3 Qxd5 18. Bxd5 Bxd5 19. Nf3 Rc6 20. Qa7 Rc8 21. Rd1 Bxf3 22. Qxd7# 1-0

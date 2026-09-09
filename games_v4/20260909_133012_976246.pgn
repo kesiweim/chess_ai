@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opponent"]
+[Black "MyAI"]
+[Result "*"]
+[EvaluationMode "neural_v4"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "C:\Users\maxw\chess_ai\value_full_runs\20260908_113914_349502\value_full_epoch2.pt"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+[CPUThreads "4"]
+[DrawPolicy "optional_claim"]
+[SearchSeconds "7.0"]
+[SearchDepth "5"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Be6 4. e4 Nf6 5. Nc3 c6 6. Ng5 b5 7. Nxe6 fxe6 8. e5 Nd5 9. a4 g6 10. axb5 Nxc3 11. bxc3 cxb5 12. Be2 a5 13. Rb1 Qd7 14. Bf3 Ra6 15. h4 Bg7 16. h5 a4 17. Be4 gxh5 18. Qxh5+ Kd8 19. Qf7 Bxe5 20. dxe5 a3 21. Ra1 b4 22. Be3 Kc8 23. cxb4 c3 24. Rxh7 Rxh7 25. Qxh7 Qd8 26. b5 Ra4 27. Bc2 Ra5 28. Rd1 Nd7 29. Qe4 a2 30. b6 a1=Q 31. Qc6+ Kb8 32. f4 Qb2 33. Rxd7 Qc8 34. Rc7 Ra1+ 35. Bd1 Rxd1+ 36. Kxd1 Qd8+ 37. Rd7 c2+ 38. Ke1 Qdxb6 39. Bxb6 c1=Q+ 40. Qxc1 Qxc1+ 41. Rd1 Qxf4 42. Bd4 Qe4+ 43. Kf2 Qc2+ 44. Ke1 Qe4+ 45. Kf2 Qc2+ 46. Ke1 Qxg2 47. Rd3 Qc2 48. Rd2 Qe4+ 49. Kd1 Qb1+ 50. Ke2 Qe4+ 51. Kd1 Qb1+ 52. Ke2 Qe4+ 53. Kd1 *

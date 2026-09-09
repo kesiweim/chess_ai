@@ -1,0 +1,75 @@
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1006: FutureWarning: `torch.jit.trace` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1145: FutureWarning: `torch.jit.trace_method` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_freeze.py:106: FutureWarning: `torch.jit.freeze` is deprecated. Please use `torch.compile` instead.
+  warnings.warn(
+局3 v4 cxd5 5.01s
+局3 Stockfish_skill_0 c5 1.02s
+局3 v4 dxc6 5.01s
+局3 Stockfish_skill_0 Bb4 1.00s
+局3 v4 cxb7 3.16s
+局3 Stockfish_skill_0 Bxb7 1.00s
+局3 v4 Qd3 5.00s
+局3 Stockfish_skill_0 Be4 1.00s
+局3 v4 Qc4 5.00s
+局3 Stockfish_skill_0 Ba5 1.00s
+局3 v4 b4 5.00s
+局3 Stockfish_skill_0 Bc7 1.00s
+局3 v4 Nxe4 5.01s
+局3 Stockfish_skill_0 Qxd4 1.00s
+局3 v4 Qxd4 5.00s
+局3 Stockfish_skill_0 Ke7 1.00s
+局3 v4 Bg5 5.00s
+局3 Stockfish_skill_0 Be5 1.00s
+局3 v4 Qxe5 5.00s
+局3 Stockfish_skill_0 Nd7 1.00s
+局3 v4 Qd6+ 5.00s
+局3 Stockfish_skill_0 Kd8 1.00s
+局3 v4 Nxf6 5.01s
+局3 Stockfish_skill_0 gxf6 1.00s
+局3 v4 Bxf6+ 5.00s
+局3 Stockfish_skill_0 Ke8 0.03s
+局3 v4 Qe7# 0.00s
+局3结束 1-0 CHECKMATE
+局4 Stockfish_skill_0 c5 1.01s
+局4 v4 b6 5.00s
+局4 Stockfish_skill_0 b4 1.00s
+局4 v4 a5 5.00s
+局4 Stockfish_skill_0 cxb6 1.00s
+局4 v4 axb4 5.00s
+局4 Stockfish_skill_0 bxc7 1.00s
+局4 v4 Qxc7 3.36s
+局4 Stockfish_skill_0 Bf4 1.00s
+局4 v4 Qxc3+ 5.00s
+局4 Stockfish_skill_0 Bd2 1.00s
+局4 v4 Qxd4 5.00s
+局4 Stockfish_skill_0 e3 1.00s
+局4 v4 Qb6 5.00s
+局4 Stockfish_skill_0 Qc1 1.00s
+局4 v4 Qc5 5.00s
+局4 Stockfish_skill_0 Nf3 1.00s
+局4 v4 Qxc1+ 5.00s
+局4 Stockfish_skill_0 Rxc1 1.00s
+局4 v4 Bd7 5.01s
+局4 Stockfish_skill_0 Bb5 1.00s
+局4 v4 Bxb5 4.41s
+局4 Stockfish_skill_0 a3 1.00s
+局4 v4 bxa3 5.00s
+局4 Stockfish_skill_0 Kd1 1.00s
+局4 v4 Nc6 5.00s
+局4 Stockfish_skill_0 Rb1 1.00s
+局4 v4 Bd3 5.00s
+局4 Stockfish_skill_0 Rc1 1.00s
+局4 v4 a2 5.00s
+局4 Stockfish_skill_0 Nd4 1.00s
+局4 v4 a1=Q 5.00s
+局4 Stockfish_skill_0 Rxa1 1.00s
+局4 v4 Rxa1+ 5.00s
+局4 Stockfish_skill_0 Bc1 1.00s
+局4 v4 Ne4 5.00s
+局4 Stockfish_skill_0 Nxc6 1.00s
+局4 v4 Ba3 5.01s
+局4 Stockfish_skill_0 f4 0.01s
+局4 v4 Rxc1# 0.00s
+局4结束 0-1 CHECKMATE

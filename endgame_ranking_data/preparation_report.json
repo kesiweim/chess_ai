@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "parents": {
+    "val": 200,
+    "train": 1200
+  },
+  "children": {
+    "val": 3791,
+    "train": 22398
+  },
+  "filters": {
+    "val": {
+      "existing_candidates": 4008,
+      "ineligible": 3484,
+      "child_overlap": 255,
+      "no_comparison": 4,
+      "duplicate_parent": 65,
+      "attempts": 4008
+    },
+    "train": {
+      "existing_candidates": 32051,
+      "ineligible": 32667,
+      "child_overlap": 7958,
+      "duplicate_parent": 3845,
+      "no_comparison": 78,
+      "generated_candidates": 15995,
+      "other_parent_split": 2265,
+      "parent_overlap": 33,
+      "attempts": 48046
+    }
+  },
+  "cross_split_overlap": 0,
+  "holdout_overlap": 0,
+  "scope": "Validation neighborhoods reserved first; random KRK supplementation; same original parent hash split. New train/val parent and child canonical groups disjoint. Historical test roots and diagnosis holdouts excluded. Prior full-model exposure not exhaustively audited. No repetition history."
+}

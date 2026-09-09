@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "neural"]
+[Black "material"]
+[Result "0-1"]
+[Termination "CHECKMATE"]
+[OpeningLabel "印度防御"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Bd2 b5 8. Qd3 Bb7 9. O-O-O Be7 10. Ng5 O-O 11. Qh3 h6 12. Nxe6 fxe6 13. Qxe6+ Kh8 14. e4 Bd6 15. e5 Re8 16. Qb3 b4 17. exf6 bxc3 18. bxc3 Be4 19. f3 Bg6 20. f7 Re7 21. Bc4 Rb8 22. f8=Q+ Qxf8 23. Bxa6 Ba3+ 24. Qxa3 Rb1# 0-1

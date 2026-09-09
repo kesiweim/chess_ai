@@ -1,0 +1,177 @@
+本次candidate： C:\Users\maxw\chess_ai\value_full_runs\20260908_113914_349502\value_full_epoch2.pt
+交换颜色两局；双方CPU1线程，每步5秒、深度上限5。
+
+===== 第 1/20 盘：意大利式，白方 candidate，黑方 material =====
+4. candidate：c3 | 深度 3 | 5.00 秒
+4... material：Nf6 | 深度 3 | 5.00 秒
+5. candidate：b4 | 深度 3 | 5.00 秒
+5... material：Bb6 | 深度 4 | 5.00 秒
+6. candidate：Ng5 | 深度 3 | 5.00 秒
+6... material：d5 | 深度 4 | 5.00 秒
+7. candidate：exd5 | 深度 3 | 5.00 秒
+7... material：Nxd5 | 深度 3 | 5.00 秒
+8. candidate：f4 | 深度 3 | 5.00 秒
+8... material：exf4 | 深度 4 | 5.00 秒
+9. candidate：Qe2+ | 深度 3 | 5.00 秒
+9... material：Nce7 | 深度 4 | 5.00 秒
+10. candidate：Qh5 | 深度 2 | 5.00 秒
+10... material：g6 | 深度 3 | 5.00 秒
+11. candidate：Qd1 | 深度 3 | 5.00 秒
+11... material：h6 | 深度 3 | 5.00 秒
+12. candidate：Nf3 | 深度 3 | 5.00 秒
+12... material：O-O | 深度 4 | 5.00 秒
+13. candidate：Qb3 | 深度 2 | 5.00 秒
+13... material：Be6 | 深度 3 | 5.00 秒
+14. candidate：Na3 | 深度 2 | 5.00 秒
+14... material：c6 | 深度 3 | 5.00 秒
+15. candidate：Rf1 | 深度 2 | 5.00 秒
+15... material：Bc7 | 深度 3 | 5.00 秒
+16. candidate：b5 | 深度 2 | 5.00 秒
+16... material：c5 | 深度 3 | 5.00 秒
+17. candidate：Nh4 | 深度 2 | 5.00 秒
+17... material：Kg7 | 深度 3 | 5.00 秒
+18. candidate：Bb2 | 深度 2 | 5.00 秒
+18... material：b6 | 深度 3 | 5.00 秒
+19. candidate：Bxd5 | 深度 3 | 5.00 秒
+19... material：Nxd5 | 深度 3 | 5.00 秒
+20. candidate：c4+ | 深度 3 | 5.00 秒
+20... material：Nf6 | 深度 4 | 5.00 秒
+21. candidate：g3 | 深度 2 | 5.00 秒
+21... material：Qe7 | 深度 3 | 5.00 秒
+22. candidate：O-O-O | 深度 3 | 5.00 秒
+22... material：g5 | 深度 4 | 5.00 秒
+23. candidate：Ng2 | 深度 3 | 5.00 秒
+23... material：Bh3 | 深度 3 | 5.00 秒
+24. candidate：Rde1 | 深度 3 | 5.00 秒
+24... material：Qd7 | 深度 3 | 5.00 秒
+25. candidate：Bxf6+ | 深度 3 | 5.00 秒
+25... material：Kxf6 | 深度 4 | 5.00 秒
+26. candidate：Qf3 | 深度 3 | 5.00 秒
+26... material：Bg4 | 深度 3 | 5.00 秒
+27. candidate：Qc3+ | 深度 3 | 5.00 秒
+27... material：Qd4 | 深度 4 | 5.00 秒
+28. candidate：Qxd4+ | 深度 4 | 5.00 秒
+28... material：cxd4 | 深度 5 | 1.79 秒
+29. candidate：gxf4 | 深度 3 | 5.00 秒
+29... material：Bd6 | 深度 5 | 3.40 秒
+30. candidate：Kb2 | 深度 4 | 5.00 秒
+30... material：Bc5 | 深度 4 | 5.00 秒
+31. candidate：fxg5+ | 深度 3 | 5.00 秒
+31... material：Kxg5 | 深度 5 | 3.95 秒
+32. candidate：h4+ | 深度 3 | 5.00 秒
+32... material：Kg6 | 深度 5 | 4.09 秒
+33. candidate：Nf4+ | 深度 4 | 5.00 秒
+33... material：Kh7 | 深度 4 | 5.00 秒
+34. candidate：Nd5 | 深度 3 | 5.00 秒
+34... material：Bh3 | 深度 4 | 5.00 秒
+35. candidate：Rf4 | 深度 3 | 5.00 秒
+35... material：Bg2 | 深度 3 | 5.00 秒
+36. candidate：Nf6+ | 深度 4 | 5.00 秒
+36... material：Kh8 | 深度 4 | 5.00 秒
+37. candidate：Nc2 | 深度 3 | 5.00 秒
+37... material：d3 | 深度 4 | 5.00 秒
+38. candidate：Ne3 | 深度 3 | 5.00 秒
+38... material：Bh3 | 深度 4 | 5.00 秒
+39. candidate：Neg4 | 深度 3 | 5.00 秒
+39... material：Bb4 | 深度 4 | 5.00 秒
+40. candidate：Nxh6 | 深度 3 | 5.00 秒
+40... material：Bxd2 | 深度 5 | 4.29 秒
+41. candidate：Rfe4 | 深度 4 | 5.00 秒
+41... material：Bxh6 | 深度 4 | 5.00 秒
+42. candidate：Rg1 | 深度 3 | 5.00 秒
+42... material：Bg7 | 深度 4 | 5.00 秒
+43. candidate：Rxg7 | 深度 4 | 5.00 秒
+43... material：Kxg7 | 深度 5 | 2.41 秒
+44. candidate：Nh5+ | 深度 4 | 5.00 秒
+44... material：Kh8 | 深度 5 | 2.32 秒
+45. candidate：Nf4 | 深度 3 | 5.00 秒
+45... material：Bf5 | 深度 5 | 4.75 秒
+46. candidate：Re5 | 深度 4 | 5.00 秒
+46... material：d2 | 深度 5 | 3.07 秒
+47. candidate：Rd5 | 深度 4 | 5.00 秒
+47... material：Rfd8 | 深度 4 | 5.00 秒
+48. candidate：h5 | 深度 4 | 5.00 秒
+48... material：Rxd5 | 深度 5 | 2.15 秒
+49. candidate：Nxd5 | 深度 4 | 5.00 秒
+49... material：d1=Q | 深度 4 | 5.00 秒
+50. candidate：Nc7 | 深度 3 | 5.00 秒
+50... material：Qc2+ | 深度 4 | 5.00 秒
+51. candidate：Ka3 | 深度 4 | 5.00 秒
+51... material：Qc3+ | 深度 4 | 5.00 秒
+52. candidate：Ka4 | 深度 5 | 3.84 秒
+52... material：Bc2# | 深度 0 | 0.00 秒
+本盘结果：0-1，原因：CHECKMATE
+
+===== 第 2/20 盘：意大利式，白方 material，黑方 candidate =====
+4. material：c3 | 深度 4 | 5.00 秒
+4... candidate：Nf6 | 深度 3 | 5.00 秒
+5. material：d4 | 深度 3 | 5.00 秒
+5... candidate：exd4 | 深度 3 | 5.00 秒
+6. material：e5 | 深度 3 | 5.00 秒
+6... candidate：Ng4 | 深度 3 | 5.00 秒
+7. material：cxd4 | 深度 3 | 5.00 秒
+7... candidate：Bb4+ | 深度 3 | 5.00 秒
+8. material：Bd2 | 深度 3 | 5.00 秒
+8... candidate：d5 | 深度 3 | 5.00 秒
+9. material：Bb5 | 深度 4 | 5.00 秒
+9... candidate：Ke7 | 深度 3 | 5.00 秒
+10. material：Nc3 | 深度 4 | 5.00 秒
+10... candidate：Bxc3 | 深度 3 | 5.00 秒
+11. material：Bxc3 | 深度 4 | 5.00 秒
+11... candidate：a6 | 深度 3 | 5.00 秒
+12. material：Ba4 | 深度 3 | 5.00 秒
+12... candidate：b5 | 深度 3 | 5.00 秒
+13. material：Bb3 | 深度 4 | 5.00 秒
+13... candidate：b4 | 深度 3 | 5.00 秒
+14. material：Bd2 | 深度 4 | 5.00 秒
+14... candidate：Bb7 | 深度 3 | 5.00 秒
+15. material：h3 | 深度 3 | 5.00 秒
+15... candidate：Nh6 | 深度 3 | 5.00 秒
+16. material：Bg5+ | 深度 3 | 5.00 秒
+16... candidate：f6 | 深度 4 | 5.00 秒
+17. material：exf6+ | 深度 4 | 5.00 秒
+17... candidate：Kd6 | 深度 3 | 5.00 秒
+18. material：fxg7 | 深度 4 | 5.00 秒
+18... candidate：Re8+ | 深度 4 | 5.00 秒
+19. material：Kf1 | 深度 4 | 5.00 秒
+19... candidate：Qc8 | 深度 3 | 5.00 秒
+20. material：Bxh6 | 深度 3 | 5.00 秒
+20... candidate：Rg8 | 深度 3 | 5.00 秒
+21. material：Qc2 | 深度 3 | 5.00 秒
+21... candidate：Qe6 | 深度 3 | 5.00 秒
+22. material：Qxh7 | 深度 3 | 5.00 秒
+22... candidate：Qf6 | 深度 2 | 5.00 秒
+23. material：Rd1 | 深度 3 | 5.00 秒
+23... candidate：a5 | 深度 3 | 5.00 秒
+24. material：a4 | 深度 3 | 5.00 秒
+24... candidate：bxa3 | 深度 3 | 5.00 秒
+25. material：bxa3 | 深度 3 | 5.00 秒
+25... candidate：a4 | 深度 3 | 5.00 秒
+26. material：Bc2 | 深度 3 | 5.00 秒
+26... candidate：Qf7 | 深度 3 | 5.00 秒
+27. material：Bg6 | 深度 3 | 5.00 秒
+27... candidate：Qe7 | 深度 3 | 5.00 秒
+28. material：Bf4+ | 深度 3 | 5.00 秒
+28... candidate：Ne5 | 深度 2 | 5.00 秒
+29. material：dxe5+ | 深度 2 | 5.00 秒
+29... candidate：Kd7 | 深度 3 | 5.00 秒
+30. material：Bf5+ | 深度 3 | 5.00 秒
+30... candidate：Kc6 | 深度 4 | 5.00 秒
+31. material：Qg6+ | 深度 4 | 5.00 秒
+31... candidate：Kc5 | 深度 3 | 5.00 秒
+32. material：Rc1+ | 深度 3 | 5.00 秒
+32... candidate：Kb5 | 深度 3 | 5.00 秒
+33. material：Nd4+ | 深度 4 | 5.00 秒
+33... candidate：Ka5 | 深度 3 | 5.00 秒
+34. material：Bd2+ | 深度 4 | 5.00 秒
+34... candidate：Qb4 | 深度 4 | 5.00 秒
+35. material：axb4# | 深度 0 | 0.00 秒
+本盘结果：1-0，原因：CHECKMATE
+结果压缩包： C:\Users\maxw\chess_ai\full_arena_games\20260908_114659_639735\pair_01.zip
+
+===== 比赛结束 =====
+价值版获胜： 0
+子力版获胜： 2
+和棋： 0
+达到步数上限未结束： 0
+棋谱与搜索记录： C:\Users\maxw\chess_ai\full_arena_games\20260908_114659_639735\pair_01

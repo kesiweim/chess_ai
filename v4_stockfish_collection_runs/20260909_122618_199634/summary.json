@@ -1,0 +1,35 @@
+{
+  "by_skill": {
+    "0": {
+      "v4_wins": 4,
+      "stockfish_wins": 0,
+      "draws": 0,
+      "unfinished": 0,
+      "errors": 0,
+      "finished": 4,
+      "v4_score_finished_only": 1.0
+    },
+    "3": {
+      "v4_wins": 2,
+      "stockfish_wins": 15,
+      "draws": 1,
+      "unfinished": 1,
+      "errors": 1,
+      "finished": 18,
+      "v4_score_finished_only": 0.1388888888888889
+    },
+    "6": {
+      "v4_wins": 0,
+      "stockfish_wins": 0,
+      "draws": 0,
+      "unfinished": 0,
+      "errors": 3,
+      "finished": 0,
+      "v4_score_finished_only": null
+    }
+  },
+  "failed_jobs": [],
+  "interrupted": true,
+  "planned_games": 36,
+  "saved_games": 27
+}

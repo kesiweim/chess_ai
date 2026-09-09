@@ -1,0 +1,13 @@
+[Event "Local v4 vs Stockfish calibration"]
+[Site "?"]
+[Date "2026.09.09"]
+[Round "?"]
+[White "v4"]
+[Black "Stockfish_skill_3"]
+[Result "*"]
+[Termination "move_limit_unfinished"]
+[OpeningLabel "French"]
+[PairGroup "7"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ne4 5. Nf3 c5 6. dxc5 Qa5 7. Bb5+ Nc6 8. b4 Qxb4 9. Bd2 Nxc3 10. Bxc3 Qxb5 11. Ng5 Qxc5 12. Qf3 Nd8 13. O-O Qc6 14. Rfd1 Bd7 15. Ba5 h6 16. Bxd8 hxg5 17. Bxg5 a6 18. Qd3 Qc5 19. Rab1 Qc7 20. h4 Bb5 21. Rxb5 axb5 22. Qxb5+ Qc6 23. Qb2 Bc5 24. Qb3 Qb6 25. Qxb6 Bxb6 26. Rb1 Bd8 27. Rxb7 Rc8 28. c3 d4 29. Bxd8 O-O 30. Be7 Rb8 31. Rxb8 Rxb8 32. cxd4 Rb1+ 33. Kh2 Rf1 34. Kg3 Rd1 35. Bc5 Ra1 36. a3 Ra2 37. h5 f5 38. exf6 gxf6 39. Be7 Kg7 40. Kf3 Kf7 41. Bd6 f5 42. Kg3 Rd2 43. Bc5 Re2 44. Bd6 Kf6 45. f4 Rd2 46. Kh3 Kf7 47. Bc5 Rf2 48. Bd6 Rb2 49. Kh2 Ra2 50. Kh3 Kf6 51. Kg3 Kf7 52. Kh3 Rd2 53. Bc5 Kf6 54. g4 Kg7 55. gxf5 Kf7 56. Kg4 Rg2+ 57. Kf3 Rb2 58. Kg4 Rg2+ 59. Kf3 Ra2 60. Ke4 Rh2 61. fxe6+ Kxe6 62. d5+ Kd7 63. a4 Rxh5 64. a5 Rh1 65. Bb6 Ra1 66. f5 Re1+ 67. Kd4 Ra1 68. f6 Rb1 69. Kc4 Rc1+ 70. Kd3 Rb1 71. Kc4 Ra1 72. Kd3 Kd6 73. Kc4 Rc1+ 74. Kd4 Rf1 75. Bc5+ Kc7 76. Be7 Kd7 77. Kc3 Rc1+ 78. Kb4 Rb1+ 79. Kc4 Rc1+ 80. Kb3 Rd1 81. Kc4 Ra1 82. Kb5 Rd1 83. Kc5 Ra1 84. Kb6 Rb1+ 85. Kc5 Rc1+ 86. Kb6 Rb1+ 87. Kc5 Rc1+ 88. Kb5 Rd1 89. Kc4 Rc1+ 90. Kb3 Rb1+ 91. Ka4 Ra1+ 92. Ba3 Rf1 93. Be7 Ra1+ 94. Ba3 Rf1 95. Kb5 Rxf6 96. Bb2 Rf5 97. Kc5 Rf8 98. Bg7 Rb8 99. Kc4 Rc8+ 100. Kb4 Kd6 101. a6 Ra8 102. Kb5 Re8 103. Kc4 Ra8 104. Kd4 Kd7 105. Kc3 Rc8+ 106. Kb4 Kc7 107. Kc5 Kd7+ 108. Kb6 Rb8+ 109. Ka5 Re8 110. Kb4 Kd6 111. Kc4 Rc8+ 112. Kd4 Ra8 113. a7 Ke7 114. Bh6 Kf6 115. Bf4 Rxa7 116. Kc5 Ra6 117. Bc7 Kf5 118. d6 Ra2 119. d7 Rc2+ 120. Kb4 Rd2 *

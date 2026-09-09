@@ -1,0 +1,11 @@
+{
+  "records": 35212,
+  "by_source": {
+    "played_root": 2092,
+    "search_evaluation": 33120
+  },
+  "teacher_labeled": 0,
+  "samples_per_move": 32,
+  "planned_games": 36,
+  "note": "Raw records, not deduplicated training samples; exclude error/interrupted games before training."
+}

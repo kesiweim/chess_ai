@@ -1,0 +1,28 @@
+{
+  "counts": {
+    "train": 32051,
+    "val": 4008,
+    "test": 3941
+  },
+  "groups": 33379,
+  "excluded_groups": 845,
+  "target": "sign(DTM)*max(.35,.98-.008*abs(DTM)); draw or mate beyond 50-move budget -> 0",
+  "scope": "KRK/KQK fresh FEN only; no repetition history; symmetry and clock variants grouped; final test reserved",
+  "distribution": {
+    "train": {
+      "draw": 12099,
+      "positive": 8945,
+      "negative": 11007
+    },
+    "val": {
+      "draw": 1503,
+      "positive": 1131,
+      "negative": 1374
+    },
+    "test": {
+      "draw": 1499,
+      "positive": 1127,
+      "negative": 1315
+    }
+  }
+}

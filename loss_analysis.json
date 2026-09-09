@@ -1,0 +1,262 @@
+[
+  {
+    "move_number": 1,
+    "position": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "actual_move": "e2e4",
+    "suggested_move": "e2e4",
+    "actual_score": "+0.23",
+    "best_score": "+0.23",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 2,
+    "position": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+    "actual_move": "e4d5",
+    "suggested_move": "e4d5",
+    "actual_score": "+0.68",
+    "best_score": "+0.68",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 3,
+    "position": "rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+    "actual_move": "b1c3",
+    "suggested_move": "b1c3",
+    "actual_score": "+0.58",
+    "best_score": "+0.58",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 4,
+    "position": "rnb1kbnr/ppp1pppp/8/q7/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4",
+    "actual_move": "d2d4",
+    "suggested_move": "d2d4",
+    "actual_score": "+0.62",
+    "best_score": "+0.62",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 5,
+    "position": "rn2kbnr/ppp1pppp/8/q4b2/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5",
+    "actual_move": "g1f3",
+    "suggested_move": "c1d2",
+    "actual_score": "+0.60",
+    "best_score": "+0.99",
+    "centipawn_loss": 39,
+    "reason": null
+  },
+  {
+    "move_number": 6,
+    "position": "r3kbnr/ppp1pppp/2n5/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+    "actual_move": "f1c4",
+    "suggested_move": "f1b5",
+    "actual_score": "+0.64",
+    "best_score": "+1.99",
+    "centipawn_loss": 135,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 7,
+    "position": "r3kbnr/ppp2ppp/2n1p3/q4b2/2BP4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 7",
+    "actual_move": "e1g1",
+    "suggested_move": "e1g1",
+    "actual_score": "+0.63",
+    "best_score": "+0.63",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 8,
+    "position": "2kr1bnr/ppp2ppp/2n1p3/q4b2/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 2 8",
+    "actual_move": "f1e1",
+    "suggested_move": "c3b5",
+    "actual_score": "-0.29",
+    "best_score": "+0.66",
+    "centipawn_loss": 95,
+    "reason": null
+  },
+  {
+    "move_number": 9,
+    "position": "2kr1bnr/ppp2ppp/2n1p3/q7/2BP2b1/2N2N2/PPP2PPP/R1BQR1K1 w - - 4 9",
+    "actual_move": "h2h3",
+    "suggested_move": "c1e3",
+    "actual_score": "-1.17",
+    "best_score": "-0.39",
+    "centipawn_loss": 78,
+    "reason": null
+  },
+  {
+    "move_number": 10,
+    "position": "2kr1bnr/ppp2ppp/2n1p3/q6b/2BP4/2N2N1P/PPP2PP1/R1BQR1K1 w - - 1 10",
+    "actual_move": "c1e3",
+    "suggested_move": "g2g4",
+    "actual_score": "-0.45",
+    "best_score": "+1.47",
+    "centipawn_loss": 192,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 11,
+    "position": "2kr1b1r/ppp2ppp/2n1pn2/q6b/2BP4/2N1BN1P/PPP2PP1/R2QR1K1 w - - 3 11",
+    "actual_move": "d1d2",
+    "suggested_move": "g2g4",
+    "actual_score": "-4.29",
+    "best_score": "+0.75",
+    "centipawn_loss": 504,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 12,
+    "position": "2kr1b1r/ppp2pp1/2n1pn1p/q6b/2BP4/2N1BN1P/PPPQ1PP1/R3R1K1 w - - 0 12",
+    "actual_move": "a1d1",
+    "suggested_move": "g2g4",
+    "actual_score": "-2.83",
+    "best_score": "+0.99",
+    "centipawn_loss": 382,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 13,
+    "position": "2kr3r/ppp2pp1/2n1pn1p/q6b/1bBP4/2N1BN1P/PPPQ1PP1/3RR1K1 w - - 2 13",
+    "actual_move": "a2a3",
+    "suggested_move": "a2a3",
+    "actual_score": "-1.50",
+    "best_score": "-1.50",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 14,
+    "position": "2kr3r/ppp2pp1/2nbpn1p/q6b/2BP4/P1N1BN1P/1PPQ1PP1/3RR1K1 w - - 1 14",
+    "actual_move": "c3e2",
+    "suggested_move": "c4e2",
+    "actual_score": "-1.76",
+    "best_score": "+0.95",
+    "centipawn_loss": 271,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 15,
+    "position": "2kr3r/ppp2p2/2nbpn1p/q5pb/2BP4/P3BN1P/1PPQNPP1/3RR1K1 w - - 0 15",
+    "actual_move": "c2c3",
+    "suggested_move": "c4d3",
+    "actual_score": "-1.18",
+    "best_score": "+0.09",
+    "centipawn_loss": 127,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 16,
+    "position": "2kr3r/ppp2p2/2nbp2p/q5pb/2BPn3/P1P1BN1P/1P1QNPP1/3RR1K1 w - - 1 16",
+    "actual_move": "e2g3",
+    "suggested_move": "d2c2",
+    "actual_score": "-8.59",
+    "best_score": "+0.77",
+    "centipawn_loss": 936,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 17,
+    "position": "2kr3r/ppp2p2/2nbp2p/q5pb/2BP4/P1P1BNNP/1P1n1PP1/3RR1K1 w - - 0 17",
+    "actual_move": "d1d2",
+    "suggested_move": "d1d2",
+    "actual_score": "-8.19",
+    "best_score": "-8.19",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 18,
+    "position": "2kr3r/ppp2p2/2nbp2p/q6b/2BP2p1/P1P1BNNP/1P1R1PP1/4R1K1 w - - 0 18",
+    "actual_move": "h3g4",
+    "suggested_move": "h3g4",
+    "actual_score": "-7.31",
+    "best_score": "-7.31",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 19,
+    "position": "2kr3r/ppp2p2/2nbp2p/q7/2BP2b1/P1P1BNN1/1P1R1PP1/4R1K1 w - - 0 19",
+    "actual_move": "e1b1",
+    "suggested_move": "b2b4",
+    "actual_score": "-8.33",
+    "best_score": "-7.71",
+    "centipawn_loss": 62,
+    "reason": null
+  },
+  {
+    "move_number": 20,
+    "position": "2k3rr/ppp2p2/2nbp2p/q7/2BP2b1/P1P1BNN1/1P1R1PP1/1R4K1 w - - 2 20",
+    "actual_move": "g3e2",
+    "suggested_move": "b2b4",
+    "actual_score": "-10.46",
+    "best_score": "-7.53",
+    "centipawn_loss": 293,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 21,
+    "position": "2k3rr/ppp2p2/2nbp3/q6p/2BP2b1/P1P1BN2/1P1RNPP1/1R4K1 w - - 0 21",
+    "actual_move": "b2b3",
+    "suggested_move": "f3h4",
+    "actual_score": "-11.79",
+    "best_score": "-8.33",
+    "centipawn_loss": 346,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 22,
+    "position": "2k3rr/ppp2p2/2nbp3/7p/2BP2b1/qPP1BN2/3RNPP1/1R4K1 w - - 0 22",
+    "actual_move": "e2f4",
+    "suggested_move": "f3g5",
+    "actual_score": "-10.12",
+    "best_score": "-7.97",
+    "centipawn_loss": 215,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 23,
+    "position": "2k3rr/ppp2p2/2nbp3/8/2BP1Nbp/qPP1BN2/3R1PP1/1R4K1 w - - 0 23",
+    "actual_move": "f4d3",
+    "suggested_move": "c4e2",
+    "actual_score": "-12.53",
+    "best_score": "-9.41",
+    "centipawn_loss": 312,
+    "reason": "引擎估计损失至少一个兵的评分"
+  },
+  {
+    "move_number": 24,
+    "position": "2k3rr/ppp2p2/2nbp3/8/2BP2b1/qPPNBN1p/3R1PP1/1R4K1 w - - 0 24",
+    "actual_move": "g2h3",
+    "suggested_move": "g2g3",
+    "actual_score": "白方将被强制将死，距离 4",
+    "best_score": "-9.46",
+    "centipawn_loss": null,
+    "reason": "可能允许对手强制将死"
+  },
+  {
+    "move_number": 25,
+    "position": "2k3rr/ppp2p2/2nbp3/8/2BP4/qPPNBb1P/3R1P2/1R4K1 w - - 0 25",
+    "actual_move": "g1f1",
+    "suggested_move": "e3g5",
+    "actual_score": "白方将被强制将死，距离 3",
+    "best_score": "白方将被强制将死，距离 3",
+    "centipawn_loss": null,
+    "reason": null
+  },
+  {
+    "move_number": 26,
+    "position": "2k3r1/ppp2p2/2nbp3/8/2BP4/qPPNBb1r/3R1P2/1R3K2 w - - 0 26",
+    "actual_move": "b1a1",
+    "suggested_move": "c4e6",
+    "actual_score": "白方将被强制将死，距离 1",
+    "best_score": "白方将被强制将死，距离 2",
+    "centipawn_loss": null,
+    "reason": null
+  }
+]

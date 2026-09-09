@@ -1,0 +1,224 @@
+{
+  "task": {
+    "id": 5,
+    "name": "KQ_far_white",
+    "fen": "7k/8/8/8/8/8/Q7/4K3 w - - 0 1",
+    "strong": true,
+    "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_182508_122349",
+    "model": "C:\\Users\\maxw\\chess_ai\\endgame_course_runs\\20260908_182243_380182\\endgame_epoch3.pt",
+    "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+  },
+  "moves": [
+    {
+      "position": "7k/8/8/8/8/8/Q7/4K3 w - - 0 1",
+      "move": "a2b2",
+      "san": "Qb2+",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 49543,
+        "action": "move",
+        "score": 0.9982086420059204,
+        "seconds": 1.5530658999923617,
+        "ordering_hits": 1534
+      }
+    },
+    {
+      "position": "7k/8/8/8/8/8/1Q6/4K3 b - - 1 1",
+      "move": "h8g8",
+      "san": "Kg8",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.04324839997570962
+      }
+    },
+    {
+      "position": "6k1/8/8/8/8/8/1Q6/4K3 w - - 2 2",
+      "move": "b2f6",
+      "san": "Qf6",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 47432,
+        "action": "move",
+        "score": 0.9988856911659241,
+        "seconds": 1.5579483999754302,
+        "ordering_hits": 1531
+      }
+    },
+    {
+      "position": "6k1/8/5Q2/8/8/8/8/4K3 b - - 3 2",
+      "move": "g8h7",
+      "san": "Kh7",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.02069069998105988
+      }
+    },
+    {
+      "position": "8/7k/5Q2/8/8/8/8/4K3 w - - 4 3",
+      "move": "e1f2",
+      "san": "Kf2",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 47786,
+        "action": "move",
+        "score": 0.9993792176246643,
+        "seconds": 1.4465207000030205,
+        "ordering_hits": 1676
+      }
+    },
+    {
+      "position": "8/7k/5Q2/8/8/8/5K2/8 b - - 5 3",
+      "move": "h7g8",
+      "san": "Kg8",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.020590300031471997
+      }
+    },
+    {
+      "position": "6k1/8/5Q2/8/8/8/5K2/8 w - - 6 4",
+      "move": "f2e3",
+      "san": "Ke3",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 57710,
+        "action": "move",
+        "score": 0.9993950128555298,
+        "seconds": 1.92148390004877,
+        "ordering_hits": 1742
+      }
+    },
+    {
+      "position": "6k1/8/5Q2/8/8/4K3/8/8 b - - 7 4",
+      "move": "g8h7",
+      "san": "Kh7",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.018449699971824884
+      }
+    },
+    {
+      "position": "8/7k/5Q2/8/8/4K3/8/8 w - - 8 5",
+      "move": "e3f4",
+      "san": "Kf4",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 58892,
+        "action": "move",
+        "score": 0.9998192191123962,
+        "seconds": 2.014512100024149,
+        "ordering_hits": 1833
+      }
+    },
+    {
+      "position": "8/7k/5Q2/8/5K2/8/8/8 b - - 9 5",
+      "move": "h7g8",
+      "san": "Kg8",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.01439530000789091
+      }
+    },
+    {
+      "position": "6k1/8/5Q2/8/5K2/8/8/8 w - - 10 6",
+      "move": "f4f5",
+      "san": "Kf5",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 49936,
+        "action": "move",
+        "score": 0.99977046251297,
+        "seconds": 1.6665232999948785,
+        "ordering_hits": 1593
+      }
+    },
+    {
+      "position": "6k1/8/5Q2/5K2/8/8/8/8 b - - 11 6",
+      "move": "g8h7",
+      "san": "Kh7",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.01086320000467822
+      }
+    },
+    {
+      "position": "8/7k/5Q2/5K2/8/8/8/8 w - - 12 7",
+      "move": "f6g5",
+      "san": "Qg5",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 42141,
+        "action": "move",
+        "score": 999.95,
+        "seconds": 1.4280258999788202,
+        "ordering_hits": 1342
+      }
+    },
+    {
+      "position": "8/7k/8/5KQ1/8/8/8/8 b - - 13 7",
+      "move": "h7h8",
+      "san": "Kh8",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.002348700014408678
+      }
+    },
+    {
+      "position": "7k/8/8/5KQ1/8/8/8/8 w - - 14 8",
+      "move": "f5f6",
+      "san": "Kf6",
+      "side": "v4",
+      "stats": {
+        "depth": 5,
+        "nodes": 37472,
+        "action": "move",
+        "score": 999.97,
+        "seconds": 1.3524284000159241,
+        "ordering_hits": 1194
+      }
+    },
+    {
+      "position": "7k/8/5K2/6Q1/8/8/8/8 b - - 15 8",
+      "move": "h8h7",
+      "san": "Kh7",
+      "side": "Stockfish",
+      "stats": {
+        "wall_seconds": 0.0017117999959737062
+      }
+    },
+    {
+      "position": "8/7k/5K2/6Q1/8/8/8/8 w - - 16 9",
+      "move": "g5g7",
+      "san": "Qg7#",
+      "side": "v4",
+      "stats": {
+        "depth": 0,
+        "nodes": 0,
+        "seconds": 0.0,
+        "ordering_hits": 0
+      }
+    }
+  ],
+  "summary": {
+    "id": 5,
+    "name": "KQ_far_white",
+    "success": true,
+    "result": "1-0",
+    "reason": "CHECKMATE",
+    "strong_moves": 9,
+    "plies": 17,
+    "lost_major_piece": false,
+    "final_fen": "8/6Qk/5K2/8/8/8/8/8 b - - 17 9",
+    "teacher": {
+      "name": "Stockfish 19",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "material"]
+[Black "neural"]
+[Result "*"]
+[Termination "move_limit_unfinished"]
+[OpeningLabel "卡罗康"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Qb6 5. Nf3 Nf6 6. Nxf6+ exf6 7. Bc4 Qb4+ 8. Nd2 Qe7+ 9. Qe2 Qxe2+ 10. Kxe2 b5 11. Bb3 Bg4+ 12. Nf3 a5 13. a4 g5 14. axb5 cxb5 15. Be3 Ra6 16. h3 Bxf3+ 17. Kxf3 a4 18. Bd5 h5 19. g4 Bb4 20. gxh5 Rxh5 21. Ke4 Rd6 22. Rag1 f5+ 23. Kxf5 Rxd5+ 24. Ke4 Rd6 25. Rxg5 Rxg5 26. Bxg5 Nc6 27. d5 f5+ 28. Kxf5 Rxd5+ 29. Kg6 Ne5+ 30. Kf6 Nc4 31. Bc1 Rd6+ 32. Kg7 Ne5 33. c3 Rg6+ 34. Kh8 Be7 35. Rh2 Nd3 36. Kh7 Rg1 37. Bh6 Bd6 38. f4 Bxf4 39. Rc2 Be5 40. Re2 Rf1 41. Kg6 Rf3 42. h4 Kd7 43. Kh7 Kd6 44. Bg5 Rf7+ 45. Kg6 Rf8 46. Rd2 Rf3 47. h5 Ke6 48. h6 Bc7 49. h7 Be5 50. Re2 Rh3 51. Bh6 Rg3+ 52. Kh5 Rh3+ 53. Kg5 Kd6 54. Rxe5 Nxe5 55. h8=Q Nf7+ 56. Kg4 Nxh8 57. Kxh3 Ke6 58. Kh4 Ng6+ 59. Kg5 Ne5 60. Bf8 Nd3 61. Ba3 Ne5 62. Kf4 Nc4 63. Ke4 Nd2+ 64. Kd4 Nb3+ 65. Kd3 Na5 66. Kc2 Nb3 67. Kd1 Na1 68. Kc1 Nb3+ 69. Kd1 Na1 70. Kc1 Kf6 71. Kd2 Nb3+ 72. Kc2 Kf7 73. Kd1 Ke6 74. Kc2 Kf7 75. Kd1 Ke6 76. Bf8 Na5 77. Bg7 Nc4 78. Kc2 Kd5 79. Bf6 Ke4 80. Bg5 Kf3 81. Bf6 Ne3+ 82. Kd2 Nc4+ 83. Kc2 Ke2 84. Bg5 Ne3+ 85. Kb1 Nc4 86. Kc2 Ne5 87. Bf6 Nf3 88. Bg7 Nd2 89. Bf6 Nf3 90. Bg7 Nd2 91. Bf8 Ne4 92. Bh6 Nc5 93. Bg7 Nb3 94. Bf6 Nc5 95. Be5 Nb3 96. Bf4 Nc5 97. Be5 Kf3 98. Bd4 Ne4 99. Kd3 Nd6 100. Be3 Nc4 101. Bc1 Nd6 102. Bd2 Nc4 103. Bc1 Nd6 104. Bg5 Ne4 105. Be7 Nf2+ 106. Kc2 Ke4 107. b4 Nd3 108. Bf6 Nf2 109. Bg5 Kf3 110. Bf6 a3 111. Bg7 Kf4 112. Kb3 Kg5 113. Kxa3 Kf4 114. Bf8 Kf3 115. Bc5 Ne4 116. Bd4 Nd6 117. Kb3 Ne4 118. Kc2 Ke2 119. Kb3 Nd2+ 120. Kc2 Nc4 *

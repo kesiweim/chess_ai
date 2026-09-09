@@ -1,0 +1,15 @@
+{
+  "completed": 153,
+  "total": 153,
+  "complete": true,
+  "same_move": 121,
+  "new_better": 17,
+  "old_better": 10,
+  "close": 5,
+  "both_mate_scores": 0,
+  "old_mean_seconds": 3.552633744445546,
+  "old_mate_shortcuts": 0,
+  "new_mean_seconds": 3.3929808973848328,
+  "new_mate_shortcuts": 0,
+  "scope": "训练局面的搜索回归检查，不是独立棋力验证；Stockfish为有限节点估计。"
+}

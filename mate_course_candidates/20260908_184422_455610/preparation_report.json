@@ -1,0 +1,38 @@
+{
+  "source": "C:\\Users\\maxw\\chess_ai\\lichess_db_puzzle.csv.zst",
+  "source_bytes": 304384407,
+  "rows_scanned": 6100960,
+  "theme_hits": {
+    "mateIn1": 898212,
+    "mateIn2": 807423,
+    "mateIn3": 196470
+  },
+  "sampled": {
+    "mateIn1": 3000,
+    "mateIn2": 3000,
+    "mateIn3": 3000
+  },
+  "invalid_lines": 0,
+  "duplicates_removed": 0,
+  "cross_split_rows_removed": 0,
+  "candidate_counts": {
+    "train": {
+      "mateIn1": 2391,
+      "mateIn2": 2383,
+      "mateIn3": 2385
+    },
+    "val": {
+      "mateIn1": 274,
+      "mateIn2": 302,
+      "mateIn3": 303
+    },
+    "test": {
+      "mateIn1": 335,
+      "mateIn2": 315,
+      "mateIn3": 312
+    }
+  },
+  "output": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610",
+  "verification": "Only legal line ending in mate verified; forced mate against all defenses NOT yet verified.",
+  "holdout_warning": "Prior project data overlap has NOT been audited. These are candidate pools, not clean independent evaluation sets. Do not train yet."
+}

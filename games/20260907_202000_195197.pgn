@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opponent"]
+[Black "MyAI"]
+[Result "0-1"]
+[EvaluationMode "material"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "material"]
+[SearchSeconds "8.0"]
+[SearchDepth "5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 d6 6. O-O O-O 7. b3 a6 8. Bb2 b5 9. Bd5 Nxd5 10. exd5 Ne7 11. Ne4 Bb6 12. d4 exd4 13. Bxd4 Nxd5 14. Bxb6 Nxb6 15. Nfg5 d5 16. Qh5 h6 17. Rad1 hxg5 18. Nxg5 Bf5 19. c4 bxc4 20. bxc4 Nxc4 21. Rd4 Bg6 22. Qh4 Ne5 23. Re1 Qd6 24. f4 Nc4 25. Ree4 Qc5 26. Ne6 fxe6 27. Rxe6 Qxd4+ 28. Kf1 Bd3+ 29. Ke1 Qg1# 0-1

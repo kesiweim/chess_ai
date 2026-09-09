@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "MyAI"]
+[Black "Opponent"]
+[Result "*"]
+[EvaluationMode "material"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "material"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+
+*

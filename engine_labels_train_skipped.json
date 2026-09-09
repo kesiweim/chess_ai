@@ -1,0 +1,20 @@
+[
+  {
+    "position_id": "3b8a0c0220cad2d3b237309d83dcd4c05316d2cf43158cfc3be7fb94a19b36b4",
+    "position": "8/8/8/3K2k1/8/8/8/8 w - - 0 85",
+    "game_id": "6e60791205098ff07642ace0df3a3360793218ccb030b3c8ab3805a50d071431",
+    "reason": "已结束：INSUFFICIENT_MATERIAL"
+  },
+  {
+    "position_id": "14ff1e00b6757089ef80fa4b92e3f3919717cf9c32d6793a677eba32a6507983",
+    "position": "8/8/8/5K1k/8/8/8/8 w - - 0 95",
+    "game_id": "b9d1cffca1b003998326dcecaa6f1cdd479e7256824f20fdcf0bd040bb388f59",
+    "reason": "已结束：INSUFFICIENT_MATERIAL"
+  },
+  {
+    "position_id": "6ae3c203ccefe683ff3a07f1358514c3a647ec668deb6df0896ffee223389843",
+    "position": "2R5/8/8/1rk1K3/4B3/8/8/8 b - - 152 187",
+    "game_id": "85004ef1b9f793b22d487ee213a52e2f1803c6610e973b9fde3270f8c97e617b",
+    "reason": "已结束：SEVENTYFIVE_MOVES"
+  }
+]

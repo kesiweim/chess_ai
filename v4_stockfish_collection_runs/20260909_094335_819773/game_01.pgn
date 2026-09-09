@@ -1,0 +1,13 @@
+[Event "Local v4 vs Stockfish calibration"]
+[Site "?"]
+[Date "2026.09.09"]
+[Round "?"]
+[White "v4"]
+[Black "Stockfish_skill_0"]
+[Result "*"]
+[Termination "interrupted"]
+[OpeningLabel "Italian"]
+[PairGroup "0"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O a6 5. d4 Bxd4 6. Ng5 Kf8 7. Nxf7 Qh4 8. Nxh8 d6 *

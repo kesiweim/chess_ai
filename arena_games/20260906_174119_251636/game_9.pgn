@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "neural"]
+[Black "material"]
+[Result "1/2-1/2"]
+[Termination "claimed_threefold_repetition"]
+[OpeningLabel "卡罗康"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Nbd2 Nf6 6. Bd3 e6 7. c3 Bd6 8. Ng5 O-O 9. Qc2 h6 10. Nh7 Nxh7 11. Bxh7+ Kh8 12. Bd3 e5 13. O-O exd4 14. Nf3 dxc3 15. bxc3 Be6 16. Rb1 Qd7 17. Be3 Rae8 18. Nd4 Nxd4 19. Bxd4 Qc7 20. g3 Rc8 21. Bxa7 Qxc3 22. Qxc3 Rxc3 23. Rb3 Rxb3 24. axb3 Bb4 25. Rb1 Be7 26. b4 Rc8 27. Bc5 Bxc5 28. bxc5 Rxc5 29. Rxb7 Rc1+ 30. Kg2 g5 31. Re7 Kg7 32. Rb7 h5 33. Rb1 Rxb1 34. Bxb1 d4 35. Be4 h4 36. Bc6 hxg3 37. Kxg3 d3 38. Kf3 Bf5 39. Ke3 Bg6 40. Bb5 d2 41. Kxd2 Kf6 42. Kc3 Ke5 43. Be8 Kf4 44. Bc6 g4 45. Kb4 Bf5 46. Be8 Be6 47. Bc6 Bf5 48. Be8 Be6 49. Bc6 1/2-1/2

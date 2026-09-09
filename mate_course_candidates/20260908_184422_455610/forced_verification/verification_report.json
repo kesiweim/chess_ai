@@ -1,0 +1,20 @@
+{
+  "total": 9000,
+  "completed": 9000,
+  "new_this_run": 8700,
+  "counts": {
+    "mateIn2": {
+      "verified": 3000
+    },
+    "mateIn1": {
+      "verified": 3000
+    },
+    "mateIn3": {
+      "verified": 3000
+    }
+  },
+  "remaining": 0,
+  "interrupted": false,
+  "scope": "Verified supplied FIRST MOVE forces mate within tagged bound; not a proof of shortest mate or a list of all winning first moves. History before puzzle setup unavailable.",
+  "overlap_audit": "NOT DONE: do not treat pools as independent holdouts or start training yet."
+}

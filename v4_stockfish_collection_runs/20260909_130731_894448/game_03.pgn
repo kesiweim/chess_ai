@@ -1,0 +1,13 @@
+[Event "Local v4 vs Stockfish calibration"]
+[Site "?"]
+[Date "2026.09.09"]
+[Round "?"]
+[White "v4"]
+[Black "Stockfish_skill_0"]
+[Result "*"]
+[Termination "interrupted"]
+[OpeningLabel "Queens_Gambit"]
+[PairGroup "1"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. Nf3 Be7 6. Rg1 Nxc3 7. bxc3 O-O 8. e4 b6 9. a4 c5 10. Bf4 Bb7 11. Bd3 cxd4 12. cxd4 Nc6 13. Qe2 Rc8 14. Qb2 e5 15. Bxe5 Re8 16. Qe2 Nb4 17. Kd1 *

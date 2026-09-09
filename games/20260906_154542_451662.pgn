@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opponent"]
+[Black "MyAI"]
+[Result "*"]
+[EvaluationMode "material"]
+[PolicyModel "chess_model_balanced.pt"]
+[ValueModel "material"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+
+1. Nf3 Nf6 2. h4 d5 3. d4 e6 *

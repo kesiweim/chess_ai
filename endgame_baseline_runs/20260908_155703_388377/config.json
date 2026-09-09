@@ -1,0 +1,85 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "KR_far_white",
+      "fen": "7k/8/8/8/8/8/R7/4K3 w - - 0 1",
+      "strong": true,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 2,
+      "name": "KR_far_black",
+      "fen": "4k3/r7/8/8/8/8/8/7K b - - 0 1",
+      "strong": false,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 3,
+      "name": "KR_edge_white",
+      "fen": "8/8/8/3k4/8/8/8/R3K3 w - - 0 1",
+      "strong": true,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 4,
+      "name": "KR_edge_black",
+      "fen": "r3k3/8/8/8/3K4/8/8/8 b - - 0 1",
+      "strong": false,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 5,
+      "name": "KQ_far_white",
+      "fen": "7k/8/8/8/8/8/Q7/4K3 w - - 0 1",
+      "strong": true,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 6,
+      "name": "KQ_far_black",
+      "fen": "4k3/q7/8/8/8/8/8/7K b - - 0 1",
+      "strong": false,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 7,
+      "name": "KQ_center_white",
+      "fen": "8/8/3k4/8/8/8/8/Q3K3 w - - 0 1",
+      "strong": true,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    },
+    {
+      "id": 8,
+      "name": "KQ_center_black",
+      "fen": "q3k3/8/8/8/8/3K4/8/8 b - - 0 1",
+      "strong": false,
+      "folder": "C:\\Users\\maxw\\chess_ai\\endgame_baseline_runs\\20260908_155703_388377",
+      "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+      "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe"
+    }
+  ],
+  "seconds": 5,
+  "depth": 5,
+  "threads_per_worker": 4,
+  "workers": 4,
+  "defender_nodes": 100000,
+  "max_plies": 160,
+  "model_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "engine_sha256": "45bc8e4969147db9c2eb533810637994619bff0eacc81ccfd9854394901bcbd0",
+  "scope": "8个固定基础残局，镜像并非独立样本；Stockfish有限节点防守，不保证最优防守。"
+}

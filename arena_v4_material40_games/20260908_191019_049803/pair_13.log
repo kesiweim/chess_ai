@@ -1,0 +1,181 @@
+本次v4： C:\Users\maxw\chess_ai\value_full_runs\20260908_113914_349502\value_full_epoch2.pt
+交换颜色两局；双方CPU4线程，每步5秒、深度上限5。
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1006: FutureWarning: `torch.jit.trace` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1145: FutureWarning: `torch.jit.trace_method` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_freeze.py:106: FutureWarning: `torch.jit.freeze` is deprecated. Please use `torch.compile` instead.
+  warnings.warn(
+
+===== 第 25/40 盘：四马，白方 v4，黑方 material =====
+4. v4：h4 | 深度 4 | 5.00 秒
+4... material：Bc5 | 深度 4 | 5.00 秒
+5. v4：Rb1 | 深度 4 | 5.00 秒
+5... material：Ng4 | 深度 3 | 5.00 秒
+6. v4：d4 | 深度 4 | 5.00 秒
+6... material：exd4 | 深度 4 | 5.00 秒
+7. v4：Na4 | 深度 4 | 5.00 秒
+7... material：Be7 | 深度 4 | 5.00 秒
+8. v4：Nxd4 | 深度 4 | 5.00 秒
+8... material：Nxd4 | 深度 4 | 5.00 秒
+9. v4：Qxd4 | 深度 4 | 5.00 秒
+9... material：Bxh4 | 深度 4 | 5.00 秒
+10. v4：Qxg7 | 深度 4 | 5.00 秒
+10... material：Qf6 | 深度 5 | 3.38 秒
+11. v4：Qxf6 | 深度 4 | 5.00 秒
+11... material：Bxf6 | 深度 4 | 5.00 秒
+12. v4：f3 | 深度 4 | 5.00 秒
+12... material：Ne5 | 深度 4 | 5.00 秒
+13. v4：Nc3 | 深度 4 | 5.00 秒
+13... material：Ng6 | 深度 4 | 5.00 秒
+14. v4：Nd5 | 深度 4 | 5.00 秒
+14... material：Be5 | 深度 4 | 5.00 秒
+15. v4：f4 | 深度 4 | 5.00 秒
+15... material：c6 | 深度 4 | 5.00 秒
+16. v4：fxe5 | 深度 4 | 5.00 秒
+16... material：cxd5 | 深度 5 | 3.62 秒
+17. v4：exd5 | 深度 4 | 5.00 秒
+17... material：Nxe5 | 深度 4 | 5.00 秒
+18. v4：Rh6 | 深度 4 | 5.00 秒
+18... material：Ng4 | 深度 4 | 5.00 秒
+19. v4：Rh5 | 深度 4 | 5.00 秒
+19... material：Nf6 | 深度 4 | 5.00 秒
+20. v4：Re5+ | 深度 4 | 5.00 秒
+20... material：Kd8 | 深度 5 | 3.03 秒
+21. v4：Bg5 | 深度 4 | 5.00 秒
+21... material：Rg8 | 深度 5 | 1.13 秒
+22. v4：Bxf6+ | 深度 5 | 4.91 秒
+22... material：Kc7 | 深度 5 | 1.98 秒
+23. v4：d6+ | 深度 4 | 5.00 秒
+23... material：Kxd6 | 深度 5 | 2.98 秒
+24. v4：Rd1+ | 深度 4 | 5.00 秒
+24... material：Kc7 | 深度 4 | 5.00 秒
+25. v4：Rc5+ | 深度 4 | 5.00 秒
+25... material：Kb6 | 深度 5 | 3.55 秒
+26. v4：Bd4 | 深度 4 | 5.00 秒
+26... material：d5 | 深度 5 | 4.84 秒
+27. v4：Rxc8+ | 深度 4 | 5.00 秒
+27... material：Ka5 | 深度 5 | 1.73 秒
+28. v4：Bc3+ | 深度 4 | 5.00 秒
+28... material：Kb6 | 深度 5 | 0.97 秒
+29. v4：Bd4+ | 深度 4 | 5.00 秒
+29... material：Ka5 | 深度 5 | 1.76 秒
+30. v4：Rc5+ | 深度 4 | 5.00 秒
+30... material：Ka4 | 深度 5 | 4.56 秒
+31. v4：Rxd5 | 深度 4 | 5.00 秒
+31... material：a6 | 深度 4 | 5.00 秒
+32. v4：Rd7 | 深度 4 | 5.00 秒
+32... material：Rge8+ | 深度 4 | 5.00 秒
+33. v4：Kd2 | 深度 4 | 5.00 秒
+33... material：Red8 | 深度 4 | 5.00 秒
+34. v4：Rxd8 | 深度 5 | 4.88 秒
+34... material：Rxd8 | 深度 5 | 1.08 秒
+35. v4：Ke3 | 深度 4 | 5.00 秒
+35... material：Rd5 | 深度 4 | 5.00 秒
+36. v4：Bc4 | 深度 4 | 5.00 秒
+36... material：Rf5 | 深度 4 | 5.00 秒
+37. v4：g4 | 深度 4 | 5.00 秒
+37... material：Rg5 | 深度 5 | 1.72 秒
+38. v4：Bxf7 | 深度 4 | 5.00 秒
+38... material：Rxg4 | 深度 5 | 3.84 秒
+39. v4：Kf3 | 深度 4 | 5.00 秒
+39... material：Rh4 | 深度 5 | 2.70 秒
+40. v4：Kg3 | 深度 4 | 5.00 秒
+40... material：Re4 | 深度 5 | 2.25 秒
+41. v4：Rd3 | 深度 4 | 5.00 秒
+41... material：Re1 | 深度 5 | 2.98 秒
+42. v4：c4 | 深度 4 | 5.00 秒
+42... material：Re4 | 深度 4 | 5.00 秒
+43. v4：Bc5 | 深度 4 | 5.00 秒
+43... material：Rg4+ | 深度 4 | 5.00 秒
+44. v4：Kxg4 | 深度 5 | 1.83 秒
+44... material：h5+ | 深度 5 | 1.69 秒
+45. v4：Kxh5 | 深度 5 | 3.47 秒
+45... material：Ka5 | 深度 5 | 2.24 秒
+46. v4：Ra3# | 深度 0 | 0.00 秒
+本盘结果：1-0，原因：CHECKMATE
+
+===== 第 26/40 盘：四马，白方 material，黑方 v4 =====
+4. material：d4 | 深度 4 | 5.00 秒
+4... v4：exd4 | 深度 4 | 5.00 秒
+5. material：Nxd4 | 深度 4 | 5.00 秒
+5... v4：Bb4 | 深度 4 | 5.00 秒
+6. material：Nxc6 | 深度 4 | 5.00 秒
+6... v4：dxc6 | 深度 4 | 5.00 秒
+7. material：Bd3 | 深度 4 | 5.00 秒
+7... v4：Ng4 | 深度 4 | 5.00 秒
+8. material：O-O | 深度 3 | 5.00 秒
+8... v4：Bd6 | 深度 3 | 5.00 秒
+9. material：f4 | 深度 3 | 5.00 秒
+9... v4：Bc5+ | 深度 4 | 5.00 秒
+10. material：Kh1 | 深度 4 | 5.00 秒
+10... v4：Nf2+ | 深度 4 | 5.00 秒
+11. material：Rxf2 | 深度 5 | 2.75 秒
+11... v4：Bxf2 | 深度 4 | 5.00 秒
+12. material：f5 | 深度 4 | 5.00 秒
+12... v4：Qh4 | 深度 4 | 5.00 秒
+13. material：Qe2 | 深度 3 | 5.00 秒
+13... v4：Bg3 | 深度 4 | 5.00 秒
+14. material：h3 | 深度 4 | 5.00 秒
+14... v4：Be5 | 深度 4 | 5.00 秒
+15. material：Be3 | 深度 3 | 5.00 秒
+15... v4：Qg3 | 深度 3 | 5.00 秒
+16. material：Kg1 | 深度 3 | 5.00 秒
+16... v4：O-O | 深度 4 | 5.00 秒
+17. material：Rf1 | 深度 3 | 5.00 秒
+17... v4：Qh2+ | 深度 4 | 5.00 秒
+18. material：Kf2 | 深度 4 | 5.00 秒
+18... v4：Qg3+ | 深度 4 | 5.00 秒
+19. material：Kg1 | 深度 4 | 5.00 秒
+19... v4：Qh2+ | 深度 4 | 5.00 秒
+20. material：Kf2 | 深度 4 | 5.00 秒
+20... v4：Bf4 | 深度 3 | 5.00 秒
+21. material：Bxf4 | 深度 4 | 5.00 秒
+21... v4：Qxf4+ | 深度 5 | 4.71 秒
+22. material：Ke1 | 深度 5 | 3.43 秒
+22... v4：Qc1+ | 深度 4 | 5.00 秒
+23. material：Nd1 | 深度 5 | 4.98 秒
+23... v4：Qa1 | 深度 4 | 5.00 秒
+24. material：Bc4 | 深度 4 | 5.00 秒
+24... v4：b5 | 深度 4 | 5.00 秒
+25. material：Bb3 | 深度 4 | 5.00 秒
+25... v4：Bb7 | 深度 3 | 5.00 秒
+26. material：c3 | 深度 4 | 5.00 秒
+26... v4：Rad8 | 深度 4 | 5.00 秒
+27. material：Rf3 | 深度 3 | 5.00 秒
+27... v4：Qb1 | 深度 3 | 5.00 秒
+28. material：Rg3 | 深度 4 | 5.00 秒
+28... v4：b4 | 深度 3 | 5.00 秒
+29. material：cxb4 | 深度 4 | 5.00 秒
+29... v4：Rd4 | 深度 3 | 5.00 秒
+30. material：f6 | 深度 4 | 5.00 秒
+30... v4：Rxe4 | 深度 4 | 5.00 秒
+31. material：Re3 | 深度 5 | 3.03 秒
+31... v4：Rxe3 | 深度 4 | 5.00 秒
+32. material：Qxe3 | 深度 5 | 1.80 秒
+32... v4：gxf6 | 深度 4 | 5.00 秒
+33. material：Qg3+ | 深度 3 | 5.00 秒
+33... v4：Qg6 | 深度 5 | 3.66 秒
+34. material：Qxc7 | 深度 4 | 5.00 秒
+34... v4：Qxg2 | 深度 4 | 5.00 秒
+35. material：Qxb7 | 深度 4 | 5.00 秒
+35... v4：Re8+ | 深度 5 | 3.64 秒
+36. material：Ne3 | 深度 5 | 0.99 秒
+36... v4：Rxe3+ | 深度 5 | 3.98 秒
+37. material：Kd1 | 深度 5 | 1.32 秒
+37... v4：Qf1+ | 深度 4 | 5.00 秒
+38. material：Kc2 | 深度 5 | 1.87 秒
+38... v4：Qd3+ | 深度 4 | 5.00 秒
+39. material：Kc1 | 深度 5 | 1.00 秒
+39... v4：Re1+ | 深度 5 | 4.50 秒
+40. material：Bd1 | 深度 5 | 0.40 秒
+40... v4：Qxd1# | 深度 0 | 0.00 秒
+本盘结果：0-1，原因：CHECKMATE
+结果压缩包： C:\Users\maxw\chess_ai\arena_v4_material40_games\20260908_191019_049803\pair_13.zip
+
+===== 比赛结束 =====
+v4获胜： 2
+material获胜： 0
+和棋： 0
+达到步数上限未结束： 0
+棋谱与搜索记录： C:\Users\maxw\chess_ai\arena_v4_material40_games\20260908_191019_049803\pair_13

@@ -1,0 +1,33 @@
+.venv/
+__pycache__/
+*.pyc
+
+*.pt
+*.pth
+*.bin
+
+data/
+checkpoints/
+
+*.db
+*.sqlite
+*.sqlite3
+
+.env
+
+# Large training datasets
+*.jsonl
+*.csv.zst
+
+# Stockfish binaries
+stockfish-windows-x86-64-universal/
+
+# Models / checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc

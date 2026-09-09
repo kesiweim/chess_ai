@@ -1,0 +1,22 @@
+{
+  "v4_wins": 8,
+  "v3_wins": 6,
+  "draws": 3,
+  "unfinished": 3,
+  "completed_pairs": [
+    3,
+    4,
+    1,
+    2,
+    6,
+    8,
+    5,
+    7,
+    10,
+    9
+  ],
+  "failed_pairs": [],
+  "interrupted": false,
+  "accounted_games": 20,
+  "unaccounted_games": 0
+}

@@ -1,0 +1,19 @@
+{
+  "train": 32051,
+  "val": 4008,
+  "replay": 50000,
+  "oldval": 4967,
+  "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+  "model_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "epochs": 3,
+  "lr": 1e-05,
+  "batch_endgame": 128,
+  "batch_replay": 128,
+  "old_loss_weight": 1.0,
+  "endgame_loss_weight": 0.5,
+  "device": "cuda",
+  "source_hashes": {
+    "train.jsonl": "90a618485638c188166d17d4db9ff927c75aa16a2553dcd120e4f783cdb312a7",
+    "val.jsonl": "db8f596507b22656ac95358511850059b3ff8c8fb5073c6c8864fe70c3f6de03"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "completed_roots": 8800,
+  "total_roots": 8800,
+  "positions": {
+    "blocked": 767589,
+    "train": 198961,
+    "val": 19947
+  },
+  "piece_distribution": {
+    "pieces_gt_12": 172006,
+    "pieces_8_12": 36598,
+    "pieces_le_7": 10304
+  },
+  "labelled": false,
+  "scope": "采集数据，无Stockfish标签；blocked包含旧数据及跨组重合，后续不导出训练"
+}

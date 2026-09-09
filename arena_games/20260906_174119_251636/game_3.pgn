@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "neural"]
+[Black "material"]
+[Result "1-0"]
+[Termination "CHECKMATE"]
+[OpeningLabel "后兵开局"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e4 Nc6 5. Be3 e5 6. d5 Na5 7. Nf3 Bd6 8. Nd2 Ne7 9. Nxc4 Nxc4 10. Bxc4 O-O 11. Kd2 Ng6 12. Qb3 f5 13. Kc1 f4 14. Bd2 Qe7 15. Nb5 a5 16. a4 Bg4 17. f3 Bh5 18. Rg1 Kh8 19. Nxd6 cxd6 20. g4 fxg3 21. Rxg3 Qc7 22. Kd1 Rxf3 23. Rxf3 Bxf3+ 24. Qxf3 Qxc4 25. Bc3 Qb3+ 26. Kd2 Qc4 27. Qd3 Qxd3+ 28. Kxd3 Nf4+ 29. Ke3 Nh3 30. Rd1 b6 31. Rf1 Re8 32. Rf5 h6 33. Rf7 Nf4 34. Rd7 Ng2+ 35. Kf3 Nf4 36. Rxd6 Rf8 37. Kg4 Nd3 38. Rxb6 Rf4+ 39. Kg3 Rxe4 40. Bd2 Rxa4 41. Rb5 Ra1 42. Be3 Ne1 43. d6 Nc2 44. Rb8+ Kh7 45. d7 Rd1 46. d8=Q Rxd8 47. Rxd8 Nxe3 48. Kf3 Nf1 49. h3 e4+ 50. Kxe4 Ng3+ 51. Ke5 Ne2 52. h4 Nc1 53. Ke6 Nb3 54. Kf7 g5 55. hxg5 hxg5 56. Rd1 g4 57. Rh1# 1-0

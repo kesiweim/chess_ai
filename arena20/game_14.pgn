@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "material"]
+[Black "neural"]
+[Result "1-0"]
+[Termination "CHECKMATE"]
+[OpeningLabel "印度防御"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Bb4 6. e3 Nc6 7. Be2 O-O 8. O-O h5 9. Nxc6 bxc6 10. Bxh5 d5 11. Be2 dxc4 12. Bxc4 Qxd1 13. Rxd1 Bb7 14. Bd2 Rfc8 15. Bb3 Re8 16. h3 Rad8 17. Rac1 e5 18. Ne4 Bxd2 19. Nxd2 e4 20. Nc4 Rd5 21. Nd6 Rxd6 22. Rxd6 Rc8 23. Rcd1 Rc7 24. Rd8+ Kh7 25. Bc2 Rc8 26. R8d6 Kg8 27. b3 c5 28. Rd8+ Kh7 29. R8d6 Rb8 30. g3 Kh6 31. Kg2 Kh7 32. g4 Kg8 33. g5 Ne8 34. Rd8 Rxd8 35. Rxd8 Bc6 36. Rc8 Bd7 37. Rxc5 f5 38. Ra5 a6 39. Rxa6 Kf8 40. Ra7 Be6 41. Ra8 Bf7 42. Rc8 Bh5 43. h4 Ke7 44. Kg3 Kf7 45. f4 exf3 46. Bxf5 Ke7 47. e4 g6 48. Bg4 Bxg4 49. Kxg4 Nd6 50. Rc7+ Kd8 51. Rc6 Kd7 52. Rc1 f2 53. Kf4 Nf7 54. Rf1 Kd6 55. Rxf2 Ne5 56. Re2 Nd3+ 57. Ke3 Ne5 58. Kf4 Nd3+ 59. Ke3 Ne5 60. Rd2+ Ke7 61. Rd4 Ke6 62. Rd8 Ke7 63. Rd4 Ke6 64. Rd8 Ke7 65. Rh8 Ng4+ 66. Kf4 Nf2 67. Rh7+ Kd8 68. Kf3 Nd3 69. Rh8+ Ke7 70. Rh6 Kf7 71. Rh7+ Kg8 72. Rh6 Kg7 73. h5 gxh5 74. Rxh5 Kg6 75. Kg4 Nf2+ 76. Kh4 Nxe4 77. Rh6+ Kf5 78. g6 Nd2 79. g7 Nf3+ 80. Kh5 Kf4 81. g8=Q Nd4 82. Rg6 Ke3 83. Qh7 Ke2 84. Qh8 Nf3 85. Qc3 Nh2 86. Qb2+ Ke3 87. Qe5+ Kf3 88. Qg3+ Ke4 89. Qxh2 Kd3 90. Qh1 Kc3 91. Qh2 Kd3 92. Qh1 Kc3 93. Qg1 Kc2 94. Rh6 Kb2 95. Ra6 Kc2 96. Kg4 Kc3 97. Kg3 Kc2 98. Qg2+ Kc3 99. Qg1 Kc2 100. Qg2+ Kc3 101. Qh3 Kc2 102. Kg2 Kc1 103. Ra8 Kc2 104. Rh8 Kb1 105. a4 Ka2 106. a5 Ka3 107. a6 Ka2 108. a7 Kb2 109. a8=Q Kb1 110. Qg8 Kb2 111. Qg5 Ka3 112. Qgh5 Ka2 113. Qh7 Kb2 114. Rg8 Ka1 115. Qc3+ Ka2 116. Ra8# 1-0

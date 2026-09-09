@@ -1,0 +1,261 @@
+{
+  "source": "C:\\Users\\maxw\\chess_ai\\v4_stockfish_collection_runs\\20260909_122618_199634",
+  "source_sha256": null,
+  "completed_game_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "validation_openings": [
+    "English",
+    "Slav"
+  ],
+  "training_openings": [
+    "CaroKann",
+    "French",
+    "Italian",
+    "KingsIndian",
+    "Queens_Gambit",
+    "Scotch",
+    "Sicilian",
+    "Spanish"
+  ],
+  "counts": {
+    "verified_records": 30243,
+    "excluded_terminal_or_claimable": 7,
+    "excluded_incomplete_games": 5,
+    "excluded_historical": 61,
+    "excluded_duplicate": 117
+  },
+  "samples": {
+    "train": 24537,
+    "val": 5521
+  },
+  "historical_inventory": [
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\engine_labels_pilot.jsonl",
+      "sha256": "2997cd835b500beede0f3c85983a20843dd12d0f79954a57df94df95ac486aaa",
+      "lines": 500,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\engine_labels_train.jsonl",
+      "sha256": "bc8cff155b71b4f2e3f3f02c9cc39cd20e9925474d006f47e758f384834cd346",
+      "lines": 49997,
+      "matching_occurrences": 10
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\engine_labels_val.jsonl",
+      "sha256": "5de176eb4b23cff211f5b151381d4a7e0707a0969d23077bd1537935176b4666",
+      "lines": 5000,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\loss_corrections.jsonl",
+      "sha256": "fcd2ff22cc05867b0e4b29d046fab04719dcaf89c0942f76dd688edf8a1f621c",
+      "lines": 12,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\move_choices_train.jsonl",
+      "sha256": "9b5b5a6d519ec39b29e3e8130056e065f8718bfe6d41df4fe67b5fdea8c12e62",
+      "lines": 59265,
+      "matching_occurrences": 36
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\move_choices_val.jsonl",
+      "sha256": "253e7a4d1ec19b881f466190a4b561130549d754b87a7b3b12ac5fe5c71d07c9",
+      "lines": 5848,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\puzzles_mate_test.jsonl",
+      "sha256": "15bac3882d42c8ce70e0dbcf1a841fbf96c9a1cb5012680ac2e4a479addce216",
+      "lines": 88777,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\puzzles_mate_train.jsonl",
+      "sha256": "dfe52e4a28605b011b4050d154ed964a0b449cc134f7df1bb9aa8fa8d8a783a6",
+      "lines": 716470,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\puzzles_mate_val.jsonl",
+      "sha256": "0005d02d09c3ec778cdc2f07f2fbd86b8ea2c1a065525e61a813652fa258f809",
+      "lines": 89540,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\train.jsonl",
+      "sha256": "2af242a5509299f876d515fbb637cc368196cda7cf231c436f1a86593b60452a",
+      "lines": 732353,
+      "matching_occurrences": 2314
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\train_mate_mix.jsonl",
+      "sha256": "7e274b715f093f855fbbbfc29f210fed23ea47377c29cb70a579dc4508dc8fa1",
+      "lines": 750422,
+      "matching_occurrences": 2314
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\val.jsonl",
+      "sha256": "65893d470fa12a934e186a3fadc7e047ee1a74b1b9690c1e5a1aa8b5846a958b",
+      "lines": 81634,
+      "matching_occurrences": 264
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_train.jsonl",
+      "sha256": "8349cec064ab6993b879f09831e5e3e57deb65f27516818274844e1d06b43b29",
+      "lines": 49997,
+      "matching_occurrences": 10
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_val.jsonl",
+      "sha256": "9050454baa02d9c9067c618875b6876c1c0dd841cb0266163940a62e1ca3bf49",
+      "lines": 4967,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\endgame_course_data\\test.jsonl",
+      "sha256": "985de11f1dc79734e07b637b2458fed547fdbad48d91486151a7a916a1bdb251",
+      "lines": 3941,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\endgame_course_data\\train.jsonl",
+      "sha256": "90a618485638c188166d17d4db9ff927c75aa16a2553dcd120e4f783cdb312a7",
+      "lines": 32051,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\endgame_course_data\\val.jsonl",
+      "sha256": "db8f596507b22656ac95358511850059b3ff8c8fb5073c6c8864fe70c3f6de03",
+      "lines": 4008,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\endgame_ranking_data\\train.jsonl",
+      "sha256": "ed154db2d5678d93978f6c057a3eefdf783ac59a74eb74e3faacc36fe0de53ec",
+      "lines": 1200,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\endgame_ranking_data\\val.jsonl",
+      "sha256": "bccdb5d90dee47574984154e2576a8362d0a751d62b5343b24c0f8050098dd73",
+      "lines": 200,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\test_candidates.jsonl",
+      "sha256": "6bf32fe8323437a48c77ece78efeb91268aef6af29bfde7f89cca8b9c1a795c0",
+      "lines": 962,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\train_candidates.jsonl",
+      "sha256": "989f2c8d86ffd52ef8c46a831cbb32f5eabc06c5038e3de673247d831bd55125",
+      "lines": 7159,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\val_candidates.jsonl",
+      "sha256": "3efc93d3f22295ba952f66fac042a9e8a0803abbaf1009650b106a2f1833a3a8",
+      "lines": 879,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\forced_verification\\test_verified.jsonl",
+      "sha256": "1dcccc44346884d2518eef872874cf652206cb048920bff78a8120f61321ad97",
+      "lines": 962,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\forced_verification\\train_verified.jsonl",
+      "sha256": "6d0ac490a4ff70de168a43fd0601c7793e30afa847d06420b4e7fa48793436b0",
+      "lines": 7159,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\forced_verification\\val_verified.jsonl",
+      "sha256": "e5ebc683fc2cbbefb71acee3cd654195865719c4ad66316efb0b8b29e55183a5",
+      "lines": 879,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\mate_v4_benchmarks\\20260908_185547_738016\\details.jsonl",
+      "sha256": "814b4c75c77a50c2b49c17506459bec68e1b1e7cc884886ce99184e7b51704c7",
+      "lines": 879,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_balanced_runs\\20260907_205946_480361\\snapshot_train.jsonl",
+      "sha256": "6007cb5835c1396c6e7ca2e699904579d0c1e37a4317aa178f07bc02a0dbcc35",
+      "lines": 62179,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_balanced_runs\\20260907_205946_480361\\snapshot_val.jsonl",
+      "sha256": "b08bfc48a04b5c98a945068433bfc0d0fe964c00ccadcea1daeedc6cc6eb1a98",
+      "lines": 6257,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_expansion_labels\\expanded_value_train.jsonl",
+      "sha256": "aecab10df7e2579287462f309bc86dd0133c841248a881ffbabb1c5ab1699c17",
+      "lines": 198961,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_expansion_labels\\expanded_value_val.jsonl",
+      "sha256": "b960ad0cc64bd9b1d8ba353fa2d77b8e6189dc4eeb67197ee0ab29dd58d6285b",
+      "lines": 19947,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\snapshot_train.jsonl",
+      "sha256": "aecab10df7e2579287462f309bc86dd0133c841248a881ffbabb1c5ab1699c17",
+      "lines": 198961,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\snapshot_val.jsonl",
+      "sha256": "b960ad0cc64bd9b1d8ba353fa2d77b8e6189dc4eeb67197ee0ab29dd58d6285b",
+      "lines": 19947,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_pilot_runs\\20260907_205130_749801\\snapshot_train.jsonl",
+      "sha256": "6007cb5835c1396c6e7ca2e699904579d0c1e37a4317aa178f07bc02a0dbcc35",
+      "lines": 62179,
+      "matching_occurrences": 0
+    },
+    {
+      "path": "C:\\Users\\maxw\\chess_ai\\value_pilot_runs\\20260907_205130_749801\\snapshot_val.jsonl",
+      "sha256": "b08bfc48a04b5c98a945068433bfc0d0fe964c00ccadcea1daeedc6cc6eb1a98",
+      "lines": 6257,
+      "matching_occurrences": 0
+    }
+  ],
+  "overlap_key": "board, turn, castling; ignores ep and clocks conservatively",
+  "limits": "Historical JSONL only; raw arena/collection folders excluded. Does not prove absence from PGN/CSV/SQLite or unlisted files. Opening-group validation; no independent final test created."
+}

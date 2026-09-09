@@ -1,0 +1,65 @@
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1006: FutureWarning: `torch.jit.trace` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_trace.py:1145: FutureWarning: `torch.jit.trace_method` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\jit\_freeze.py:106: FutureWarning: `torch.jit.freeze` is deprecated. Please use `torch.compile` instead.
+  warnings.warn(
+局1 v4 O-O 5.01s
+局1 Stockfish_skill_0 a6 1.02s
+局1 v4 d4 5.00s
+局1 Stockfish_skill_0 Bxd4 1.00s
+局1 v4 Ng5 5.01s
+局1 Stockfish_skill_0 Kf8 1.00s
+局1 v4 Nxf7 5.00s
+局1 Stockfish_skill_0 Qh4 1.00s
+局1 v4 Nxh8 5.00s
+局1 Stockfish_skill_0 d6 1.00s
+Traceback (most recent call last):
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 245, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 165, in main
+    if a.job is not None:worker(a);return
+                         ~~~~~~^^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 113, in worker
+    move,_,stats=search.choose(board,preferred)
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 13, in choose
+    result=super().choose(board,preferred)
+  File "C:\Users\maxw\chess_ai\neural_search_v2.py", line 29, in choose
+    return super().choose(board,preferred)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\search_engine.py", line 160, in choose
+    score = -self.negamax(board, depth - 1, -float('inf'), -alpha, 1)
+             ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 47, in negamax
+    try:score=-self.negamax(board,depth-1,-beta,-alpha,ply+1)
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 47, in negamax
+    try:score=-self.negamax(board,depth-1,-beta,-alpha,ply+1)
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v4.py", line 38, in negamax
+    return self.quiesce(board,alpha,beta,self.qdepth,ply)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_search_v2.py", line 56, in quiesce
+    return super().quiesce(board,alpha,beta,remaining,ply)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\search_engine.py", line 81, in quiesce
+    best = max(floor, self.static(board))
+                      ~~~~~~~~~~~^^^^^^^
+  File "C:\Users\maxw\chess_ai\neural_fast.py", line 72, in static
+    v=float(self.evaluator(b))
+            ~~~~~~~~~~~~~~^^^
+  File "C:\Users\maxw\chess_ai\collect_v4_stockfish.py", line 27, in __call__
+    value=self.base(board)
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\utils\_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\maxw\chess_ai\neural_fast.py", line 61, in __call__
+    value,_=self.model(x,m)
+            ~~~~~~~~~~^^^^^
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\maxw\chess_ai\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+KeyboardInterrupt

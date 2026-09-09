@@ -1,0 +1,17 @@
+[Event "Local AI comparison"]
+[Site "?"]
+[Date "2026.09.06"]
+[Round "?"]
+[White "material"]
+[Black "neural"]
+[Result "1-0"]
+[Termination "CHECKMATE"]
+[OpeningLabel "斯拉夫防御"]
+[SearchSeconds "5.0"]
+[SearchDepth "5"]
+[PolicyModel "chess_model_balanced.pt"]
+[DrawPolicy "optional_claim"]
+[CPUThreads "4"]
+[ValueModel "chess_model_ranked_epoch4.pt"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Qb6 7. Qd2 h6 8. e3 Rh7 9. h3 g5 10. Bg3 Bg7 11. Be2 Bf5 12. O-O Ne4 13. Nxe4 Bxe4 14. Rfc1 O-O-O 15. Qc3 f6 16. Qa3 Kd7 17. Qc3 a5 18. Qa3 Re8 19. Qc3 e5 20. dxe5 fxe5 21. Qb3 Qb4 22. Qxb4 axb4 23. Nd2 Bg6 24. Nb3 Bf8 25. Bb5 Kd8 26. Nc5 Bxc5 27. Rxc5 Bf7 28. Bxc6 bxc6 29. Rxc6 h5 30. Rb6 h4 31. Rb8+ Kd7 32. Rxe8 Kxe8 33. Bxe5 Bg6 34. Rc1 Bd3 35. Rc8+ Kd7 36. Rf8 Ke7 37. Rf6 Bb1 38. Rb6 Ke8 39. Bf6 Bxa2 40. Rxb4 Rc7 41. Bxg5 Rc1+ 42. Kh2 Rc4 43. Rxc4 dxc4 44. Bxh4 Bb1 45. Bg3 Kd7 46. Bh4 Bc2 47. Bg3 Ke7 48. Be5 Kf7 49. Bd6 Kf6 50. Bf8 Kf7 51. Bc5 Kf6 52. Bd6 Kf5 53. g3 Ke4 54. Bc5 Kf3 55. Kg1 Bf5 56. g4 Be6 57. Bd4 Bd5 58. Bc5 Be6 59. Bd4 Bd5 60. Kf1 Bf7 61. Bc5 Bg6 62. Bd4 Bd3+ 63. Kg1 Ke2 64. Kg2 Be4+ 65. Kg3 Kd3 66. Bc3 Kc2 67. Kf4 Bg2 68. Kg3 Be4 69. Kf4 Bg2 70. h4 Kd3 71. g5 Ke2 72. Kg3 Be4 73. h5 Bd3 74. g6 Bf5 75. g7 Be6 76. h6 Bg8 77. Kg2 Kd3 78. Kf3 Kc2 79. Ke4 Kd1 80. Kf4 Ke2 81. Kg3 Kd3 82. Kf4 Ke2 83. Kg3 Kd3 84. Kf3 Bd5+ 85. Kf4 Bg8 86. Bd4 Bh7 87. Bc3 Ke2 88. Kg3 Kd3 89. Kf3 Be4+ 90. Kg4 Bh7 91. Kf3 Be4+ 92. Kg4 Bh7 93. Kh4 Ke2 94. Kg3 Kd3 95. Kf4 Ke2 96. f3 Kd3 97. e4 Bg8 98. e5 Kc2 99. e6 Bxe6 100. h7 Kd3 101. g8=Q Bxg8 102. hxg8=Q Kc2 103. Qxc4 Kd1 104. Qd3+ Kc1 105. Qd2+ Kb1 106. Kg5 Ka2 107. Qc2 Ka1 108. b4# 1-0

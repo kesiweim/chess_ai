@@ -1,0 +1,84 @@
+{
+  "completed": 4,
+  "wins": 2,
+  "results": [
+    {
+      "id": 2,
+      "name": "KR_far_black",
+      "success": true,
+      "result": "0-1",
+      "reason": "CHECKMATE",
+      "strong_moves": 14,
+      "plies": 27,
+      "lost_major_piece": false,
+      "final_fen": "8/8/8/8/8/6k1/8/2r3K1 w - - 27 15",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    },
+    {
+      "id": 4,
+      "name": "KR_edge_black",
+      "success": true,
+      "result": "0-1",
+      "reason": "CHECKMATE",
+      "strong_moves": 24,
+      "plies": 47,
+      "lost_major_piece": false,
+      "final_fen": "2r3K1/8/6k1/8/8/8/8/8 w - - 47 25",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    },
+    {
+      "id": 1,
+      "name": "KR_far_white",
+      "success": false,
+      "result": "1/2-1/2",
+      "reason": "defender_claimed_draw",
+      "strong_moves": 50,
+      "plies": 99,
+      "lost_major_piece": false,
+      "final_fen": "2k5/R4K2/8/8/8/8/8/8 b - - 99 50",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    },
+    {
+      "id": 3,
+      "name": "KR_edge_white",
+      "success": false,
+      "result": "1/2-1/2",
+      "reason": "defender_claimed_draw",
+      "strong_moves": 50,
+      "plies": 99,
+      "lost_major_piece": false,
+      "final_fen": "8/8/1k2K3/8/R7/8/8/8 b - - 99 50",
+      "teacher": {
+        "name": "Stockfish 19",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      }
+    }
+  ],
+  "errors": [
+    {
+      "id": 5,
+      "error": "RuntimeError('Error: cannot set number of interop threads after parallel work has started or set_num_interop_threads called')"
+    },
+    {
+      "id": 6,
+      "error": "RuntimeError('Error: cannot set number of interop threads after parallel work has started or set_num_interop_threads called')"
+    },
+    {
+      "id": 7,
+      "error": "RuntimeError('Error: cannot set number of interop threads after parallel work has started or set_num_interop_threads called')"
+    },
+    {
+      "id": 8,
+      "error": "RuntimeError('Error: cannot set number of interop threads after parallel work has started or set_num_interop_threads called')"
+    }
+  ]
+}

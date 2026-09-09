@@ -1,0 +1,235 @@
+{
+  "counts": {
+    "train": {
+      "mateIn1": {
+        "total": 2391,
+        "found_in_historical_jsonl": 2391,
+        "not_found": 0
+      },
+      "mateIn2": {
+        "total": 2383,
+        "found_in_historical_jsonl": 0,
+        "not_found": 2383
+      },
+      "mateIn3": {
+        "total": 2385,
+        "found_in_historical_jsonl": 0,
+        "not_found": 2385
+      }
+    },
+    "val": {
+      "mateIn1": {
+        "total": 274,
+        "found_in_historical_jsonl": 274,
+        "not_found": 0
+      },
+      "mateIn2": {
+        "total": 302,
+        "found_in_historical_jsonl": 0,
+        "not_found": 302
+      },
+      "mateIn3": {
+        "total": 303,
+        "found_in_historical_jsonl": 0,
+        "not_found": 303
+      }
+    },
+    "test": {
+      "mateIn1": {
+        "total": 335,
+        "found_in_historical_jsonl": 335,
+        "not_found": 0
+      },
+      "mateIn2": {
+        "total": 315,
+        "found_in_historical_jsonl": 0,
+        "not_found": 315
+      },
+      "mateIn3": {
+        "total": 312,
+        "found_in_historical_jsonl": 0,
+        "not_found": 312
+      }
+    }
+  },
+  "files": [
+    {
+      "file": "endgame_course_data\\test.jsonl",
+      "rows": 3941,
+      "rows_with_fen": 3941,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "endgame_course_data\\train.jsonl",
+      "rows": 32051,
+      "rows_with_fen": 32051,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "endgame_course_data\\val.jsonl",
+      "rows": 4008,
+      "rows_with_fen": 4008,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "engine_labels_pilot.jsonl",
+      "rows": 500,
+      "rows_with_fen": 500,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "engine_labels_train.jsonl",
+      "rows": 49997,
+      "rows_with_fen": 49997,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "engine_labels_val.jsonl",
+      "rows": 5000,
+      "rows_with_fen": 5000,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "loss_corrections.jsonl",
+      "rows": 12,
+      "rows_with_fen": 12,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "move_choices_train.jsonl",
+      "rows": 59265,
+      "rows_with_fen": 59265,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "move_choices_val.jsonl",
+      "rows": 5848,
+      "rows_with_fen": 5848,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "puzzles_mate_test.jsonl",
+      "rows": 88777,
+      "rows_with_fen": 88777,
+      "invalid_json": 0,
+      "matched_roots": 285
+    },
+    {
+      "file": "puzzles_mate_train.jsonl",
+      "rows": 716470,
+      "rows_with_fen": 716470,
+      "invalid_json": 0,
+      "matched_roots": 2392
+    },
+    {
+      "file": "puzzles_mate_val.jsonl",
+      "rows": 89540,
+      "rows_with_fen": 89540,
+      "invalid_json": 0,
+      "matched_roots": 323
+    },
+    {
+      "file": "train.jsonl",
+      "rows": 732353,
+      "rows_with_fen": 732353,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "train_mate_mix.jsonl",
+      "rows": 750422,
+      "rows_with_fen": 750422,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "val.jsonl",
+      "rows": 81634,
+      "rows_with_fen": 81634,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_balanced_runs\\20260907_205946_480361\\snapshot_train.jsonl",
+      "rows": 62179,
+      "rows_with_fen": 62179,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_balanced_runs\\20260907_205946_480361\\snapshot_val.jsonl",
+      "rows": 6257,
+      "rows_with_fen": 6257,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_expansion_labels\\expanded_value_train.jsonl",
+      "rows": 198961,
+      "rows_with_fen": 198961,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_expansion_labels\\expanded_value_val.jsonl",
+      "rows": 19947,
+      "rows_with_fen": 19947,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_full_runs\\20260908_113914_349502\\snapshot_train.jsonl",
+      "rows": 198961,
+      "rows_with_fen": 198961,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_full_runs\\20260908_113914_349502\\snapshot_val.jsonl",
+      "rows": 19947,
+      "rows_with_fen": 19947,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_pilot_runs\\20260907_205130_749801\\snapshot_train.jsonl",
+      "rows": 62179,
+      "rows_with_fen": 62179,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_pilot_runs\\20260907_205130_749801\\snapshot_val.jsonl",
+      "rows": 6257,
+      "rows_with_fen": 6257,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_train.jsonl",
+      "rows": 49997,
+      "rows_with_fen": 49997,
+      "invalid_json": 0,
+      "matched_roots": 0
+    },
+    {
+      "file": "value_val.jsonl",
+      "rows": 4967,
+      "rows_with_fen": 4967,
+      "invalid_json": 0,
+      "matched_roots": 0
+    }
+  ],
+  "errors": [],
+  "source": "C:\\Users\\maxw\\chess_ai\\mate_course_candidates\\20260908_184422_455610\\forced_verification",
+  "scope": "Conservative overlap with ALL scanned historical JSONL, including past validation and tests; not all matches imply training exposure. Only explicit FEN fields; no PGN replay, CSV, SQLite or missing/deleted data. Not-found is not proof of clean holdout."
+}

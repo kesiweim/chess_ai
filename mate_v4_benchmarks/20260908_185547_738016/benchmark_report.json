@@ -1,0 +1,45 @@
+{
+  "requested": 879,
+  "completed": 879,
+  "errors": [],
+  "groups": {
+    "mateIn1": {
+      "completed": 274,
+      "policy": {
+        "verified": 176,
+        "refuted": 98,
+        "proven_success_rate": 0.6423357664233577
+      },
+      "v4": {
+        "verified": 274,
+        "proven_success_rate": 1.0
+      }
+    },
+    "mateIn3": {
+      "completed": 303,
+      "policy": {
+        "refuted": 229,
+        "verified": 74,
+        "proven_success_rate": 0.24422442244224424
+      },
+      "v4": {
+        "verified": 273,
+        "refuted": 30,
+        "proven_success_rate": 0.900990099009901
+      }
+    },
+    "mateIn2": {
+      "completed": 302,
+      "policy": {
+        "refuted": 196,
+        "verified": 106,
+        "proven_success_rate": 0.3509933774834437
+      },
+      "v4": {
+        "verified": 302,
+        "proven_success_rate": 1.0
+      }
+    }
+  },
+  "note": "unresolved is unknown, not proven failure; success rate is a lower bound if any unresolved remain."
+}

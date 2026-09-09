@@ -1,0 +1,1065 @@
+{
+  "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+  "model_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "search_sha256": "47dc13ae6294d989f66eb3f2f6a5328d340da898f9a630794cff41f9ca072b3c",
+  "threads": 1,
+  "torch": "2.14.0+cu130",
+  "max_evaluation_error": 0.0,
+  "fixed_depth": [
+    {
+      "case": 0,
+      "old": {
+        "move": "c1b2",
+        "mate_one": false,
+        "wall_seconds": 0.4137171000475064,
+        "depth": 2,
+        "nodes": 1239,
+        "action": "move",
+        "score": -0.01181565411388874,
+        "seconds": 0.4135319000342861
+      },
+      "fast": {
+        "move": "c1b2",
+        "mate_one": false,
+        "wall_seconds": 0.29477310000220314,
+        "depth": 2,
+        "nodes": 1239,
+        "action": "move",
+        "score": -0.01181565411388874,
+        "seconds": 0.29453680000733584
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 1,
+      "fast": {
+        "move": "f1g1",
+        "mate_one": false,
+        "wall_seconds": 0.7375189000158571,
+        "depth": 2,
+        "nodes": 3333,
+        "action": "move",
+        "score": 0.9812140464782715,
+        "seconds": 0.7372051000129431
+      },
+      "old": {
+        "move": "f1g1",
+        "mate_one": false,
+        "wall_seconds": 1.0619673000182956,
+        "depth": 2,
+        "nodes": 3333,
+        "action": "move",
+        "score": 0.9812140464782715,
+        "seconds": 1.0617969000013545
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 2,
+      "old": {
+        "move": "f3e5",
+        "mate_one": false,
+        "wall_seconds": 0.45683169999392703,
+        "depth": 2,
+        "nodes": 1430,
+        "action": "move",
+        "score": 0.15815946459770203,
+        "seconds": 0.4565059000160545
+      },
+      "fast": {
+        "move": "f3e5",
+        "mate_one": false,
+        "wall_seconds": 0.33035890001337975,
+        "depth": 2,
+        "nodes": 1430,
+        "action": "move",
+        "score": 0.15815946459770203,
+        "seconds": 0.3301464000251144
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 3,
+      "fast": {
+        "move": "b3b6",
+        "mate_one": false,
+        "wall_seconds": 0.5369668999919668,
+        "depth": 2,
+        "nodes": 2257,
+        "action": "move",
+        "score": 0.6040382981300354,
+        "seconds": 0.5366670999792404
+      },
+      "old": {
+        "move": "b3b6",
+        "mate_one": false,
+        "wall_seconds": 0.7423330000019632,
+        "depth": 2,
+        "nodes": 2257,
+        "action": "move",
+        "score": 0.6040382981300354,
+        "seconds": 0.742159100016579
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 4,
+      "old": {
+        "move": "e4e6",
+        "mate_one": false,
+        "wall_seconds": 0.13728359999367967,
+        "depth": 2,
+        "nodes": 473,
+        "action": "move",
+        "score": -0.38771697878837585,
+        "seconds": 0.13711599999805912
+      },
+      "fast": {
+        "move": "e4e6",
+        "mate_one": false,
+        "wall_seconds": 0.1044914000085555,
+        "depth": 2,
+        "nodes": 473,
+        "action": "move",
+        "score": -0.38771697878837585,
+        "seconds": 0.10426479997113347
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 5,
+      "fast": {
+        "move": "g2e4",
+        "mate_one": false,
+        "wall_seconds": 0.1101687999907881,
+        "depth": 2,
+        "nodes": 618,
+        "action": "move",
+        "score": 0.344084233045578,
+        "seconds": 0.10992369998712093
+      },
+      "old": {
+        "move": "g2e4",
+        "mate_one": false,
+        "wall_seconds": 0.1550161000341177,
+        "depth": 2,
+        "nodes": 618,
+        "action": "move",
+        "score": 0.344084233045578,
+        "seconds": 0.15485549997538328
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 6,
+      "old": {
+        "move": "d2d4",
+        "mate_one": false,
+        "wall_seconds": 0.42562629998428747,
+        "depth": 2,
+        "nodes": 1404,
+        "action": "move",
+        "score": 0.8381683826446533,
+        "seconds": 0.4253851000103168
+      },
+      "fast": {
+        "move": "d2d4",
+        "mate_one": false,
+        "wall_seconds": 0.29614649998256937,
+        "depth": 2,
+        "nodes": 1404,
+        "action": "move",
+        "score": 0.8381683826446533,
+        "seconds": 0.2958742000046186
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 7,
+      "fast": {
+        "move": "e4c5",
+        "mate_one": false,
+        "wall_seconds": 0.7561354999779724,
+        "depth": 2,
+        "nodes": 2736,
+        "action": "move",
+        "score": 0.0958218052983284,
+        "seconds": 0.7558645000099204
+      },
+      "old": {
+        "move": "e4c5",
+        "mate_one": false,
+        "wall_seconds": 0.9594754000427201,
+        "depth": 2,
+        "nodes": 2736,
+        "action": "move",
+        "score": 0.0958218052983284,
+        "seconds": 0.9593445000355132
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 8,
+      "old": {
+        "move": "c1e3",
+        "mate_one": false,
+        "wall_seconds": 0.21734870004002005,
+        "depth": 2,
+        "nodes": 777,
+        "action": "move",
+        "score": 0.2916640341281891,
+        "seconds": 0.21717700001318008
+      },
+      "fast": {
+        "move": "c1e3",
+        "mate_one": false,
+        "wall_seconds": 0.16446810000343248,
+        "depth": 2,
+        "nodes": 777,
+        "action": "move",
+        "score": 0.2916640341281891,
+        "seconds": 0.16426530003082007
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 9,
+      "fast": {
+        "move": "e2d3",
+        "mate_one": false,
+        "wall_seconds": 0.5021559000015259,
+        "depth": 2,
+        "nodes": 1871,
+        "action": "move",
+        "score": 0.1021309345960617,
+        "seconds": 0.501868800027296
+      },
+      "old": {
+        "move": "e2d3",
+        "mate_one": false,
+        "wall_seconds": 0.6751204000320286,
+        "depth": 2,
+        "nodes": 1871,
+        "action": "move",
+        "score": 0.1021309345960617,
+        "seconds": 0.6749492999515496
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 10,
+      "old": {
+        "move": "g1f3",
+        "mate_one": false,
+        "wall_seconds": 0.16300100000808015,
+        "depth": 2,
+        "nodes": 643,
+        "action": "move",
+        "score": 0.1101779118180275,
+        "seconds": 0.16284820000873879
+      },
+      "fast": {
+        "move": "g1f3",
+        "mate_one": false,
+        "wall_seconds": 0.15990359999705106,
+        "depth": 2,
+        "nodes": 643,
+        "action": "move",
+        "score": 0.1101779118180275,
+        "seconds": 0.15969810000387952
+      },
+      "same": true,
+      "completed": true
+    },
+    {
+      "case": 11,
+      "fast": {
+        "move": "e1d1",
+        "mate_one": false,
+        "wall_seconds": 0.026738999993540347,
+        "depth": 2,
+        "nodes": 133,
+        "action": "move",
+        "score": -0.31546664237976074,
+        "seconds": 0.026602900004945695
+      },
+      "old": {
+        "move": "e1d1",
+        "mate_one": false,
+        "wall_seconds": 0.034636299998965114,
+        "depth": 2,
+        "nodes": 133,
+        "action": "move",
+        "score": -0.31546664237976074,
+        "seconds": 0.03457769996020943
+      },
+      "same": true,
+      "completed": true
+    }
+  ],
+  "timed": [
+    {
+      "case": 0,
+      "old": {
+        "move": "h4f3",
+        "mate_one": false,
+        "wall_seconds": 5.000599799968768,
+        "depth": 3,
+        "nodes": 18854,
+        "action": "move",
+        "score": -0.3996259272098541,
+        "seconds": 5.000434299989138
+      },
+      "fast": {
+        "move": "h4f3",
+        "mate_one": false,
+        "wall_seconds": 5.000449899991509,
+        "depth": 3,
+        "nodes": 27627,
+        "action": "move",
+        "score": -0.3996259272098541,
+        "seconds": 5.000223500013817
+      }
+    },
+    {
+      "case": 1,
+      "fast": {
+        "move": "f1g1",
+        "mate_one": false,
+        "wall_seconds": 5.000421900011133,
+        "depth": 3,
+        "nodes": 27939,
+        "action": "move",
+        "score": 0.9751063585281372,
+        "seconds": 5.000127799983602
+      },
+      "old": {
+        "move": "f1g1",
+        "mate_one": false,
+        "wall_seconds": 5.000331200018991,
+        "depth": 3,
+        "nodes": 18309,
+        "action": "move",
+        "score": 0.9751063585281372,
+        "seconds": 5.000154500012286
+      }
+    },
+    {
+      "case": 2,
+      "old": {
+        "move": "f3e5",
+        "mate_one": false,
+        "wall_seconds": 5.000219999987166,
+        "depth": 2,
+        "nodes": 16881,
+        "action": "move",
+        "score": 0.15815946459770203,
+        "seconds": 5.000013799988665
+      },
+      "fast": {
+        "move": "f3e5",
+        "mate_one": false,
+        "wall_seconds": 5.00056090002181,
+        "depth": 2,
+        "nodes": 25071,
+        "action": "move",
+        "score": 0.15815946459770203,
+        "seconds": 5.000323100015521
+      }
+    },
+    {
+      "case": 3,
+      "fast": {
+        "move": "f1b1",
+        "mate_one": false,
+        "wall_seconds": 5.000436400005128,
+        "depth": 3,
+        "nodes": 24108,
+        "action": "move",
+        "score": 0.5836546421051025,
+        "seconds": 5.000141900032759
+      },
+      "old": {
+        "move": "f1b1",
+        "mate_one": false,
+        "wall_seconds": 5.0002490999759175,
+        "depth": 3,
+        "nodes": 17611,
+        "action": "move",
+        "score": 0.5836546421051025,
+        "seconds": 5.000044499989599
+      }
+    },
+    {
+      "case": 4,
+      "old": {
+        "move": "e4e6",
+        "mate_one": false,
+        "wall_seconds": 5.000253000005614,
+        "depth": 3,
+        "nodes": 19731,
+        "action": "move",
+        "score": -0.4935232102870941,
+        "seconds": 5.000085800013039
+      },
+      "fast": {
+        "move": "e4e6",
+        "mate_one": false,
+        "wall_seconds": 5.000612800009549,
+        "depth": 3,
+        "nodes": 27471,
+        "action": "move",
+        "score": -0.4935232102870941,
+        "seconds": 5.000311099982355
+      }
+    },
+    {
+      "case": 5,
+      "fast": {
+        "move": "g2e4",
+        "mate_one": false,
+        "wall_seconds": 5.000566000002436,
+        "depth": 4,
+        "nodes": 27467,
+        "action": "move",
+        "score": 0.344084233045578,
+        "seconds": 5.000319100043271
+      },
+      "old": {
+        "move": "g2e4",
+        "mate_one": false,
+        "wall_seconds": 5.000911500013899,
+        "depth": 4,
+        "nodes": 19515,
+        "action": "move",
+        "score": 0.344084233045578,
+        "seconds": 5.000735100009479
+      }
+    },
+    {
+      "case": 6,
+      "old": {
+        "move": "h6h3",
+        "mate_one": false,
+        "wall_seconds": 5.000484500022139,
+        "depth": 3,
+        "nodes": 17040,
+        "action": "move",
+        "score": 0.5403949022293091,
+        "seconds": 5.0002454000059515
+      },
+      "fast": {
+        "move": "h6h3",
+        "mate_one": false,
+        "wall_seconds": 5.000538800028153,
+        "depth": 3,
+        "nodes": 25232,
+        "action": "move",
+        "score": 0.5403949022293091,
+        "seconds": 5.000247600022703
+      }
+    },
+    {
+      "case": 7,
+      "fast": {
+        "move": "b2b4",
+        "mate_one": false,
+        "wall_seconds": 5.000556300044991,
+        "depth": 3,
+        "nodes": 26282,
+        "action": "move",
+        "score": 0.12334033101797104,
+        "seconds": 5.000260200002231
+      },
+      "old": {
+        "move": "b2b4",
+        "mate_one": false,
+        "wall_seconds": 5.000412900000811,
+        "depth": 3,
+        "nodes": 19177,
+        "action": "move",
+        "score": 0.12334033101797104,
+        "seconds": 5.000278499966953
+      }
+    }
+  ],
+  "comparison": "v1 versus v2; same model and input encoder",
+  "claim_checks_passed": true,
+  "fixed_depth_speedup": 1.353878523074661,
+  "profiles": {
+    "old": [
+      {
+        "function": "decorate_context",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\utils\\_contextlib.py",
+        "line": 120,
+        "calls": 1862,
+        "own_seconds": 0.005777,
+        "cumulative_seconds": 1.6016734000000001
+      },
+      {
+        "function": "claim_available",
+        "file": "C:\\Users\\maxw\\chess_ai\\search_engine.py",
+        "line": 31,
+        "calls": 2743,
+        "own_seconds": 0.00096,
+        "cumulative_seconds": 1.1002502
+      },
+      {
+        "function": "can_claim_draw",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2173,
+        "calls": 2743,
+        "own_seconds": 0.0022871000000000002,
+        "cumulative_seconds": 1.0992902
+      },
+      {
+        "function": "can_claim_threefold_repetition",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2213,
+        "calls": 2743,
+        "own_seconds": 0.0995656,
+        "cumulative_seconds": 1.0952919
+      },
+      {
+        "function": "__exit__",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\autograd\\grad_mode.py",
+        "line": 294,
+        "calls": 1862,
+        "own_seconds": 0.0059148000000000004,
+        "cumulative_seconds": 0.7533618000000001
+      },
+      {
+        "function": "__call__",
+        "file": "C:\\Users\\maxw\\chess_ai\\neural_fast.py",
+        "line": 57,
+        "calls": 1862,
+        "own_seconds": 0.0027034000000000003,
+        "cumulative_seconds": 0.7355611000000001
+      },
+      {
+        "function": "_wrapped_call_impl",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py",
+        "line": 1779,
+        "calls": 27930,
+        "own_seconds": 0.0144118,
+        "cumulative_seconds": 0.6286050000000001
+      },
+      {
+        "function": "_call_impl",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py",
+        "line": 1787,
+        "calls": 27930,
+        "own_seconds": 0.021367800000000003,
+        "cumulative_seconds": 0.6269725
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\model_residual_value.py",
+        "line": 25,
+        "calls": 1862,
+        "own_seconds": 0.026357500000000002,
+        "cumulative_seconds": 0.6235086000000001
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\container.py",
+        "line": 254,
+        "calls": 3724,
+        "own_seconds": 0.012696800000000001,
+        "cumulative_seconds": 0.5810478
+      },
+      {
+        "function": "push",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2310,
+        "calls": 104574,
+        "own_seconds": 0.2663314,
+        "cumulative_seconds": 0.5784161
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\conv.py",
+        "line": 564,
+        "calls": 7448,
+        "own_seconds": 0.004885700000000001,
+        "cumulative_seconds": 0.415202
+      },
+      {
+        "function": "_conv_forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\conv.py",
+        "line": 546,
+        "calls": 7448,
+        "own_seconds": 0.0031398000000000003,
+        "cumulative_seconds": 0.40763780000000005
+      },
+      {
+        "function": "<built-in method torch.conv2d>",
+        "file": "~",
+        "line": 0,
+        "calls": 7448,
+        "own_seconds": 0.404498,
+        "cumulative_seconds": 0.404498
+      },
+      {
+        "function": "generate_legal_moves",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3702,
+        "calls": 141738,
+        "own_seconds": 0.0604837,
+        "cumulative_seconds": 0.37311500000000003
+      },
+      {
+        "function": "generate_pseudo_legal_moves",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 1819,
+        "calls": 145527,
+        "own_seconds": 0.0889041,
+        "cumulative_seconds": 0.1831405
+      },
+      {
+        "function": "_remove_piece_at",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 1014,
+        "calls": 209152,
+        "own_seconds": 0.08612170000000001,
+        "cumulative_seconds": 0.1159246
+      },
+      {
+        "function": "_is_safe",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3664,
+        "calls": 145905,
+        "own_seconds": 0.0490827,
+        "cumulative_seconds": 0.10461010000000001
+      },
+      {
+        "function": "encode",
+        "file": "C:\\Users\\maxw\\chess_ai\\neural_fast.py",
+        "line": 24,
+        "calls": 1862,
+        "own_seconds": 0.0801738,
+        "cumulative_seconds": 0.10179360000000001
+      },
+      {
+        "function": "pop",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2431,
+        "calls": 104574,
+        "own_seconds": 0.0503925,
+        "cumulative_seconds": 0.09285180000000001
+      },
+      {
+        "function": "_set_piece_at",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 1052,
+        "calls": 104574,
+        "own_seconds": 0.042103800000000004,
+        "cumulative_seconds": 0.0850104
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\linear.py",
+        "line": 130,
+        "calls": 3724,
+        "own_seconds": 0.0023673,
+        "cumulative_seconds": 0.0809821
+      },
+      {
+        "function": "_transposition_key",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3797,
+        "calls": 101792,
+        "own_seconds": 0.043939000000000006,
+        "cumulative_seconds": 0.0789978
+      },
+      {
+        "function": "<built-in method torch._C._nn.linear>",
+        "file": "~",
+        "line": 0,
+        "calls": 3724,
+        "own_seconds": 0.07709690000000001,
+        "cumulative_seconds": 0.07709690000000001
+      },
+      {
+        "function": "terminal",
+        "file": "C:\\Users\\maxw\\chess_ai\\search_engine.py",
+        "line": 41,
+        "calls": 3253,
+        "own_seconds": 0.0012397,
+        "cumulative_seconds": 0.0668639
+      },
+      {
+        "function": "scan_reversed",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 414,
+        "calls": 270813,
+        "own_seconds": 0.051024,
+        "cumulative_seconds": 0.0659772
+      },
+      {
+        "function": "outcome",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2041,
+        "calls": 3254,
+        "own_seconds": 0.007343000000000001,
+        "cumulative_seconds": 0.0656766
+      },
+      {
+        "function": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls": 6139,
+        "own_seconds": 0.0028499000000000003,
+        "cumulative_seconds": 0.0507167
+      },
+      {
+        "function": "piece_type_at",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 835,
+        "calls": 322269,
+        "own_seconds": 0.042939200000000004,
+        "cumulative_seconds": 0.042939200000000004
+      },
+      {
+        "function": "_from_chess960",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3768,
+        "calls": 104574,
+        "own_seconds": 0.032099,
+        "cumulative_seconds": 0.0425798
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\activation.py",
+        "line": 139,
+        "calls": 9310,
+        "own_seconds": 0.0029215,
+        "cumulative_seconds": 0.0313391
+      },
+      {
+        "function": "is_zeroing",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3316,
+        "calls": 108251,
+        "own_seconds": 0.029231600000000003,
+        "cumulative_seconds": 0.029231600000000003
+      },
+      {
+        "function": "relu",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\functional.py",
+        "line": 1766,
+        "calls": 9310,
+        "own_seconds": 0.0044552,
+        "cumulative_seconds": 0.0284176
+      },
+      {
+        "function": "attackers_mask",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 905,
+        "calls": 32139,
+        "own_seconds": 0.0278789,
+        "cumulative_seconds": 0.0278789
+      },
+      {
+        "function": "has_legal_en_passant",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2519,
+        "calls": 102748,
+        "own_seconds": 0.0104696,
+        "cumulative_seconds": 0.027407900000000002
+      }
+    ],
+    "fast": [
+      {
+        "function": "static",
+        "file": "C:\\Users\\maxw\\chess_ai\\neural_fast.py",
+        "line": 65,
+        "calls": 2466,
+        "own_seconds": 0.005960900000000001,
+        "cumulative_seconds": 0.7892045000000001
+      },
+      {
+        "function": "decorate_context",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\utils\\_contextlib.py",
+        "line": 120,
+        "calls": 1862,
+        "own_seconds": 0.005190200000000001,
+        "cumulative_seconds": 0.774209
+      },
+      {
+        "function": "__exit__",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\autograd\\grad_mode.py",
+        "line": 294,
+        "calls": 1862,
+        "own_seconds": 0.0053176000000000005,
+        "cumulative_seconds": 0.7265637
+      },
+      {
+        "function": "__call__",
+        "file": "C:\\Users\\maxw\\chess_ai\\neural_fast.py",
+        "line": 57,
+        "calls": 1862,
+        "own_seconds": 0.0025213,
+        "cumulative_seconds": 0.7110697
+      },
+      {
+        "function": "_wrapped_call_impl",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py",
+        "line": 1779,
+        "calls": 27930,
+        "own_seconds": 0.0140709,
+        "cumulative_seconds": 0.6091086
+      },
+      {
+        "function": "_call_impl",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py",
+        "line": 1787,
+        "calls": 27930,
+        "own_seconds": 0.0208604,
+        "cumulative_seconds": 0.6076207
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\model_residual_value.py",
+        "line": 25,
+        "calls": 1862,
+        "own_seconds": 0.024202300000000003,
+        "cumulative_seconds": 0.6045641
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\container.py",
+        "line": 254,
+        "calls": 3724,
+        "own_seconds": 0.011948100000000001,
+        "cumulative_seconds": 0.5651417000000001
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\conv.py",
+        "line": 564,
+        "calls": 7448,
+        "own_seconds": 0.004735700000000001,
+        "cumulative_seconds": 0.4098332
+      },
+      {
+        "function": "_conv_forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\conv.py",
+        "line": 546,
+        "calls": 7448,
+        "own_seconds": 0.0029950000000000003,
+        "cumulative_seconds": 0.4024686
+      },
+      {
+        "function": "<built-in method torch.conv2d>",
+        "file": "~",
+        "line": 0,
+        "calls": 7448,
+        "own_seconds": 0.39947360000000004,
+        "cumulative_seconds": 0.39947360000000004
+      },
+      {
+        "function": "generate_legal_moves",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3702,
+        "calls": 40880,
+        "own_seconds": 0.0197622,
+        "cumulative_seconds": 0.1224925
+      },
+      {
+        "function": "encode",
+        "file": "C:\\Users\\maxw\\chess_ai\\neural_fast.py",
+        "line": 24,
+        "calls": 1862,
+        "own_seconds": 0.0761052,
+        "cumulative_seconds": 0.0971936
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\linear.py",
+        "line": 130,
+        "calls": 3724,
+        "own_seconds": 0.0022719000000000003,
+        "cumulative_seconds": 0.0736463
+      },
+      {
+        "function": "<built-in method torch._C._nn.linear>",
+        "file": "~",
+        "line": 0,
+        "calls": 3724,
+        "own_seconds": 0.0698781,
+        "cumulative_seconds": 0.0698781
+      },
+      {
+        "function": "terminal",
+        "file": "C:\\Users\\maxw\\chess_ai\\search_engine.py",
+        "line": 41,
+        "calls": 3253,
+        "own_seconds": 0.0011178000000000002,
+        "cumulative_seconds": 0.0652301
+      },
+      {
+        "function": "outcome",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2041,
+        "calls": 3254,
+        "own_seconds": 0.0070063,
+        "cumulative_seconds": 0.0641375
+      },
+      {
+        "function": "generate_pseudo_legal_moves",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 1819,
+        "calls": 41094,
+        "own_seconds": 0.026227700000000003,
+        "cumulative_seconds": 0.054421300000000006
+      },
+      {
+        "function": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls": 3531,
+        "own_seconds": 0.0017287000000000001,
+        "cumulative_seconds": 0.033914400000000004
+      },
+      {
+        "function": "forward",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\activation.py",
+        "line": 139,
+        "calls": 9310,
+        "own_seconds": 0.0029172,
+        "cumulative_seconds": 0.029964800000000003
+      },
+      {
+        "function": "_is_safe",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3664,
+        "calls": 41967,
+        "own_seconds": 0.013379100000000001,
+        "cumulative_seconds": 0.028562800000000003
+      },
+      {
+        "function": "relu",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\torch\\nn\\functional.py",
+        "line": 1766,
+        "calls": 9310,
+        "own_seconds": 0.0040924,
+        "cumulative_seconds": 0.0270476
+      },
+      {
+        "function": "push",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2310,
+        "calls": 2782,
+        "own_seconds": 0.012498500000000001,
+        "cumulative_seconds": 0.0265869
+      },
+      {
+        "function": "<built-in method torch.relu>",
+        "file": "~",
+        "line": 0,
+        "calls": 9310,
+        "own_seconds": 0.0217234,
+        "cumulative_seconds": 0.0217234
+      },
+      {
+        "function": "scan_reversed",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 414,
+        "calls": 87271,
+        "own_seconds": 0.015256,
+        "cumulative_seconds": 0.019865800000000003
+      },
+      {
+        "function": "is_check",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 1918,
+        "calls": 5996,
+        "own_seconds": 0.0018679,
+        "cumulative_seconds": 0.0145658
+      },
+      {
+        "function": "<built-in method builtins.next>",
+        "file": "~",
+        "line": 0,
+        "calls": 6506,
+        "own_seconds": 0.0023162,
+        "cumulative_seconds": 0.014412600000000001
+      },
+      {
+        "function": "is_checkmate",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 2093,
+        "calls": 3294,
+        "own_seconds": 0.0010069,
+        "cumulative_seconds": 0.0141308
+      },
+      {
+        "function": "is_capture",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3311,
+        "calls": 39000,
+        "own_seconds": 0.0111096,
+        "cumulative_seconds": 0.013416800000000001
+      },
+      {
+        "function": "attackers_mask",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 905,
+        "calls": 16466,
+        "own_seconds": 0.0132476,
+        "cumulative_seconds": 0.0132476
+      },
+      {
+        "function": "checkers_mask",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 1906,
+        "calls": 5996,
+        "own_seconds": 0.0031125000000000002,
+        "cumulative_seconds": 0.012697900000000002
+      },
+      {
+        "function": "path",
+        "file": "C:\\Users\\maxw\\chess_ai\\neural_search_v2.py",
+        "line": 31,
+        "calls": 6506,
+        "own_seconds": 0.0069648,
+        "cumulative_seconds": 0.0120964
+      },
+      {
+        "function": "_slider_blockers",
+        "file": "C:\\Users\\maxw\\chess_ai\\.venv\\Lib\\site-packages\\chess\\__init__.py",
+        "line": 3645,
+        "calls": 4747,
+        "own_seconds": 0.006798,
+        "cumulative_seconds": 0.0114003
+      },
+      {
+        "function": "ordered",
+        "file": "C:\\Users\\maxw\\chess_ai\\search_engine.py",
+        "line": 58,
+        "calls": 1223,
+        "own_seconds": 0.0005267000000000001,
+        "cumulative_seconds": 0.011075000000000002
+      },
+      {
+        "function": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls": 1223,
+        "own_seconds": 0.0017163,
+        "cumulative_seconds": 0.0105483
+      }
+    ]
+  }
+}

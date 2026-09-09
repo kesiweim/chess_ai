@@ -1,0 +1,164 @@
+{
+  "game_id": 24,
+  "pair_group": 11,
+  "skill": 3,
+  "v4_white": false,
+  "opening": "Scotch",
+  "opening_moves": [
+    "e4",
+    "e5",
+    "Nf3",
+    "Nc6",
+    "d4",
+    "exd4"
+  ],
+  "result": "*",
+  "reason": "interrupted",
+  "error": "KeyboardInterrupt()",
+  "moves": [
+    {
+      "ply": 6,
+      "position": "r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+      "side": "Stockfish_skill_3",
+      "move": "f3d4",
+      "san": "Nxd4",
+      "stats": {
+        "depth": 16,
+        "nodes": 766596,
+        "time": 1.0,
+        "nps": 766596,
+        "wall_seconds": 1.0147965000360273
+      }
+    },
+    {
+      "ply": 7,
+      "position": "r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+      "side": "v4",
+      "move": "d8h4",
+      "san": "Qh4",
+      "stats": {
+        "depth": 4,
+        "nodes": 33200,
+        "action": "move",
+        "score": 0.054473791271448135,
+        "seconds": 5.000067400047556,
+        "ordering_hits": 706,
+        "evaluated_calls": 14574,
+        "saved_search_samples": 32,
+        "wall_seconds": 5.006710999994539
+      }
+    },
+    {
+      "ply": 8,
+      "position": "r1b1kbnr/pppp1ppp/2n5/8/3NP2q/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+      "side": "Stockfish_skill_3",
+      "move": "b1c3",
+      "san": "Nc3",
+      "stats": {
+        "depth": 16,
+        "nodes": 767378,
+        "time": 1.0,
+        "nps": 767378,
+        "wall_seconds": 1.0007253999938257
+      }
+    },
+    {
+      "ply": 9,
+      "position": "r1b1kbnr/pppp1ppp/2n5/8/3NP2q/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5",
+      "side": "v4",
+      "move": "f8b4",
+      "san": "Bb4",
+      "stats": {
+        "depth": 4,
+        "nodes": 31250,
+        "action": "move",
+        "score": 0.16805605590343475,
+        "seconds": 5.000097699987236,
+        "ordering_hits": 394,
+        "evaluated_calls": 15203,
+        "saved_search_samples": 32,
+        "wall_seconds": 5.004398100019898
+      }
+    },
+    {
+      "ply": 10,
+      "position": "r1b1k1nr/pppp1ppp/2n5/8/1b1NP2q/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+      "side": "Stockfish_skill_3",
+      "move": "c1e3",
+      "san": "Be3",
+      "stats": {
+        "depth": 16,
+        "nodes": 846417,
+        "time": 1.0,
+        "nps": 846417,
+        "wall_seconds": 1.0005534999654628
+      }
+    },
+    {
+      "ply": 11,
+      "position": "r1b1k1nr/pppp1ppp/2n5/8/1b1NP2q/2N1B3/PPP2PPP/R2QKB1R b KQkq - 4 6",
+      "side": "v4",
+      "move": "h4e4",
+      "san": "Qxe4",
+      "stats": {
+        "depth": 3,
+        "nodes": 30047,
+        "action": "move",
+        "score": 0.020639408379793167,
+        "seconds": 5.000196400040295,
+        "ordering_hits": 252,
+        "evaluated_calls": 15753,
+        "saved_search_samples": 32,
+        "wall_seconds": 5.004834100021981
+      }
+    },
+    {
+      "ply": 12,
+      "position": "r1b1k1nr/pppp1ppp/2n5/8/1b1Nq3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7",
+      "side": "Stockfish_skill_3",
+      "move": "f1e2",
+      "san": "Be2",
+      "stats": {
+        "depth": 16,
+        "nodes": 766260,
+        "time": 1.0,
+        "nps": 766260,
+        "wall_seconds": 1.0017039000522345
+      }
+    },
+    {
+      "ply": 13,
+      "position": "r1b1k1nr/pppp1ppp/2n5/8/1b1Nq3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 1 7",
+      "side": "v4",
+      "move": "e4g2",
+      "san": "Qxg2",
+      "stats": {
+        "depth": 4,
+        "nodes": 33738,
+        "action": "move",
+        "score": 0.5443587899208069,
+        "seconds": 5.000212199985981,
+        "ordering_hits": 474,
+        "evaluated_calls": 16879,
+        "saved_search_samples": 32,
+        "wall_seconds": 5.0043940000468865
+      }
+    },
+    {
+      "ply": 14,
+      "position": "r1b1k1nr/pppp1ppp/2n5/8/1b1N4/2N1B3/PPP1BPqP/R2QK2R w KQkq - 0 8",
+      "side": "Stockfish_skill_3",
+      "move": "e2f3",
+      "san": "Bf3",
+      "stats": {
+        "depth": 17,
+        "nodes": 997046,
+        "time": 1.0,
+        "nps": 997046,
+        "wall_seconds": 1.0016091999714263
+      }
+    }
+  ],
+  "final_fen": "r1b1k1nr/pppp1ppp/2n5/8/1b1N4/2N1BB2/PPP2PqP/R2QK2R b KQkq - 1 8",
+  "teacher_labels": false
+}

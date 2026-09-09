@@ -1,0 +1,13 @@
+[Event "Local v4 vs Stockfish calibration"]
+[Site "?"]
+[Date "2026.09.09"]
+[Round "?"]
+[White "v4"]
+[Black "Stockfish_skill_3"]
+[Result "0-1"]
+[Termination "CHECKMATE"]
+[OpeningLabel "Italian"]
+[PairGroup "2"]
+[ValueModelSHA256 "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Ng5 O-O 6. d4 Nxd4 7. Be3 d5 8. exd5 Ng4 9. d6 Bxd6 10. Qd3 Bf5 11. Bxf7+ Kh8 12. Qd2 Nxc2 13. Be6 Nxa1 14. Nf7+ Rxf7 15. Bxf7 Nc2 16. Bg5 Qc8 17. h3 Bb4 18. Nc3 Nf6 19. Bxf6 gxf6 20. Qh6 Bf8 21. Qxf6+ Bg7 22. Qe7 Rb8 23. Bb3 Nd4 24. Bc4 Qf8 25. Qxf8+ Rxf8 26. f4 exf4 27. Rxf4 Bd7 28. Rxf8+ Bxf8 29. Ne4 Bf5 30. Ng5 h6 31. Nf7+ Kg7 32. a4 h5 33. h4 Bg4 34. a5 Be7 35. Bd5 Bf6 36. Kh2 b6 37. axb6 cxb6 38. Ng5 Be2 39. Kh1 Be5 40. Nf7 Bg3 41. Ng5 Bxh4 42. Ne6+ Kf6 43. Nxd4 Bd3 44. Bg8 a5 45. Kg1 Ke7 46. Ne6 Bg3 47. Nd4 Kf6 48. Nc6 h4 49. b3 Be4 50. Nd4 Ke5 51. Nb5 Bg6 52. Nc7 Be4 53. Nb5 Bf5 54. Nc3 Kd4 55. Ne2+ Kc5 56. Nxg3 hxg3 57. Bc4 Kb4 58. Bd5 Bd3 59. Bf7 Kc3 60. Bg8 Be2 61. Be6 Kc2 62. Bd5 Bd3 63. Be6 Be2 64. Bd5 b5 65. Bg8 Kc3 66. Be6 a4 67. bxa4 bxa4 68. Bd7 a3 69. Be6 Bc4 70. Bxc4 Kxc4 71. Kf1 Kd3 72. Ke1 a2 73. Kd1 a1=R# 0-1

@@ -1,0 +1,256 @@
+{
+  "model": "C:\\Users\\maxw\\chess_ai\\value_full_runs\\20260908_113914_349502\\value_full_epoch2.pt",
+  "model_sha256": "4e44421b422c8467a32c06c85a31a5591b8397ae24c2f54fdd39c778fe7dd4a0",
+  "policy": "C:\\Users\\maxw\\chess_ai\\chess_model_balanced.pt",
+  "policy_sha256": "60ab3e89ebf853380f67777825645c12c3716221f58f3b311a713ffa6d60ce00",
+  "engine": "C:\\Users\\maxw\\chess_ai\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe",
+  "engine_sha256": "45bc8e4969147db9c2eb533810637994619bff0eacc81ccfd9854394901bcbd0",
+  "engine_id": {
+    "name": "Stockfish 19",
+    "author": "the Stockfish developers (see AUTHORS file)"
+  },
+  "skills": [
+    0,
+    3,
+    6
+  ],
+  "seconds": 5,
+  "depth": 5,
+  "sf_seconds": 1,
+  "max_plies": 240,
+  "workers": 4,
+  "v4_threads": 4,
+  "sf_threads": 1,
+  "sf_hash_mb": 128,
+  "UCI_LimitStrength": false,
+  "samples_per_move": 32,
+  "jobs": [
+    {
+      "skill": 0,
+      "opening": "Italian",
+      "opening_moves": [
+        "e4",
+        "e5",
+        "Nf3",
+        "Nc6",
+        "Bc4",
+        "Bc5"
+      ]
+    },
+    {
+      "skill": 0,
+      "opening": "Queens_Gambit",
+      "opening_moves": [
+        "d4",
+        "d5",
+        "c4",
+        "e6",
+        "Nc3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "Italian",
+      "opening_moves": [
+        "e4",
+        "e5",
+        "Nf3",
+        "Nc6",
+        "Bc4",
+        "Bc5"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "Queens_Gambit",
+      "opening_moves": [
+        "d4",
+        "d5",
+        "c4",
+        "e6",
+        "Nc3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "English",
+      "opening_moves": [
+        "c4",
+        "c5",
+        "Nc3",
+        "Nc6",
+        "Nf3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "Spanish",
+      "opening_moves": [
+        "e4",
+        "e5",
+        "Nf3",
+        "Nc6",
+        "Bb5",
+        "a6"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "Sicilian",
+      "opening_moves": [
+        "e4",
+        "c5",
+        "Nf3",
+        "d6",
+        "d4",
+        "cxd4"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "French",
+      "opening_moves": [
+        "e4",
+        "e6",
+        "d4",
+        "d5",
+        "Nc3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "CaroKann",
+      "opening_moves": [
+        "e4",
+        "c6",
+        "d4",
+        "d5",
+        "Nc3",
+        "dxe4"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "Slav",
+      "opening_moves": [
+        "d4",
+        "d5",
+        "c4",
+        "c6",
+        "Nf3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "KingsIndian",
+      "opening_moves": [
+        "d4",
+        "Nf6",
+        "c4",
+        "g6",
+        "Nc3",
+        "Bg7"
+      ]
+    },
+    {
+      "skill": 3,
+      "opening": "Scotch",
+      "opening_moves": [
+        "e4",
+        "e5",
+        "Nf3",
+        "Nc6",
+        "d4",
+        "exd4"
+      ]
+    },
+    {
+      "skill": 6,
+      "opening": "Italian",
+      "opening_moves": [
+        "e4",
+        "e5",
+        "Nf3",
+        "Nc6",
+        "Bc4",
+        "Bc5"
+      ]
+    },
+    {
+      "skill": 6,
+      "opening": "Queens_Gambit",
+      "opening_moves": [
+        "d4",
+        "d5",
+        "c4",
+        "e6",
+        "Nc3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 6,
+      "opening": "English",
+      "opening_moves": [
+        "c4",
+        "c5",
+        "Nc3",
+        "Nc6",
+        "Nf3",
+        "Nf6"
+      ]
+    },
+    {
+      "skill": 6,
+      "opening": "Spanish",
+      "opening_moves": [
+        "e4",
+        "e5",
+        "Nf3",
+        "Nc6",
+        "Bb5",
+        "a6"
+      ]
+    },
+    {
+      "skill": 6,
+      "opening": "Sicilian",
+      "opening_moves": [
+        "e4",
+        "c5",
+        "Nf3",
+        "d6",
+        "d4",
+        "cxd4"
+      ]
+    },
+    {
+      "skill": 6,
+      "opening": "French",
+      "opening_moves": [
+        "e4",
+        "e6",
+        "d4",
+        "d5",
+        "Nc3",
+        "Nf6"
+      ]
+    }
+  ],
+  "implementation_sha256": {
+    "model_cnn.py": "4d15bbd04551c4395c40b08441304ca3df7f3be36ee93a3d9e0a0ca176bb4084",
+    "model_residual_value.py": "b5a5d204ed72954eb52c2471f8e616c0473683dfbfbf0f6a5f9c9c798efb3929",
+    "search_engine.py": "47dc13ae6294d989f66eb3f2f6a5328d340da898f9a630794cff41f9ca072b3c",
+    "neural_fast.py": "82849a0d6d2fd9ff53f76d1afd7aea1f3aa45f6167b4acc776a1752a72a149fd",
+    "neural_search_v2.py": "5eed446bcd5eac8351407c83c183431941ae2a8badc6b3209bfb2bf2d9322fce",
+    "neural_search_v4.py": "dfd5edffb839cccfc67d13c424d6315baafda5167c4e4018abf3d60481b6d870",
+    "neural_inference_v3.py": "25dc1a9aaffff50966c221343c7f47e92ba94c5740767f4190eaeb397b9afc3a"
+  },
+  "scope": "Collection, not Elo. Reservoir of neural evaluator cache-miss calls across all iterations, including unfinished iteration; terminal nodes excluded. Sampling adds overhead and can change timed search depth. Candidate values and opponent moves are NOT teacher labels. Full real-game history plus root-relative search paths retained. Future split must group same opening across skills/colors, then purge overlapping positions and prior holdouts before labeling. No automatic training.",
+  "collector_sha256": "7a763a071c8bace896f0c5149c6fc6156ba2847d10d344df0988b5119ac43a9c"
+}

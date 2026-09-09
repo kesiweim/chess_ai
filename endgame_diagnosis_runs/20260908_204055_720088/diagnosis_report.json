@@ -1,0 +1,795 @@
+{
+  "completed": 16,
+  "errors": [],
+  "snapshots": [
+    {
+      "id": 1,
+      "case": 1,
+      "ply_index": 0,
+      "best_dtm_plies": 15,
+      "model_top": {
+        "move": "a2a8",
+        "san": "Ra8+",
+        "one_ply_model_score": 0.9342530369758606,
+        "outcome": "win",
+        "dtm_total_plies": 27,
+        "dtm_child_stm": -26,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 12
+      },
+      "v4_choice": {
+        "move": "a2a7",
+        "san": "Ra7",
+        "one_ply_model_score": 0.9313371777534485,
+        "outcome": "win",
+        "dtm_total_plies": 19,
+        "dtm_child_stm": -18,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "original_choice": {
+        "move": "a2a7",
+        "san": "Ra7",
+        "one_ply_model_score": 0.9313371777534485,
+        "outcome": "win",
+        "dtm_total_plies": 19,
+        "dtm_child_stm": -18,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 18555,
+        "action": "move",
+        "score": 0.9477991461753845,
+        "seconds": 0.6616408000118099,
+        "ordering_hits": 796
+      }
+    },
+    {
+      "id": 2,
+      "case": 1,
+      "ply_index": 8,
+      "best_dtm_plies": 21,
+      "model_top": {
+        "move": "c7f7",
+        "san": "Rf7",
+        "one_ply_model_score": 0.953618586063385,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "v4_choice": {
+        "move": "c7b7",
+        "san": "Rb7",
+        "one_ply_model_score": 0.9513704776763916,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "c7b7",
+        "san": "Rb7",
+        "one_ply_model_score": 0.9513704776763916,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 11906,
+        "action": "move",
+        "score": 0.9527942538261414,
+        "seconds": 0.5440853000036441,
+        "ordering_hits": 461
+      }
+    },
+    {
+      "id": 3,
+      "case": 1,
+      "ply_index": 20,
+      "best_dtm_plies": 21,
+      "model_top": {
+        "move": "b7f7",
+        "san": "Rf7",
+        "one_ply_model_score": 0.953144371509552,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "v4_choice": {
+        "move": "b7f7",
+        "san": "Rf7",
+        "one_ply_model_score": 0.953144371509552,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "b7f7",
+        "san": "Rf7",
+        "one_ply_model_score": 0.953144371509552,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 17714,
+        "action": "move",
+        "score": 0.9513971209526062,
+        "seconds": 1.0451062000356615,
+        "ordering_hits": 713
+      }
+    },
+    {
+      "id": 4,
+      "case": 1,
+      "ply_index": 40,
+      "best_dtm_plies": 15,
+      "model_top": {
+        "move": "f7f4",
+        "san": "Rf4",
+        "one_ply_model_score": 0.9522200226783752,
+        "outcome": "win",
+        "dtm_total_plies": 27,
+        "dtm_child_stm": -26,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 12
+      },
+      "v4_choice": {
+        "move": "g3g4",
+        "san": "Kg4",
+        "one_ply_model_score": 0.9496763944625854,
+        "outcome": "win",
+        "dtm_total_plies": 17,
+        "dtm_child_stm": -16,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "g3g4",
+        "san": "Kg4",
+        "one_ply_model_score": 0.9496763944625854,
+        "outcome": "win",
+        "dtm_total_plies": 17,
+        "dtm_child_stm": -16,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 21496,
+        "action": "move",
+        "score": 0.9511796236038208,
+        "seconds": 1.2968135999981314,
+        "ordering_hits": 860
+      }
+    },
+    {
+      "id": 5,
+      "case": 1,
+      "ply_index": 60,
+      "best_dtm_plies": 11,
+      "model_top": {
+        "move": "e7b7",
+        "san": "Rb7",
+        "one_ply_model_score": 0.9526822566986084,
+        "outcome": "draw",
+        "dtm_total_plies": 17,
+        "dtm_child_stm": -16,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": true,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": null
+      },
+      "v4_choice": {
+        "move": "e7a7",
+        "san": "Ra7",
+        "one_ply_model_score": 0.9524081349372864,
+        "outcome": "win",
+        "dtm_total_plies": 15,
+        "dtm_child_stm": -14,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "original_choice": {
+        "move": "e7a7",
+        "san": "Ra7",
+        "one_ply_model_score": 0.9524081349372864,
+        "outcome": "win",
+        "dtm_total_plies": 15,
+        "dtm_child_stm": -14,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 12915,
+        "action": "move",
+        "score": 0.9536834955215454,
+        "seconds": 0.7643966999603435,
+        "ordering_hits": 505
+      }
+    },
+    {
+      "id": 6,
+      "case": 1,
+      "ply_index": 80,
+      "best_dtm_plies": 11,
+      "model_top": {
+        "move": "e7e5",
+        "san": "Re5",
+        "one_ply_model_score": 0.9529924392700195,
+        "outcome": "win",
+        "dtm_total_plies": 19,
+        "dtm_child_stm": -18,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 8
+      },
+      "v4_choice": {
+        "move": "e7f7",
+        "san": "Rf7",
+        "one_ply_model_score": 0.9485642313957214,
+        "outcome": "win",
+        "dtm_total_plies": 13,
+        "dtm_child_stm": -12,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "e7f7",
+        "san": "Rf7",
+        "one_ply_model_score": 0.9485642313957214,
+        "outcome": "win",
+        "dtm_total_plies": 13,
+        "dtm_child_stm": -12,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 17019,
+        "action": "move",
+        "score": 0.9530470967292786,
+        "seconds": 0.9731789999641478,
+        "ordering_hits": 740
+      }
+    },
+    {
+      "id": 7,
+      "case": 3,
+      "ply_index": 0,
+      "best_dtm_plies": 27,
+      "model_top": {
+        "move": "a1a7",
+        "san": "Ra7",
+        "one_ply_model_score": 0.9325653910636902,
+        "outcome": "win",
+        "dtm_total_plies": 29,
+        "dtm_child_stm": -28,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "v4_choice": {
+        "move": "a1a6",
+        "san": "Ra6",
+        "one_ply_model_score": 0.9271987676620483,
+        "outcome": "win",
+        "dtm_total_plies": 29,
+        "dtm_child_stm": -28,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "a1a6",
+        "san": "Ra6",
+        "one_ply_model_score": 0.9271987676620483,
+        "outcome": "win",
+        "dtm_total_plies": 29,
+        "dtm_child_stm": -28,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 30136,
+        "action": "move",
+        "score": 0.9376516342163086,
+        "seconds": 1.3335189999779686,
+        "ordering_hits": 937
+      }
+    },
+    {
+      "id": 8,
+      "case": 3,
+      "ply_index": 8,
+      "best_dtm_plies": 25,
+      "model_top": {
+        "move": "c8c7",
+        "san": "Rc7",
+        "one_ply_model_score": 0.9430145621299744,
+        "outcome": "win",
+        "dtm_total_plies": 29,
+        "dtm_child_stm": -28,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "v4_choice": {
+        "move": "c8c7",
+        "san": "Rc7",
+        "one_ply_model_score": 0.9430145621299744,
+        "outcome": "win",
+        "dtm_total_plies": 29,
+        "dtm_child_stm": -28,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "original_choice": {
+        "move": "c8c7",
+        "san": "Rc7",
+        "one_ply_model_score": 0.9430145621299744,
+        "outcome": "win",
+        "dtm_total_plies": 29,
+        "dtm_child_stm": -28,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 24762,
+        "action": "move",
+        "score": 0.9411167502403259,
+        "seconds": 1.1099970000213943,
+        "ordering_hits": 809
+      }
+    },
+    {
+      "id": 9,
+      "case": 3,
+      "ply_index": 20,
+      "best_dtm_plies": 21,
+      "model_top": {
+        "move": "f5e6",
+        "san": "Ke6",
+        "one_ply_model_score": 0.9250891208648682,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "v4_choice": {
+        "move": "f5f6",
+        "san": "Kf6",
+        "one_ply_model_score": 0.9142275452613831,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "f5f6",
+        "san": "Kf6",
+        "one_ply_model_score": 0.9142275452613831,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 25576,
+        "action": "move",
+        "score": 0.958511471748352,
+        "seconds": 1.2281143000000156,
+        "ordering_hits": 849
+      }
+    },
+    {
+      "id": 10,
+      "case": 3,
+      "ply_index": 40,
+      "best_dtm_plies": 23,
+      "model_top": {
+        "move": "d6d7",
+        "san": "Rd7",
+        "one_ply_model_score": 0.9180487394332886,
+        "outcome": "win",
+        "dtm_total_plies": 25,
+        "dtm_child_stm": -24,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "v4_choice": {
+        "move": "d6d4",
+        "san": "Rd4",
+        "one_ply_model_score": 0.9066560864448547,
+        "outcome": "win",
+        "dtm_total_plies": 25,
+        "dtm_child_stm": -24,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "d6d4",
+        "san": "Rd4",
+        "one_ply_model_score": 0.9066560864448547,
+        "outcome": "win",
+        "dtm_total_plies": 25,
+        "dtm_child_stm": -24,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 35784,
+        "action": "move",
+        "score": 0.9522031545639038,
+        "seconds": 2.4162764999782667,
+        "ordering_hits": 1212
+      }
+    },
+    {
+      "id": 11,
+      "case": 3,
+      "ply_index": 60,
+      "best_dtm_plies": 23,
+      "model_top": {
+        "move": "c2c8",
+        "san": "Rc8",
+        "one_ply_model_score": 0.9290422797203064,
+        "outcome": "win",
+        "dtm_total_plies": 23,
+        "dtm_child_stm": -22,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "v4_choice": {
+        "move": "c2c6",
+        "san": "Rc6",
+        "one_ply_model_score": 0.9202430844306946,
+        "outcome": "win",
+        "dtm_total_plies": 25,
+        "dtm_child_stm": -24,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "original_choice": {
+        "move": "c2c6",
+        "san": "Rc6",
+        "one_ply_model_score": 0.9202430844306946,
+        "outcome": "win",
+        "dtm_total_plies": 25,
+        "dtm_child_stm": -24,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 2
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 21687,
+        "action": "move",
+        "score": 0.9388138055801392,
+        "seconds": 1.5412194000091404,
+        "ordering_hits": 790
+      }
+    },
+    {
+      "id": 12,
+      "case": 3,
+      "ply_index": 80,
+      "best_dtm_plies": 19,
+      "model_top": {
+        "move": "g7h7",
+        "san": "Kh7",
+        "one_ply_model_score": 0.9511361718177795,
+        "outcome": "draw",
+        "dtm_total_plies": 27,
+        "dtm_child_stm": -26,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": false,
+        "extra_dtm_plies": null
+      },
+      "v4_choice": {
+        "move": "g7f7",
+        "san": "Kf7",
+        "one_ply_model_score": 0.9491909146308899,
+        "outcome": "win",
+        "dtm_total_plies": 19,
+        "dtm_child_stm": -18,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "original_choice": {
+        "move": "g7f7",
+        "san": "Kf7",
+        "one_ply_model_score": 0.9491909146308899,
+        "outcome": "win",
+        "dtm_total_plies": 19,
+        "dtm_child_stm": -18,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 35463,
+        "action": "move",
+        "score": 0.9503325819969177,
+        "seconds": 2.427926199976355,
+        "ordering_hits": 1028
+      }
+    },
+    {
+      "id": 13,
+      "case": "40-game16-success",
+      "ply_index": 175,
+      "best_dtm_plies": 7,
+      "model_top": {
+        "move": "c3b3",
+        "san": "Kb3",
+        "one_ply_model_score": 0.9962309002876282,
+        "outcome": "win",
+        "dtm_total_plies": 13,
+        "dtm_child_stm": -12,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 6
+      },
+      "v4_choice": {
+        "move": "g1g3",
+        "san": "Qg3",
+        "one_ply_model_score": 0.9960497617721558,
+        "outcome": "win",
+        "dtm_total_plies": 7,
+        "dtm_child_stm": -6,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "original_choice": {
+        "move": "g1g3",
+        "san": "Qg3",
+        "one_ply_model_score": 0.9960497617721558,
+        "outcome": "win",
+        "dtm_total_plies": 7,
+        "dtm_child_stm": -6,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 40506,
+        "action": "move",
+        "score": 0.9986611008644104,
+        "seconds": 2.4659322000225075,
+        "ordering_hits": 1256
+      }
+    },
+    {
+      "id": 14,
+      "case": "40-game16-success",
+      "ply_index": 177,
+      "best_dtm_plies": 5,
+      "model_top": {
+        "move": "g3f4",
+        "san": "Qf4+",
+        "one_ply_model_score": 0.9960711598396301,
+        "outcome": "win",
+        "dtm_total_plies": 11,
+        "dtm_child_stm": -10,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 6
+      },
+      "v4_choice": {
+        "move": "g3h2",
+        "san": "Qh2",
+        "one_ply_model_score": 0.9958847165107727,
+        "outcome": "win",
+        "dtm_total_plies": 5,
+        "dtm_child_stm": -4,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "original_choice": {
+        "move": "g3h2",
+        "san": "Qh2",
+        "one_ply_model_score": 0.9958847165107727,
+        "outcome": "win",
+        "dtm_total_plies": 5,
+        "dtm_child_stm": -4,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 45010,
+        "action": "move",
+        "score": 999.95,
+        "seconds": 2.5842069999780506,
+        "ordering_hits": 1248
+      }
+    },
+    {
+      "id": 15,
+      "case": "40-game16-success",
+      "ply_index": 179,
+      "best_dtm_plies": 3,
+      "model_top": {
+        "move": "h2f4",
+        "san": "Qf4",
+        "one_ply_model_score": 0.9962626695632935,
+        "outcome": "win",
+        "dtm_total_plies": 7,
+        "dtm_child_stm": -6,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 4
+      },
+      "v4_choice": {
+        "move": "h2g2",
+        "san": "Qg2",
+        "one_ply_model_score": 0.9961903691291809,
+        "outcome": "win",
+        "dtm_total_plies": 3,
+        "dtm_child_stm": -2,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "original_choice": {
+        "move": "h2g2",
+        "san": "Qg2",
+        "one_ply_model_score": 0.9961903691291809,
+        "outcome": "win",
+        "dtm_total_plies": 3,
+        "dtm_child_stm": -2,
+        "dtm_preserves_win_ignoring_claims": true,
+        "defender_can_claim_draw": false,
+        "within_fifty_move_budget": true,
+        "extra_dtm_plies": 0
+      },
+      "search": {
+        "depth": 5,
+        "nodes": 47823,
+        "action": "move",
+        "score": 999.97,
+        "seconds": 2.5104716999921948,
+        "ordering_hits": 1480
+      }
+    },
+    {
+      "id": 16,
+      "case": "40-game16-success",
+      "ply_index": 181,
+      "best_dtm_plies": 1,
+      "model_top": {
+        "move": "g2d2",
+        "san": "Qd2#",
+        "one_ply_model_score": 1000.0,
+        "outcome": "win",
+        "dtm_total_plies": 1,
+        "terminal": "CHECKMATE",
+        "extra_dtm_plies": 0
+      },
+      "v4_choice": {
+        "move": "g2f1",
+        "san": "Qf1#",
+        "one_ply_model_score": 1000.0,
+        "outcome": "win",
+        "dtm_total_plies": 1,
+        "terminal": "CHECKMATE",
+        "extra_dtm_plies": 0
+      },
+      "original_choice": {
+        "move": "g2f1",
+        "san": "Qf1#",
+        "one_ply_model_score": 1000.0,
+        "outcome": "win",
+        "dtm_total_plies": 1,
+        "terminal": "CHECKMATE",
+        "extra_dtm_plies": 0
+      },
+      "search": {
+        "depth": 0,
+        "nodes": 0,
+        "seconds": 0.0,
+        "ordering_hits": 0
+      }
+    }
+  ]
+}
