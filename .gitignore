@@ -31,3 +31,15 @@ stockfish-windows-x86-64-universal/
 .venv/
 __pycache__/
 *.pyc
+
+.venv/
+__pycache__/
+*.pyc
+*.jsonl
+*.pgn
+*.csv
+*.zst
+*.zip
+syzygy/
+*_runs/
+games_*/
